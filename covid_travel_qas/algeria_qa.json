@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What test is mandatory upon arrival in algeria?",
+              "answers": [
+                {
+                  "text": "antigen",
+                  "answer_start": 45
+                }
+              ]
+            },
+            {
+              "question": "How do you pay for the mandatory antigen test on arrival in algeria?",
+              "answers": [
+                {
+                  "text": "cash",
+                  "answer_start": 115
+                }
+              ]
+            }
+          ],
+          "context": "All travellers will also have to complete an antigen test on arrival in Algeria. Antigen tests must be paid for in cash. All travellers must bring sufficient cash with them as there are no opportunities to withdraw cash before the antigen test. Payment must be made of either Euros, US Dollars, or 1,600 Algerian Dinar. You should arrange to take a private test."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the risks if you do not comply with restrictions in algeria?",
+              "answers": [
+                {
+                  "text": "prison",
+                  "answer_start": 238
+                }
+              ]
+            }
+          ],
+          "context": "All security services and local authorities have been instructed to rigorously monitor and enforce compliance with preventive and other social distancing measures. Penalties include fines up to the equivalent of \\u00a3600, and 6 months imprisonment."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "In algeria, are restaurants open?",
+              "answers": [
+                {
+                  "text": "Recreational areas, beaches, cultural centres, sports facilities, restaurants, fast food outlets, cafes and most markets are open",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Recreational areas, beaches, cultural centres, sports facilities, restaurants, fast food outlets, cafes and most markets are open. Weddings, funerals and other large gatherings are allowed within certain rules. Primary schools, secondary schools and universities reopened in 2020, with additional COVID-19 measures in place. The 2021 to 22 school year began on 21 September. Universities re-opened in October."
+        }
+      ]
+    }
+  ]
+}

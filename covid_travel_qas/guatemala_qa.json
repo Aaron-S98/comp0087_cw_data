@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to socially distance in guatemala?",
+              "answers": [
+                {
+                  "text": "You must keep to the social distancing rules and wear a mask at all times in all public spaces, including at the airport.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "You must keep to the social distancing rules and wear a mask at all times in all public spaces, including at the airport. From 10 January 2022, to be eligible for entry, foriegn nationals visiting Guatemala must show the following upon arrival: Proof of a full course of COVID-19 vaccination (if aged 12 and over) (two doses; or one for the Johnson and Johnson vaccine). The last dose must have been administered no less than 2 weeks prior to the date of travel. See \u2018Demonstrating your COVID-19 status\u2019 below. If vaccination is not possible as a result of a medical condition, you should present proof of that medical condition; and A negative COVID-19 PCR or antigen test (if aged 10 and over) dated no more than 3 days before the date of your arrival in Guatemala. The 3 days are measured from the date and time the test is conducted to the moment you check in with the airline, or arrive at the land border."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How can i prove my covid-19 vaccine status?",
+              "answers": [
+                {
+                  "text": "Guatemala will accept proof of COVID-19 recovery and vaccination record and proof of COVID-19 vaccination issued in the Crown Dependencies.",
+                  "answer_start": 48
+                }
+              ]
+            },
+            {
+              "question": "Will i need to take a covid-19 test on arrival in guatemala?",
+              "answers": [
+                {
+                  "text": "You should comply with any additional screening or testing measures put in place by the authorities.",
+                  "answer_start": 461
+                }
+              ]
+            },
+            {
+              "question": "Do i need to test on departure from guatemala?",
+              "answers": [
+                {
+                  "text": "There is currently no testing upon departure in Guatemala. They will take your temperature upon arrival at the airport.",
+                  "answer_start": 583
+                }
+              ]
+            }
+          ],
+          "context": "Demonstrating your COVID-19 vaccination status: Guatemala will accept proof of COVID-19 recovery and vaccination record and proof of COVID-19 vaccination issued in the Crown Dependencies. Your final vaccine dose must have been administered at least 14 days prior to travel. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. Testing/screening on arrival: You should comply with any additional screening or testing measures put in place by the authorities.Testing on departure: There is currently no testing upon departure in Guatemala. They will take your temperature upon arrival at the airport."
+        }
+      ]
+    }
+  ]
+}

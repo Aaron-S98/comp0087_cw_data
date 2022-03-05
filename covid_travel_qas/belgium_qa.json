@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How far in advance do you have to fill in the passenger locator form when travelling to belgium?",
+              "answers": [
+                {
+                  "text": "6 months before entering",
+                  "answer_start": 62
+                }
+              ]
+            },
+            {
+              "question": "Are land border exempt from filling out the plf in belgium?",
+              "answers": [
+                {
+                  "text": "same applies to people who travel to Belgium by train or bus",
+                  "answer_start": 572
+                }
+              ]
+            },
+            {
+              "question": "Why does belgium use a passenger locator form?",
+              "answers": [
+                {
+                  "text": "To determine the quarantine measures",
+                  "answer_start": 106
+                }
+              ]
+            }
+          ],
+          "context": "Passenger Locator Form: all travellers must fill it in within 6 months before entering Belgium.Important: To determine the quarantine measures, the PLF will take into consideration the areas where you have been in the 14 days before travelling. If the zones have changed colour, measures will apply retroactively. There is an exception when the person is traveling by specific travel means and staying less than 48 hours abroad, or less than 48 hours in Belgium. Persons who travel to Belgium by boat or plane are always obliged to fill in the Passenger Locator Form. The same applies to people who travel to Belgium by train or bus from outside the EU or Schengen area."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What vaccination certification is required to be considered as fully vaccinated in belgium?",
+              "answers": [
+                {
+                  "text": "EMA or Covidshield",
+                  "answer_start": 256
+                }
+              ]
+            },
+            {
+              "question": "How dated does my last vaccine need to be to be considered fully vaccinated in belgium?",
+              "answers": [
+                {
+                  "text": "You are fully vaccinated if your last injection was at least two weeks ago",
+                  "answer_start": 148
+                }
+              ]
+            }
+          ],
+          "context": "COVID certificates; there are three types of certificates: vaccination certificate proves that you are fully vaccinated against the COVID-19 virus. You are fully vaccinated if your last injection was at least two weeks ago, and the vaccine is certified by EMA or Covidshield. certificate of recovery proves that you have been infected with COVID-19 and have recovered. You have had a positive PCR test less than 180 days old and your isolation period has ended. test certificate proves that you have had a negative PCR test. This can be a negative PCR test of maximum 72 hours or a negative antigen test of maximum 36 hours."
+        }
+      ]
+    }
+  ]
+}

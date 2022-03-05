@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to take a covid test to enter gambia, if i am vaccinated?",
+              "answers": [
+                {
+                  "text": "Fully vaccinated passengers arriving do not require a negative PCR COVID-19 test to enter The Gambia.",
+                  "answer_start": 183
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive for covid on arrival at gambia?",
+              "answers": [
+                {
+                  "text": "If found positive, you will be quarantined at a government facility until your test returns a negative result.",
+                  "answer_start": 397
+                }
+              ]
+            }
+          ],
+          "context": "Entry to The Gambia: A variety of commercial flights service The Gambia. Check availability with your travel company for the latest information. The land border with Senegal is open. Fully vaccinated passengers arriving do not require a negative PCR COVID-19 test to enter The Gambia. You must show proof of vaccination. To enter The Gambia you will be asked to submit to a Rapid Diagnostic Test. If found positive, you will be quarantined at a government facility until your test returns a negative result. Non-vaccinated or partially vaccinated passengers arriving will require a negative PCR COVID-19 certificate, taken no more than 72 hours before arrival. Passengers will also be asked to submit to a Rapid Diagnostic Test. If found positive, you will be quarantined at a government facility until your test returns a negative result. Infants below 2 years of age are exempt. All other passengers must show proof of full vaccination or a negative PCR COVID-19 certificate."
+        }
+      ]
+    }
+  ]
+}

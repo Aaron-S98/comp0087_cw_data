@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What happens if i test positive upon arrival in benin?",
+              "answers": [
+                {
+                  "text": "subject to government-mandated isolation measures and will receive treatment free of charge",
+                  "answer_start": 45
+                }
+              ]
+            }
+          ],
+          "context": "Those who test positive for COVID-19 will be subject to government-mandated isolation measures and will receive treatment free of charge."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long do covid test take to get results in benin?",
+              "answers": [
+                {
+                  "text": "up to 72 hours",
+                  "answer_start": 68
+                }
+              ]
+            },
+            {
+              "question": "Where do i quarantine if i test positive and have serious symptoms in benin?",
+              "answers": [
+                {
+                  "text": "at a government hospital",
+                  "answer_start": 175
+                }
+              ]
+            }
+          ],
+          "context": "COVID-19 test results are sent via an SMS text message. It can take up to 72 hours to receive the result from the day the test was taken. Those who test positive must isolate at a government hospital if the condition is serious. Alternatively, those who test positive with mild symptoms or no symptoms are required to self-isolate at a location of their choice."
+        }
+      ]
+    }
+  ]
+}

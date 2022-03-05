@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there restrictions on regional travel in croatia?",
+              "answers": [
+                {
+                  "text": "There are no restrictions on regional travel within Croatia.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i have to wear a mask on a bus in croatia?",
+              "answers": [
+                {
+                  "text": "It is mandatory for passengers to wear masks on public transport",
+                  "answer_start": 72
+                }
+              ]
+            },
+            {
+              "question": "Where should i social distance in croatia?",
+              "answers": [
+                {
+                  "text": "You should exercise caution and follow social distancing rules when attending busy venues",
+                  "answer_start": 327
+                }
+              ]
+            },
+            {
+              "question": "Does croatia accept proof of covid recovery?",
+              "answers": [
+                {
+                  "text": "Croatia will accept the proof of COVID-19 recovery",
+                  "answer_start": 757
+                }
+              ]
+            }
+          ],
+          "context": "There are no restrictions on regional travel within Croatia.Face masks: It is mandatory for passengers to wear masks on public transport, taxis and in shops and other commercial premises. Public places and services: There have been reports of a number of coronavirus cases associated with visits to bars and other busy venues. You should exercise caution and follow social distancing rules when attending busy venues. From 16 November, anyone entering public services, local and regional municipalities, state-owned companies and institutions will be required to show either a digital COVID-19 certificate or appropriate proof of vaccination, proof of recovery or a negative test. You may also be asked to show identification along with your COVID-19 pass. Croatia will accept the proof of COVID-19 recovery and vaccination record. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status."
+        }
+      ]
+    }
+  ]
+}

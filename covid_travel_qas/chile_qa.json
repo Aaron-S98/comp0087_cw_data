@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When can i request a mobility pass in chile?",
+              "answers": [
+                {
+                  "text": "14-days after completing a full COVID-19 vaccination course in Chile",
+                  "answer_start": 209
+                }
+              ]
+            },
+            {
+              "question": "Where can i check if i am eligible for a chilean mobility pass?",
+              "answers": [
+                {
+                  "text": "eligibility criteria on the Chile Government website",
+                  "answer_start": 50
+                }
+              ]
+            }
+          ],
+          "context": "You may obtain a Mobility Pass if you fulfill the eligibility criteria on the Chile Government website. This will generate a QR-code after entering your personal information. This permit can only be requested 14-days after completing a full COVID-19 vaccination course in Chile (i.e. after the second dose for a two-dose course COVID-19 vaccine such as AstraZeneca, Pfizer, etc)."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel in chile when i am in quarantine?",
+              "answers": [
+                {
+                  "text": "you are not allowed interregional travel if you are in quarantine",
+                  "answer_start": 25
+                }
+              ]
+            }
+          ],
+          "context": "You should be aware that you are not allowed interregional travel if you are in quarantine after arriving in Chile. Non-resident foreign nationals will need to hold a valid Mobility Pass."
+        }
+      ]
+    }
+  ]
+}

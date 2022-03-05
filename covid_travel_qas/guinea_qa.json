@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to wear a mask in guinea?",
+              "answers": [
+                {
+                  "text": "Masks are mandatory and travellers must have at least three for the trip.",
+                  "answer_start": 265
+                }
+              ]
+            },
+            {
+              "question": "How do i demonstrate my vaccine status in guinea?",
+              "answers": [
+                {
+                  "text": "Guinea will accept the proof of COVID-19 recovery and vaccination record",
+                  "answer_start": 710
+                }
+              ]
+            },
+            {
+              "question": "What should i do if i have covid-19 symptoms?",
+              "answers": [
+                {
+                  "text": "If anyone shows symptoms of COVID-19 they should self isolate, telephone 115",
+                  "answer_start": 526
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Guinea: Conakry airport is open. You should contact your airline or travel company for the latest information about flights. If you need further information about entry requirements, contact the local immigration authorities or the nearest Guinean Embassy.Masks are mandatory and travellers must have at least three for the trip. There will be controlled disembarkation of planes. Temperature checks and health controls are in place on departure and arrival at the airport for all passengers.Quarantine requirements: If anyone shows symptoms of COVID-19 they should self isolate, telephone 115 and follow Agence Nationale S\u00e9curit\u00e9 Sant\u00e9 (ANSS) guidance.Demonstrating your COVID-19 vaccination status: Guinea will accept the proof of COVID-19 recovery and vaccination record Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status."
+        }
+      ]
+    }
+  ]
+}

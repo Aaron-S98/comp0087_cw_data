@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel to hong kong from the uk?",
+              "answers": [
+                {
+                  "text": "Travellers who have visited the UK, or 7 other designated countries, within the past 21 days are not currently permitted to enter Hong Kong or transit through Hong Kong International Airport.",
+                  "answer_start": 20
+                }
+              ]
+            },
+            {
+              "question": "Will i need to quarantine on arrival at hong kong?",
+              "answers": [
+                {
+                  "text": "rom 5 February, travellers arriving at Hong Kong International Airport from all places other than mainland China, Macao and Taiwan will need to undergo 14 days quarantine at a designated quarantine hotel.",
+                  "answer_start": 271
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Hong Kong: Travellers who have visited the UK, or 7 other designated countries, within the past 21 days are not currently permitted to enter Hong Kong or transit through Hong Kong International Airport. From 5 February, this period will be shortened to 14 days.From 5 February, travellers arriving at Hong Kong International Airport from all places other than mainland China, Macao and Taiwan will need to undergo 14 days quarantine at a designated quarantine hotel. On arrival, travellers will need to provide confirmation of a hotel room reservation at their designated quarantine hotel.Most travellers arriving from abroad must be fully vaccinated Hong Kong residents. Proof of a single dose of the BioNTech vaccination will be accepted for 12-17 year-old Hong Kong residents travelling from abroad, or those unable to receive a second vaccination for health reasons. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Should i take a covid-19 test before travelling to hong kong?",
+              "answers": [
+                {
+                  "text": "Travellers arriving to Hong Kong will need to provide a negative nucleic acid test result for COVID-19, taken no more than 48 hours prior to their departure.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Will i need a face mask at hong kong airport?",
+              "answers": [
+                {
+                  "text": "All passengers, whether departing, arriving or transferring/transiting need to wear facemasks in all passenger accessible areas of Hong Kong International Airport.",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "question": "How do i prove my vaccine status in hong kong?",
+              "answers": [
+                {
+                  "text": "Hong Kong will accept proof of COVID-19 recovery and vaccination record and proof of COVID-19 vaccination issued in the Crown Dependencies.",
+                  "answer_start": 773
+                }
+              ]
+            }
+          ],
+          "context": "Travellers arriving to Hong Kong will need to provide a negative nucleic acid test result for COVID-19, taken no more than 48 hours prior to their departure. The Hong Kong Government has specified that this must be a polymerase chain reaction (PCR) based nucleic acid test. Other types of tests such as the reverse transcription loop-mediated isothermal amplification (RT- LAMP) will not be accepted and do not fulfil the relevant boarding requirement. You will need a separate certificate confirming that the testing laboratory meets the required standards.At the airport: All passengers, whether departing, arriving or transferring/transiting need to wear facemasks in all passenger accessible areas of Hong Kong International Airport.Demonstrating your COVID-19 status: Hong Kong will accept proof of COVID-19 recovery and vaccination record and proof of COVID-19 vaccination issued in the Crown Dependencies. Your last vaccine dose must have been administered at least 14 days prior to travel. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the quarantine requirements in hong kong?",
+              "answers": [
+                {
+                  "text": "you are not allowed to leave your designated quarantine location/room for 14 days. This means you\u2019re also unable to leave Hong Kong for the duration of the quarantine",
+                  "answer_start": 357
+                }
+              ]
+            }
+          ],
+          "context": "Quarantine requirements: Quarantine following travel is mostly spent at either the Hong Kong SAR Government\u2019s Penny\u2019s Bay Quarantine Centre, or a designated hotel.Family members of someone who tests positive, or those who have been in contact with a positive case, will be placed in a government quarantine centre. For quarantine arrangements in Hong Kong: you are not allowed to leave your designated quarantine location/room for 14 days. This means you\u2019re also unable to leave Hong Kong for the duration of the quarantine, if you are allocated a government quarantine centre, you may be asked to contribute around HK$200 per night towards the cost, items that can be taken in to government quarantine are restricted. There is no smoking allowed and no alcohol. Depending on your centre, facilities may be basic: there may be no fridge and no air-conditioning."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need proof of vaccination in hong kong?",
+              "answers": [
+                {
+                  "text": "From 24 February, proof of vaccination against Covid-19 will be required to enter a range of venues, including restaurants, gyms, swimming pools and hotels.",
+                  "answer_start": 477
+                }
+              ]
+            }
+          ],
+          "context": "During your quarantine period, the location of your mobile phone will be tracked, and you will be contacted if you leave the place where you are quarantining. Travel in Hong Kong: There are local travel restrictions in place upon arrival in Hong Kong including mandatory quarantine. Following the detection of the Omicron Covid-19 variant in Hong Kong, restrictions have been placed on the operations of restaurants, bars, schools, museums and a number of other public places. From 24 February, proof of vaccination against Covid-19 will be required to enter a range of venues, including restaurants, gyms, swimming pools and hotels. Those who are under 18, or deemed medically unfit for vaccination, will be exempt from these requirements."
+        }
+      ]
+    }
+  ]
+}

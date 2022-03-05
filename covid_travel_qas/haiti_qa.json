@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i have to take a covid-19 test to travel to haiti?",
+              "answers": [
+                {
+                  "text": "The Government of Haiti has announced that beginning on February 9, 2021, it will require negative COVID tests from all passengers prior to boarding flights into Haiti.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "The Government of Haiti has announced that beginning on February 9, 2021, it will require negative COVID tests from all passengers prior to boarding flights into Haiti. These tests must have been taken no more than 72 hours prior to boarding and may be Antigen or PCR type. If you travel to Haiti by air you may have your temperature taken upon arrival. From 9 February, individuals travelling to Haiti will be required to provide proof of a negative COVID-19 test prior to boarding flights. This may be may be either an Antigen or PCR test, and must have been taken no more than 72 hours prior to boarding. You will be required to complete a health declaration form on the flight, including contact and location information in Haiti, and present it to immigration authorities upon arrival. You may be asked to self isolate for 14 days in your own accommodation. Travel in Haiti: Authorities have declared a state of emergency until 30 May 2021. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is it necessary to wear a mask in haiti?",
+              "answers": [
+                {
+                  "text": "the wearing of face masks in public places is compulsory",
+                  "answer_start": 198
+                }
+              ]
+            }
+          ],
+          "context": "Travel in Haiti: Authorities have declared a state of emergency until 30 May 2021. Current measures still in place aimed at tackling the spread of the coronavirus are:a curfew between 10pm and 5am, the wearing of face masks in public places is compulsory, frequent handwashing/use of hand sanitizer, social distancing,  a 14 day self-isolation period for anyone entering the country with symptoms of COVID-19."
+        }
+      ]
+    }
+  ]
+}

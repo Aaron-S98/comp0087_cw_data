@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What test is required to enter aruba?",
+              "answers": [
+                {
+                  "text": "antigen or a PCR test",
+                  "answer_start": 125
+                }
+              ]
+            },
+            {
+              "question": "From what age do travelers need to show a negative test when entering aruba?",
+              "answers": [
+                {
+                  "text": "over the age of 12",
+                  "answer_start": 14
+                }
+              ]
+            }
+          ],
+          "context": "All travelers over the age of 12 must present a negative COVID-19 test result when entering Aruba. The test can be either an antigen or a PCR test and must have been carried out no more than 24 hours before departure. A health screening and temperature check will be carried out on arrival."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What armenian land borders are open?",
+              "answers": [
+                {
+                  "text": "Borders with Georgia and Iran",
+                  "answer_start": 46
+                }
+              ]
+            },
+            {
+              "question": "What is the status of the border controls in georgia and iran?",
+              "answers": [
+                {
+                  "text": "neighboring countries retain their own strict border controls",
+                  "answer_start": 112
+                }
+              ]
+            }
+          ],
+          "context": "On 12 January 2021, Armenia reopened its land borders with Georgia and Iran to foreign nationals. However, both neighboring countries retain their own strict border controls in response to COVID-19. You should check Georgia and Iran entry/exit requirements before attempting to cross land borders to/from Armenia."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where do i have to wear a mask in armenia?",
+              "answers": [
+                {
+                  "text": "in all public or private transport, and in all public spaces",
+                  "answer_start": 25
+                }
+              ]
+            }
+          ],
+          "context": "You must wear a facemask in all public or private transport, and in all public spaces. Breaches of mask-wearing protocols are subject to a 10,000AMD fine. You should follow the advice of the Armenian authorities on permitted activities."
+        }
+      ]
+    }
+  ]
+}

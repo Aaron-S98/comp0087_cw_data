@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which airlines are flying to guadeloupe?",
+              "answers": [
+                {
+                  "text": "Air France and Air Antilles are operating flights to Guadeloupe.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Will i need to take a covid test to travel to  guadeloup?",
+              "answers": [
+                {
+                  "text": "All travellers over the age of 11 must undertake a test for COVID-19 within 72 hours before departure for Guadeloupe.",
+                  "answer_start": 65
+                }
+              ]
+            }
+          ],
+          "context": "Air France and Air Antilles are operating flights to Guadeloupe. All travellers over the age of 11 must undertake a test for COVID-19 within 72 hours before departure for Guadeloupe. The test is obligatory and the traveller must show proof of a negative result before embarking. Travellers must also provide a self -certified document affirming that they have no COVID symptoms and that to their knowledge they have not been in contact with any person confirmed positive within the last 14 days. Airlines will refuse boarding to anyone who does not produce both proof of a negative result and the self-certified document. The French Government has outlined new measures to stem the spread of coronavirus, which also apply to the French Overseas Territories."
+        }
+      ]
+    }
+  ]
+}

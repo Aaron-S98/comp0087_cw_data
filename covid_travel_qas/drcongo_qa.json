@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When did the drc open their borders?",
+              "answers": [
+                {
+                  "text": "DRC authorities opened their international and internal borders on 15 August",
+                  "answer_start": 126
+                }
+              ]
+            },
+            {
+              "question": "Are flights into the drc running?",
+              "answers": [
+                {
+                  "text": "Commercial flights to and from DRC are in operation",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Commercial flights to and from DRC are in operation but last minute delays and / or cancellations are possible. Entry to DRC: DRC authorities opened their international and internal borders on 15 August. DRC neighbouring countries may have border restrictions in place. If you are planning travel in the region, you should check the travel advice for Republic of Congo, Central African Republic, South Sudan, Rwanda, Burundi, Tanzania, Zambia and Angola."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "At what age does one need to provide a test when entering the drc/?",
+              "answers": [
+                {
+                  "text": "Travellers aged 11 and above need to provide proof of a negative coronavirus test",
+                  "answer_start": 84
+                }
+              ]
+            },
+            {
+              "question": "What should i do other than testing when entering the drc?",
+              "answers": [
+                {
+                  "text": "register online",
+                  "answer_start": 612
+                }
+              ]
+            }
+          ],
+          "context": "All travellers entering DRC are subject to screening, including temperature checks. Travellers aged 11 and above need to provide proof of a negative coronavirus test upon entry to DRC and/or proof of vaccination against COVID-19. The test result date must be within the 72 hours prior to your arrival date. Children under the age of 11 are exempt. In addition, the Congolese Civil Aviation Authority has announced that all passengers, even those vaccinated, will be subjected to a PCR COVID-19 test at the airport upon arrival. Passengers are therefore invited, prior to boarding in the country of departure, to register online"
+        }
+      ]
+    }
+  ]
+}

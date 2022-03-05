@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is exempt from showing vaccination status when entering bosnia?",
+              "answers": [
+                {
+                  "text": "diplomats travelling to Bosnia and Herzegovina on official duties, EUFOR/NATO staff, freight drivers and crew, and foreigners in transit",
+                  "answer_start": 50
+                }
+              ]
+            }
+          ],
+          "context": "Some groups are exempt from this rule, including: diplomats travelling to Bosnia and Herzegovina on official duties, EUFOR/NATO staff, freight drivers and crew, and foreigners in transit to their country of residence. Changes to restrictions may be introduced at short notice. You should comply with any screening measures put in place by the authorities. You should arrange to take a private test. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where is mask wearing and social distancing required in bosnia and herzegozina?",
+              "answers": [
+                {
+                  "text": "in public transport, in public places and outside in crowded areas",
+                  "answer_start": 175
+                }
+              ]
+            },
+            {
+              "question": "What is at risk if i do not respect rules in bosnia?",
+              "answers": [
+                {
+                  "text": "fines",
+                  "answer_start": 365
+                }
+              ]
+            }
+          ],
+          "context": "Everyone should comply with the measures put in place in Bosnia and Herzegovina to limit the spread of coronavirus (COVID-19). Mask wearing and social distancing are required in public transport, in public places and outside in crowded areas, and there can be restrictions on the numbers of people gathering. Failure to observe public health measures can result in fines (see Protective clothing below). You should follow the advice of all levels of authority as restrictions may be introduced without notice"
+        }
+      ]
+    }
+  ]
+}

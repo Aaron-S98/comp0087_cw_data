@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to be vaccinated to enter ghana?",
+              "answers": [
+                {
+                  "text": "All persons 18 years and over arriving into Ghana are required to provide evidence of being fully vaccinated against COVID-19.",
+                  "answer_start": 297
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Ghana: Kotoka International Airport is open. Commercial flights are operating to and from Ghana. Check with your travel company for the latest information. Land and sea borders remain closed. COVID-19 protocols at the airport may be subject to change as the new screening process evolves.All persons 18 years and over arriving into Ghana are required to provide evidence of being fully vaccinated against COVID-19. The Ghana Health Service defines a fully vaccinated person as someone who has taken the full dose of vaccines approved and registered by the Food and Drugs Authority of Ghana. This is one dose of Johnson and Johnson, or two doses of AstraZeneca, Pfizer, Moderna or Sputnik V."
+        }
+      ]
+    }
+  ]
+}

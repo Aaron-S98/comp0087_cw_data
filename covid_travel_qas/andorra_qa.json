@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What covid-19 mask wearing policies are there in andorra?",
+              "answers": [
+                {
+                  "text": "use of face masks is mandatory in enclosed public premises",
+                  "answer_start": 326
+                }
+              ]
+            }
+          ],
+          "context": "The Andorran authorities have various restrictions in place including social distancing of 1.5m unless specific protocols are in place. The use of a mask is not mandatory in public spaces and on urban roads, provided that there are no crowds of people that do not allow you to maintain the minimum distance of 1.5 meters. The use of face masks is mandatory in enclosed public premises such as bars, restaurants, shops and cultural establishments, among others. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What do andorran authorities consider a valid covid certificate?",
+              "answers": [
+                {
+                  "text": "vaccination certificate, a recovery certificate, or a negative diagnostic test",
+                  "answer_start": 43
+                }
+              ]
+            }
+          ],
+          "context": "The Andorran authorities consider either a vaccination certificate, a recovery certificate, or a negative diagnostic test as an acceptable COVID certificate."
+        }
+      ]
+    }
+  ]
+}

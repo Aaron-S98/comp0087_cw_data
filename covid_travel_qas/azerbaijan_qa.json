@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How to demonstrate proof of vaccination in azerbaijan?",
+              "answers": [
+                {
+                  "text": "proof of COVID-19 recovery and vaccination record",
+                  "answer_start": 71
+                }
+              ]
+            }
+          ],
+          "context": "Demonstrating your COVID-19 vaccination status: Azerbaijan will accept proof of COVID-19 recovery and vaccination record. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does azerbaijan require a negative test to depart the country?",
+              "answers": [
+                {
+                  "text": "Azerbaijan does not require you to produce a negative COVID-19 test",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Azerbaijan does not require you to produce a negative COVID-19 test to depart the country. However, you should check any testing requirements of the airlines that you are boarding, the country you are travelling to, as well as any countries you may be transiting to see what testing requirement they may have to enable you to travel. You should seek to have any test results you need to produce to fly received via email and printed off, or a paper certificate."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the status of covid-19 restrictions in azerbaijan?",
+              "answers": [
+                {
+                  "text": "no restrictions on travel around Azerbaijan",
+                  "answer_start": 20
+                }
+              ]
+            }
+          ],
+          "context": "There are currently no restrictions on travel around Azerbaijan. Most businesses and services are open. Almost all public places are only accessible for those with a COVID-19 Passport showing proof of vaccination or immunity. Supermarkets and chemists are exempt. British nationals vaccinated through the Azerbaijani vaccination programme can access a COVID-19 Passport via the local medical authorities (TABIB)"
+        }
+      ]
+    }
+  ]
+}

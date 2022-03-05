@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What requirements does your vaccination certificate need to have in austria?",
+              "answers": [
+                {
+                  "text": "same requirements above for the EUDCC",
+                  "answer_start": 95
+                }
+              ]
+            }
+          ],
+          "context": "Documents equivalent to the 'EU Digital COVID Certificate' are also accepted, if they meet the same requirements above for the EUDCC."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does my ten year old need to provide proof of vaccination to travel in austria?",
+              "answers": [
+                {
+                  "text": "Children under 12 years and travelling with an adult are generally exempt",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What does my 15 year old child need to provide to travel in austria?",
+              "answers": [
+                {
+                  "text": "proof of vaccination, recovery or a negative test result",
+                  "answer_start": 104
+                }
+              ]
+            }
+          ],
+          "context": "Children under 12 years and travelling with an adult are generally exempt from the requirement to carry proof of vaccination, recovery or a negative test result."
+        }
+      ]
+    }
+  ]
+}

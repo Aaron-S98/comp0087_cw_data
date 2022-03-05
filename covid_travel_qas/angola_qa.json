@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What airlines are currently flying to angola?",
+              "answers": [
+                {
+                  "text": "TAP Air Portugal, Lufthansa, Air France, Brussels Airlines, Turkish Airlines, Emirates and Ethiopian Airlines",
+                  "answer_start": 88
+                }
+              ]
+            }
+          ],
+          "context": "There are a number of indirect commercial flights between the UK and Angola operated by TAP Air Portugal, Lufthansa, Air France, Brussels Airlines, Turkish Airlines, Emirates and Ethiopian Airlines."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the requirements when entering angola?",
+              "answers": [
+                {
+                  "text": "negative COVID-19 PCR test completed 72 hours before travel",
+                  "answer_start": 50
+                }
+              ]
+            }
+          ],
+          "context": "All passengers are required to show evidence of a negative COVID-19 PCR test completed 72 hours before travel to Angola. All passengers are required to complete an Advance Passenger Information form (FRV form) 72 hours before travel to Angola. Several travel documents must be uploaded onto the form in PDF format to be accepted before entry to Angola. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the protocol upon arrival in angola?",
+              "answers": [
+                {
+                  "text": "rapid COVID-19 test",
+                  "answer_start": 171
+                }
+              ]
+            }
+          ],
+          "context": "In addition to the requirement to show evidence of a negative COVID-19 test completed 72 hours before arrival in Angola, all arriving passengers are required to undergo a rapid COVID-19 test immediately on disembarkation from the plane. The cost of the test is approximately USD $20 and is payable by Angolan bank card, credit card or in cash on arrival. The test is undertaken in a hangar at the airport, but can take time. It usually takes approximately 20 to 40 minutes, depending on the number of passengers being processed, but it is advisable to carry water and a refreshment in case there is a long wait."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is exempt from quarantine when entering angola?",
+              "answers": [
+                {
+                  "text": "fully vaccinated and test negative on disembarkation are exempt from any quarantine ",
+                  "answer_start": 82
+                }
+              ]
+            }
+          ],
+          "context": "On 14 January 2022, the Angolan authorities announced that all passengers who are fully vaccinated and test negative on disembarkation are exempt from any quarantine requirements. Those who are not vaccinated and test negative on disembarkation will need to undertake compulsory self-quarantine for 7 days before undergoing a further COVID-19 test. A negative test is required to obtain a Titulo De Alta (ALTA) from the approved health centre and to be discharged from quarantine."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to wear a face mask in public in georgia?",
+              "answers": [
+                {
+                  "text": "It is mandatory to wear masks in public places indoors (shops, hotels etc) and outdoors.",
+                  "answer_start": 547
+                }
+              ]
+            }
+          ],
+          "context": "Accommodation: Most hotels and other rental accommodation are open. Face masks must be worn when entering public spaces inside hotels and rental accommodation. Public spaces and services: Georgia introduced a COVID \\u201cgreen pass\\u201d system on 1 December 2021. You will need to prove your \\u201cgreen\\u201d status in order to enter:Hotels and other accommodation, Food outlets (open and closed spaces of restaurants, cafes, bars-including shopping malls), Cinemas, theatres, concert halls and entertainment facilities, Spas & gyms, Ski lifts. It is mandatory to wear masks in public places indoors (shops, hotels etc) and outdoors. Failing to do so can result in a 20 Lari fine for an individual or 500 Lari for a legal entity."
+        }
+      ]
+    }
+  ]
+}

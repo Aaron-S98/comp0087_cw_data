@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to be vaccinated to travel to grenada?",
+              "answers": [
+                {
+                  "text": "Only fully vaccinated visitors will be allowed entry into Grenada, with some exemptions.",
+                  "answer_start": 199
+                }
+              ]
+            },
+            {
+              "question": "Will i need to quarantine on arrival to grenada?",
+              "answers": [
+                {
+                  "text": "Grenada Government announced that from 15 November you do not need to quarantine on arrival if you are fully vaccinated and arrive with a negative PCR test.",
+                  "answer_start": 644
+                }
+              ]
+            },
+            {
+              "question": "Do i need a negative covid-19 test result before travelling to grenada?",
+              "answers": [
+                {
+                  "text": "Arrivals must obtain a negative COVID PCR test result within 3 days of travel and then complete an online health declaration.",
+                  "answer_start": 287
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Grenada: The ban on entry announced 26 Novemberfor persons with a travel history in the last 14 days to South Africa, Namibia, Zimbabwe, Botswana, Lesotho and Eswatini, has now been lifted. Only fully vaccinated visitors will be allowed entry into Grenada, with some exemptions.Arrivals must obtain a negative COVID PCR test result within 3 days of travel and then complete an online health declaration. You will receive your certificate automatically upon submission. On arrival you must present your health declaration certificate, your negative PCR test result and your vaccination card.Testing/screening and quarantine on arrival: Grenada Government announced that from 15 November you do not need to quarantine on arrival if you are fully vaccinated and arrive with a negative PCR test. You may be asked to undergo PCR testing on arrival at the airport as part of health screening on a case by case basis , which is free for those fully vaccinated. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How do i prove my vaccine status in grenada?",
+              "answers": [
+                {
+                  "text": "Grenada will accept the proof of COVID-19 recovery and vaccination record.",
+                  "answer_start": 36
+                }
+              ]
+            },
+            {
+              "question": "Do i need to wear a face mask in grenada?",
+              "answers": [
+                {
+                  "text": "Social distancing measures and wearing of facemasks is mandatory.",
+                  "answer_start": 287
+                }
+              ]
+            }
+          ],
+          "context": "Demonstrating your COVID-19 status: Grenada will accept the proof of COVID-19 recovery and vaccination record. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. Travel in Grenada: Social distancing measures and wearing of facemasks is mandatory. Domestic travel between Grenada and Carriacou has resumed with options available 3 days a week by Osprey Lines ferry or SVG Air (Monday, Wednesday and Friday)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there curfews in place in honduras?",
+              "answers": [
+                {
+                  "text": "There is a daily curfew from 10pm to 5am in place throughout the country.",
+                  "answer_start": 157
+                }
+              ]
+            },
+            {
+              "question": "Do i need to wear a mask in honduras?",
+              "answers": [
+                {
+                  "text": "It is mandatory to use facemasks, sanitary gel, and maintain social distancing in public.",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "question": "Do i need to carry documents when travlling in honduras?",
+              "answers": [
+                {
+                  "text": "Local authorities may stop you and ask for documents confirming your travel plans.",
+                  "answer_start": 611
+                }
+              ]
+            }
+          ],
+          "context": "Travel in Honduras: There is no public transport available in Honduras. If you wish to move to or from the airport you have to hire a private taxi or driver.There is a daily curfew from 10pm to 5am in place throughout the country. Shopping and essential activities will be allowed from 5am to 10pm daily irrespective of your identification number, in all departments.Foreign nationals should respect the curfew. It is mandatory to use facemasks, sanitary gel, and maintain social distancing in public. Ensure you have the documents for your hotel, car rental, tour or ticket reservations with you at all times. Local authorities may stop you and ask for documents confirming your travel plans."
+        }
+      ]
+    }
+  ]
+}

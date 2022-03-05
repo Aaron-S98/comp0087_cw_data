@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is health insurance mandatory in cambodia?",
+              "answers": [
+                {
+                  "text": "Health insurance is no longer mandatory",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Does cambodia accept proof of covid recovery?",
+              "answers": [
+                {
+                  "text": "Cambodia will accept proof of COVID-19 recovery",
+                  "answer_start": 390
+                }
+              ]
+            },
+            {
+              "question": "Do unvaccinated minors need to quarantine?",
+              "answers": [
+                {
+                  "text": "Unvaccinated under 18 year olds will be quarantined",
+                  "answer_start": 686
+                }
+              ]
+            }
+          ],
+          "context": "Health insurance is no longer mandatory but all foreign travellers are encouraged to purchase COVID-19 health insurance that includes a minimum of US$50,000 for medical cover through the Forte Insurance website. This evidence should be printed in colour. Demonstrating your COVID-19 status: All vaccinated travellers will need to demonstrate their vaccination status on arrival in Cambodia.Cambodia will accept proof of COVID-19 recovery and vaccination record and proof of COVID-19 vaccination issued in the Crown Dependencies. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. Unvaccinated under 18 year olds will be quarantined in accordance with the period that applies to the accompanying adult(s). "
+        }
+      ]
+    }
+  ]
+}

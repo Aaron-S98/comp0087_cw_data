@@ -1,0 +1,59 @@
+
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i currently fly from europe to bolivia?",
+              "answers": [
+                {
+                  "text": "Flight restrictions from Europe have been lifted",
+                  "answer_start": 41
+                }
+              ]
+            },
+            {
+              "question": "What test is required when entering bolivia?",
+              "answers": [
+                {
+                  "text": "PCR test",
+                  "answer_start": 140
+                }
+              ]
+            },
+            {
+              "question": "How long do i have to self-isolate if i am not vaccinated when entering bolivia?",
+              "answers": [
+                {
+                  "text": "need to self- isolate for 10 days",
+                  "answer_start": 393
+                }
+              ]
+            }
+          ],
+          "context": "Restrictions in response to coronavirus: Flight restrictions from Europe have been lifted. Passengers arriving from all countries require a PCR test taken up to 72 hours before flying and is required for everybody over 5-years of age to enter Bolivia. Passengers need to show a vaccination certificate dated at least 14 days before arrival in Bolivia. Passengers that have not been vaccinated need to self- isolate for 10 days. Tourists must show proof of medical insurance that will cover the cost of COVID treatment.  You should arrange to take a private test. You should check specific requirements with your airline. The border with Brazil is temporarily closed. Other land, river and lake border crossings have been opened by Bolivian authorities, but Paraguay is the only neighbouring country that has opened its borders so far. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What test is required to fly internally in bolivia?",
+              "answers": [
+                {
+                  "text": "a negative PCR test within the last 48 hours",
+                  "answer_start": 45
+                }
+              ]
+            }
+          ],
+          "context": "As of 26 January vaccination certificates or a negative PCR test within the last 48 hours will be required for internal flights and bus journeys in Bolivia."
+        }
+      ]
+    }
+  ]
+}

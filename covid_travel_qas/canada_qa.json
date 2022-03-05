@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel in canada if i show symptoms of coronavirus?",
+              "answers": [
+                {
+                  "text": "Anyone showing symptoms associated with coronavirus will be barred from domestic flights and some inter-city train services",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How do i prove that i am allowed to not wear a mask?",
+              "answers": [
+                {
+                  "text": "Anyone who cannot wear a face mask for medical reasons must be in possession of a medical certificate",
+                  "answer_start": 256
+                }
+              ]
+            },
+            {
+              "question": "What is required to use canadian public transportation?",
+              "answers": [
+                {
+                  "text": "possession of a mask/facial covering",
+                  "answer_start": 674
+                }
+              ]
+            }
+          ],
+          "context": "Anyone showing symptoms associated with coronavirus will be barred from domestic flights and some inter-city train services. Non-medical face masks or face coverings are required for all flights to and from Canadian airports, and within airport terminals. Anyone who cannot wear a face mask for medical reasons must be in possession of a medical certificate. The Canadian authorities recommend the use of non-medical masks/facial coverings when it is not possible to consistently maintain a 2-metre physical distance from others, including on public transportation. Some local transport authorities are making this a mandatory requirement. You should ensure that you are in possession of a mask/facial covering when using public transport in the event you are requested by transport operators to wear one."
+        }
+      ]
+    }
+  ]
+}

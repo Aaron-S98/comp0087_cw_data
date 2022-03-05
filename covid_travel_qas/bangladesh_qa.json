@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When flying to bangladesh from lesotho do i need to quarantine?",
+              "answers": [
+                {
+                  "text": "required to complete mandatory 14 day quarantine at a government nominated quarantine hotel",
+                  "answer_start": 162
+                }
+              ]
+            }
+          ],
+          "context": "Passengers who have visited, or transited Botswana, Eswatini, Ghana, Lesotho, Namibia, South Africa and Zimbabwe, within the preceding 14 days of 4 December, are required to complete mandatory 14 day quarantine at a government nominated quarantine hotel upon arrival in Bangladesh, regardless of vaccination status."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who covers the cost of quarantine in bangladesh?",
+              "answers": [
+                {
+                  "text": "people staying in a government approved hotel, government facility or hospital will need to cover the costs of those stays and any necessary COVID-19 tests",
+                  "answer_start": 206
+                }
+              ]
+            }
+          ],
+          "context": "Passengers that are subject to mandatory quarantine hotel stay should confirm their stay prior to travel. Proof of a quarantine hotel reservation will be required at airport check-in. In all circumstances, people staying in a government approved hotel, government facility or hospital will need to cover the costs of those stays and any necessary COVID-19 tests. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where are masks mandatory in bangladesh?",
+              "answers": [
+                {
+                  "text": "masks must be worn at all times",
+                  "answer_start": 5
+                }
+              ]
+            }
+          ],
+          "context": "Face masks must be worn at all times when moving in and around Bangladesh. Anyone not complying with these requests risks legal action"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do you need to comply with argentinian sanitary requirements if you are transiting through the airport?",
+              "answers": [
+                {
+                  "text": "you are not required to comply with any sanitary requirements",
+                  "answer_start": 108
+                }
+              ]
+            },
+            {
+              "question": "Do you need to comply with argentinian sanitary requirements if you pass through immigration?",
+              "answers": [
+                {
+                  "text": "you must comply with the sanitary entry requirements applicable to you",
+                  "answer_start": 372
+                }
+              ]
+            }
+          ],
+          "context": "If you are transiting through Argentina on your way to another country and staying in the airport (airside) you are not required to comply with any sanitary requirements. If you are transiting through Argentina on your way to another country and will be passing through immigration (sometimes known as a layover), for example to stay in a hotel for a flight the next day, you must comply with the sanitary entry requirements applicable to you. These will differ if you are a non-resident foreign national or a resident of Argentina, as well as if you are fully vaccinated, or not."
+        }
+      ]
+    }
+  ]
+}

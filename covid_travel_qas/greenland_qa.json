@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel to greenland?",
+              "answers": [
+                {
+                  "text": "Between 1 January and 18 April, all entry to Greenland is closed, unless one is a critical worker and one\u2019s travel is approved by the Corona Secretariat.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Will i need to quarantine in greenland on arrival?",
+              "answers": [
+                {
+                  "text": "Travelers are not required to self-quarantine upon arrival in Greenland or re-test for COVID-19 after arrival.",
+                  "answer_start": 254
+                }
+              ]
+            }
+          ],
+          "context": "Between 1 January and 18 April, all entry to Greenland is closed, unless one is a critical worker and one\u2019s travel is approved by the Corona Secretariat. All travelers on flights out of Greenland to Denmark will not be affected. Quarantine requirements: Travelers are not required to self-quarantine upon arrival in Greenland or re-test for COVID-19 after arrival. However, additional COVID-19 tests may be required depending on where in Greenland you intend to travel."
+        }
+      ]
+    }
+  ]
+}

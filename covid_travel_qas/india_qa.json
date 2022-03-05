@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i fly to india?",
+              "answers": [
+                {
+                  "text": "Government will maintain ban on scheduled international passenger flights until 28 February because of COVID-19.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Will i need to prove my covid-19 vaccine status?",
+              "answers": [
+                {
+                  "text": "If you\u2019re fully vaccinated: Pre-boarding. All travellers should i: submit a self-declaration form on the online before the scheduled travel ii: upload a negative COVID-19 RT-PCR report.",
+                  "answer_start": 359
+                }
+              ]
+            }
+          ],
+          "context": "Government will maintain ban on scheduled international passenger flights until 28 February because of COVID-19. All travellers: All travellers will be subject to thermal screening by health officials on arrival. You must comply with all instructions and screening requirements.You may need to provide contact details and be asked to download Arogya Setu app.If you\u2019re fully vaccinated: Pre-boarding. All travellers should i: submit a self-declaration form on the online before the scheduled travel ii: upload a negative COVID-19 RT-PCR report. This test should have been conducted within 72 hrs prior to undertaking the journey. You also need to submit a declaration with respect to the authenticity of the report and will be liable for criminal prosecution, if found otherwise. You should arrange to take a private test."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to take a covid-19 test in india?",
+              "answers": [
+                {
+                  "text": " further COVID-19 PCR test is required on the 8th day of arrival in India.",
+                  "answer_start": 309
+                }
+              ]
+            }
+          ],
+          "context": "On arrival: Since 22 January 2022 there has been a change to the entry requirements for all international travellers, including those from the United Kingdom, following the World Health Organization classification of SARS-CoV-2 Omicron as a variant of concern. This includes 7-days mandatory home quarantine.A further COVID-19 PCR test is required on the 8th day of arrival in India. If the 8th day test is negative, you should self-monitor your health for the next 7 days. Any traveller testing positive for COVID-19 will have to isolate at home for 7 days. Travellers transiting through Delhi will need to undergo institutional quarantine. The samples of all those who test positive will be sent for genomic sequencing."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i freely travel between indian states?",
+              "answers": [
+                {
+                  "text": "Other measures may include the requirement to present COVID-19 negative tests to enter some states",
+                  "answer_start": 273
+                }
+              ]
+            }
+          ],
+          "context": "Travel in India: India is currently witnessing an increase in COVID-19 numbers across the country, with the emergence of the Omicron variant. Indian States have brought in restrictions including night and weekend curfews, and the shutting down of educational institutions. Other measures may include the requirement to present COVID-19 negative tests to enter some states, random testing in public areas including at airports, stations, malls and restaurants. You should monitor local media and follow any procedures put in place by local authorities. Before undertaking inter-state travel in India you should check the latest entry requirements and other testing/quarantine restrictions. Strict restrictions are in place in containment zones."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to wear a face mask in india?",
+              "answers": [
+                {
+                  "text": "The wearing of facial/cloth masks is compulsory in all public places.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What are the quarantine rules in india?",
+              "answers": [
+                {
+                  "text": "Some states may have quarantine requirements in place and these may differ between states.",
+                  "answer_start": 316
+                }
+              ]
+            }
+          ],
+          "context": "The wearing of facial/cloth masks is compulsory in all public places. There are limitations on large gatherings. You may be penalised if you violate restrictions. Domestic flight operations resumed on 25 May 2020 but some states may have restrictions on flight operations. Check with airlines before booking flights.Some states may have quarantine requirements in place and these may differ between states. Follow the advice of the local authorities. All train and metro rail services have resumed. All essential services (including groceries, pharmacies, ATMs) continue to function."
+        }
+      ]
+    }
+  ]
+}

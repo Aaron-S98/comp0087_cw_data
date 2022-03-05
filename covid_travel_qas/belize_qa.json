@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How far in advance can i take my test before flying to belize?",
+              "answers": [
+                {
+                  "text": "96 hours prior to travel",
+                  "answer_start": 205
+                }
+              ]
+            },
+            {
+              "question": "What happens if i don\u2019t test prior to arriving in belize?",
+              "answers": [
+                {
+                  "text": "you must take a test on arrival at the airport for a fee",
+                  "answer_start": 354
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive when entering belize?",
+              "answers": [
+                {
+                  "text": "you will be required to undertake a mandatory quarantine at an approved quarantine hotel at your own expense",
+                  "answer_start": 817
+                }
+              ]
+            }
+          ],
+          "context": "All travellers aged 5 years or over (vaccinated and unvaccinated) entering Belize through the Philip Goldson International airport must present a negative COVID-19 test result from a PCR test taken within 96 hours prior to travel or from an approved rapid antigen test (home testing kits are not accepted) taken within 48 hours. If no test is presented, you must take a test on arrival at the airport for a fee of BZ$100. Travellers entering Belize by land or sea must undertake a COVID-19 rapid antigen test administered by the Ministry of Health and Wellness at the travellers expense. External COVID-19 test results will not be accepted. Land and sea ports of entry will be open to foreign tourists 8am to 4pm Monday to Friday and 8am to midday on Saturday and Sunday. If you receive a positive result on arrival, you will be required to undertake a mandatory quarantine at an approved quarantine hotel at your own expense. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is curfew in belize?",
+              "answers": [
+                {
+                  "text": "11pm to 4am Sunday to Thursday and midnight to 4am on Friday and Saturday",
+                  "answer_start": 157
+                }
+              ]
+            },
+            {
+              "question": "Is the curfew different for children?",
+              "answers": [
+                {
+                  "text": "the curfew applies from 8pm to 4am every day, unless with a parent or guardian",
+                  "answer_start": 246
+                }
+              ]
+            }
+          ],
+          "context": "Regulations remain in force to tackle the spread of coronavirus. A nationwide curfew is in place until further notice. For adults, the curfew is active from 11pm to 4am Sunday to Thursday and midnight to 4am on Friday and Saturday. For children, the curfew applies from 8pm to 4am every day, unless with a parent or guardian. Regular updates are made to the Statutory Instruments that set out the COVID-19 regulations in Belize."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long will i have to quarantine if i arrive from botswana?",
+              "answers": [
+                {
+                  "text": "quarantine for 10 days at a government-designated facility",
+                  "answer_start": 226
+                }
+              ]
+            }
+          ],
+          "context": "The Ministry of Health will monitor each case. A negative test is required as proof of recovery. Anyone travelling from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe must be vaccinated and quarantine for 10 days at a government-designated facility."
+        }
+      ]
+    }
+  ]
+}

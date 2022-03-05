@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there flights going into cameroon?",
+              "answers": [
+                {
+                  "text": "There are multiple commercial flight options to enter and leave Cameroon",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is the status of borders in cameroon?",
+              "answers": [
+                {
+                  "text": "Access across Cameroon land and sea borders is currently restricted due to COVID-19",
+                  "answer_start": 74
+                }
+              ]
+            }
+          ],
+          "context": "There are multiple commercial flight options to enter and leave Cameroon. Access across Cameroon land and sea borders is currently restricted due to COVID-19. Travel requirements to enter and exit Cameroon can change without notice and without proactive communication. The Centre for the Coordination of Public Health Emergency Operations conditions of entry and exit to Cameroon."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How dated can my test be to enter cameroon and not need to self isolate?",
+              "answers": [
+                {
+                  "text": "no older than 72 hours before boarding",
+                  "answer_start": 33
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive upon arrival in cameroon?",
+              "answers": [
+                {
+                  "text": "will be held for further enquiries to trace contacts and movements",
+                  "answer_start": 273
+                }
+              ]
+            }
+          ],
+          "context": "If you have a proof of a recent (no older than 72 hours before boarding) negative coronavirus test, you will normally not have to self-isolate. Anyone that has developed symptoms of Coronavirus on their travel or tests positive on arrival at Yaound\\u00e9 or Douala airport will be held for further enquiries to trace contacts and movements. We believe that anyone testing positive can quarantine at the location of your host or private accommodation until a negative PCR test is produced.These requirements are regularly evolving."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where and how long is the quarantine when entering bahrain unvaccinated?",
+              "answers": [
+                {
+                  "text": "7 days at your residence or an approved quarantine centre",
+                  "answer_start": 516
+                }
+              ]
+            },
+            {
+              "question": "What test is required to enter bahrain?",
+              "answers": [
+                {
+                  "text": "negative PCR test certificate with QR code before boarding the aircraft, administered within 72 hours of departure",
+                  "answer_start": 226
+                }
+              ]
+            }
+          ],
+          "context": "Bahrain International Airport remains open, including for transit and transfer passengers, and visas on arrival are available for foreign nationals. From 9 January 2022 all arrivals aged 6 and above must: present an approved, negative PCR test certificate with QR code before boarding the aircraft, administered within 72 hours of departure. pay for and undergo a PCR test on arrival (at the airport). Non-vaccinated arrivals (for individuals aged 12 and above) will additionally need to: quarantine for a period of 7 days at your residence or an approved quarantine centre. Before travelling, you should check with your airline who may have their own boarding requirements."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How to obtain the vaccination certification card in bahrain?",
+              "answers": [
+                {
+                  "text": " will need proof of official COVID-19 vaccination status",
+                  "answer_start": 223
+                }
+              ]
+            }
+          ],
+          "context": "Vaccinated arrivals will receive a Vaccination Certification Card on arrival which will allow access to indoor public services in-country, depending on Bahrain Traffic Light Alert System. See Public places and services. You will need proof of official COVID-19 vaccination status to receive the card and avoid the need for quarantine. Vaccination certificates must contain a QR code unless issued from the UK, USA, European Union, Switzerland, Canada, Australia, New Zealand, South Korea, Japan, Singapore or Israel. Full vaccination status is deemed as those with vaccines approved by the World Health Organisation (WHO) or Bahrain."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a test or vaccine to transit through bahrain?",
+              "answers": [
+                {
+                  "text": "Transit and transfer passengers are permitted to use Bahrain International Airport without the requirement to undergo testing.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Transit and transfer passengers are permitted to use Bahrain International Airport without the requirement to undergo testing. You should check Bahrain visa portal for the most up to date information."
+        }
+      ]
+    }
+  ]
+}

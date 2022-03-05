@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are the borders of the cook islands open?",
+              "answers": [
+                {
+                  "text": "The borders of the Cook Islands are closed to all persons unless an exemption",
+                  "answer_start": 474
+                }
+              ]
+            },
+            {
+              "question": "How can i enter the cook islands?",
+              "answers": [
+                {
+                  "text": "an exemption is provided by the Cook Islands Ministry of Foreign Affairs and Immigration",
+                  "answer_start": 539
+                }
+              ]
+            },
+            {
+              "question": "Do i have to quarantine before entering the cook islands?",
+              "answers": [
+                {
+                  "text": "that travelers will need to have been in New Zealand for 14 consecutive days prior to departure",
+                  "answer_start": 285
+                }
+              ]
+            }
+          ],
+          "context": "International Restrictions:The Cook Islands borders are only open to those who meet the requirements under the current Travel Advisory as at 13 May 2021. From 17th May, the New Zealand and Cook Islands travel bubble will commence under a Quarantine-Free Travel arrangement. This means that travelers will need to have been in New Zealand for 14 consecutive days prior to departure, before quarantine-free travel to the Cook Islands. Entry rules in response to coronavirus : The borders of the Cook Islands are closed to all persons unless an exemption is provided by the Cook Islands Ministry of Foreign Affairs and Immigration. The closure is in response to new cases of COVID-19 in New Zealand."
+        }
+      ]
+    }
+  ]
+}

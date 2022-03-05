@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are land borders open in cambodia?",
+              "answers": [
+                {
+                  "text": "the Cambodia-Laos, Cambodia-Thailand and Cambodia-Vietnam land borders are closed",
+                  "answer_start": 102
+                }
+              ]
+            },
+            {
+              "question": "Are tests required upon entry in cambodia?",
+              "answers": [
+                {
+                  "text": "All foreigners arriving in Cambodia will be subject to a COVID-19 test on arrival",
+                  "answer_start": 222
+                }
+              ]
+            }
+          ],
+          "context": "Transiting Cambodia: It is currently not possible to enter or depart Cambodia through land borders as the Cambodia-Laos, Cambodia-Thailand and Cambodia-Vietnam land borders are closed. <br>\\n*Testing/screening on arrival: All foreigners arriving in Cambodia will be subject to a COVID-19 test on arrival (as well as requiring a COVID negative test before flying) depending on their vaccination status. "
+        }
+      ]
+    }
+  ]
+}

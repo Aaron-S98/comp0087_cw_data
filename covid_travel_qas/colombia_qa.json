@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can unvaccinated tourists enter colombia without a visa?",
+              "answers": [
+                {
+                  "text": "not be allowed to enter the country",
+                  "answer_start": 260
+                }
+              ]
+            },
+            {
+              "question": "How dated can my pcr test be when i enter colombia?",
+              "answers": [
+                {
+                  "text": "no later than 72 hours prior to boarding",
+                  "answer_start": 629
+                }
+              ]
+            }
+          ],
+          "context": "Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. <br>\\nUnvaccinated foreign nationals who are not holders of a Permanent Resident visa in Colombia will not be allowed to enter the country. <br>\\nColombian nationals, foreign nationals holders of a Permanent Resident visa, Diplomatic staff and their dependants over 18 who are unvaccinated, have not completed their vaccination scheme or have had their final dose less than 14 days before travel, will be able to enter Colombia showing proof of a negative PCR test issued no later than 72 hours prior to boarding."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are surgical masks required in airports in colombia?",
+              "answers": [
+                {
+                  "text": "Surgical masks must be used by all passengers above 2 years of age throughout the journey",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What masks do the colombian government recommend?",
+              "answers": [
+                {
+                  "text": "N95 masks are recommended",
+                  "answer_start": 169
+                }
+              ]
+            }
+          ],
+          "context": "Surgical masks must be used by all passengers above 2 years of age throughout the journey, from entering the air terminal, during the flight and at the port of arrival. N95 masks are recommended for passengers above 60 years of age and those with pre-existing health conditions."
+        }
+      ]
+    }
+  ]
+}

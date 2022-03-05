@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there many flights to burkina faso?",
+              "answers": [
+                {
+                  "text": "flights to and from Burkina Faso remain limited.",
+                  "answer_start": 11
+                }
+              ]
+            },
+            {
+              "question": "How many days in advance should i test prior to landing in burkina faso?",
+              "answers": [
+                {
+                  "text": "no more than 5 days prior to entry",
+                  "answer_start": 409
+                }
+              ]
+            },
+            {
+              "question": "What happens if i do not test before landing in burkina faso?",
+              "answers": [
+                {
+                  "text": "identity documents temporarily confiscated by the authorities and will be required to take a rapid diagnostic test",
+                  "answer_start": 460
+                }
+              ]
+            }
+          ],
+          "context": "Commercial flights to and from Burkina Faso remain limited. Check with your travel company for the latest information. Land and sea borders remain closed until further notice. <br>\\nAll international travellers will need to present a negative COVID 19 PCR test certificate dated no more than 5 days prior to arrival in Burkina Faso. <br>\\nPassengers arriving in Burkina Faso without a negative PCR test dated no more than 5 days prior to entry will have their identity documents temporarily confiscated by the authorities and will be required to take a rapid diagnostic test (RDT) and a PCR test. Confiscated identity documents will be returned after verification of payment for the tests. In the event of a positive RDT test, travellers will be placed in quarantine at their own expense at a government allocated hotel for 72 hours while awaiting the results of the PCR test. RDT and PCR tests are free for children under 6 years old."
+        }
+      ]
+    }
+  ]
+}

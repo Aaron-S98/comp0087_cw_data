@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are passengers required to provide a test when transiting through the eu?",
+              "answers": [
+                {
+                  "text": "passengers in transit in the EU/Schengen area are exempted from temporary travel restrictions",
+                  "answer_start": 19
+                }
+              ]
+            },
+            {
+              "question": "How long is the allowed transit time in the czech republic?",
+              "answers": [
+                {
+                  "text": "land transit is allowed up to 12 hours without any restrictions",
+                  "answer_start": 638
+                }
+              ]
+            }
+          ],
+          "context": "As a general rule, passengers in transit in the EU/Schengen area are exempted from temporary travel restrictions. EU citizens entering the EU from a third country, as well as their family members, irrespective of their nationality, are exempted from the travel restrictions regardless of whether or not they are returning to their country of nationality or residence. Passengers travelling from a non-EU country to another non-EU country may transit through the international transit area of airports located in the Schengen area. Rules regarding airport transit visa requirements continue to apply. Additionally, for the Czech Republic, land transit is allowed up to 12 hours without any restrictions."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are schools open in the czech republic ?",
+              "answers": [
+                {
+                  "text": "All schools are open",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i have to social distance in shops in czechia?",
+              "answers": [
+                {
+                  "text": "Shops and services are open and operating with social distancing measures in place",
+                  "answer_start": 143
+                }
+              ]
+            }
+          ],
+          "context": "All schools are open. Foreign nationals in need of specific information on education are advised to contact their local Czech authority. <br>\\nShops and services are open and operating with social distancing measures in place. Other leisure venues (cinemas, theatres) are open with restrictive measures in place."
+        }
+      ]
+    }
+  ]
+}

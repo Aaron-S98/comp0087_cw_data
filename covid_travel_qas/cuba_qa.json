@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What do i need to enter cuba?",
+              "answers": [
+                {
+                  "text": "a valid COVID-19 vaccination certificate from their country of origin and a PCR test taken within 72 hours before travel",
+                  "answer_start": 51
+                }
+              ]
+            },
+            {
+              "question": "How can i prove to the cuban authorities that i am exempt from a vaccine?",
+              "answers": [
+                {
+                  "text": "a medical certificate proving they are unable to be vaccinated for medical reasons",
+                  "answer_start": 450
+                }
+              ]
+            }
+          ],
+          "context": "From 5 January 2022, travellers arriving will need a valid COVID-19 vaccination certificate from their country of origin and a PCR test taken within 72 hours before travel. Until 4 January 2022 you are able to enter the country with a valid COVID-19 vaccination certificate from your country of origin or a negative PCR test result. Children under the age of 12 are exempt from providing vaccination certificates or PCR test results. Adults who have a medical certificate proving they are unable to be vaccinated for medical reasons are exempt from providing vaccination certificates. Demonstrating your COVID-19 status: Cuba will accept the proof of COVID-19 recovery and vaccination record . "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there quarantine requirements when entering cuba?",
+              "answers": [
+                {
+                  "text": "Visitors are no longer required to routinely self-isolate",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Are tests done at the airport when arriving in cuba?",
+              "answers": [
+                {
+                  "text": "sanitary authorities are present at the airport and will carry out random PCR tests",
+                  "answer_start": 101
+                }
+              ]
+            },
+            {
+              "question": "Who needs to self isolate when arriving in cuba?",
+              "answers": [
+                {
+                  "text": "Foreign arrivals registered with international schools, those with scholarships at Cuban institutions, technicians and other foreign collaborators",
+                  "answer_start": 505
+                }
+              ]
+            }
+          ],
+          "context": "Visitors are no longer required to routinely self-isolate or take a PCR test on arrival in Cuba, but sanitary authorities are present at the airport and will carry out random PCR tests. Anyone testing positive on arrival will be moved to quarantine in a designated government health centre, at their own expense. Direct contacts of those testing positive will either be moved to a designated government health centre or allowed to self-isolate in their own accommodation depending on their circumstances. Foreign arrivals registered with international schools, those with scholarships at Cuban institutions, technicians and other foreign collaborators will be required to do 8 days quarantine at the relevant quarantine centre linked to their institution, and will take a PCR test on the seventh day after their arrival. "
+        }
+      ]
+    }
+  ]
+}

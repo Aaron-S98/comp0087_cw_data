@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is enforcing covid-19 restrictions in australia?",
+              "answers": [
+                {
+                  "text": "state government",
+                  "answer_start": 265
+                }
+              ]
+            }
+          ],
+          "context": "Many parts of Australia are experiencing varying levels of COVID-19 outbreaks, and government countermeasures are constantly changing. Restrictions on travel, leaving the home, mask wearing, as well as social distancing measures, are determined and enforced by the state governments. Such restrictions may be enhanced, extended, eased, or lifted at any time. We [U.S. Consulate] strongly recommend consulting the relevant state government page for COVID-related restrictions in your area or any area you plan to travel to."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What to do if tested positive in australia?",
+              "answers": [
+                {
+                  "text": "you may need to stay where you are until you test negative",
+                  "answer_start": 35
+                }
+              ]
+            }
+          ],
+          "context": "If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i leave the airport during a transit in australia?",
+              "answers": [
+                {
+                  "text": "You will be need to stay within the airport for the duration of your transit",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "You will be need to stay within the airport for the duration of your transit, or if transiting overnight, you may be taken to mandatory quarantine for the duration of your transit or may need to self-isolate in a hotel."
+        }
+      ]
+    }
+  ]
+}

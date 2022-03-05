@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to take a test if transfer flights in germany?",
+              "answers": [
+                {
+                  "text": "people who change planes at airports in Germany must also provide proof of vaccination, recovery or testing.",
+                  "answer_start": 98
+                }
+              ]
+            },
+            {
+              "question": "Will i need to wear a mask on public transport in germany?",
+              "answers": [
+                {
+                  "text": "Wearing a medical-grade mask remains a legal requirement in retail outlets and on public transport.",
+                  "answer_start": 433
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive for covid in germany?",
+              "answers": [
+                {
+                  "text": "Anyone testing positive with a Point of Care (PoC) antigen test is required to take a follow-up PCR test immediately and to self-isolate.",
+                  "answer_start": 574
+                }
+              ]
+            }
+          ],
+          "context": "Transit: pFlight transfers at airports are now classed as entries into a country. This means that people who change planes at airports in Germany must also provide proof of vaccination, recovery or testing. COVID-19 restrictions: Both the vaccinated and unvaccinated must continue to adhere to basic non-pharmaceutical guidelines, such as social distancing, wearing masks in enclosed spaces, and regularly ventilating indoor spaces. Wearing a medical-grade mask remains a legal requirement in retail outlets and on public transport.Testing positive for COVID-19 in Germany: Anyone testing positive with a Point of Care (PoC) antigen test is required to take a follow-up PCR test immediately and to self-isolate. Close contacts are also required to self-isolate, although exceptions may apply for those who are fully vaccinated."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel to french guiana for non-essential reasons?",
+              "answers": [
+                {
+                  "text": "Travellers must prove that entry is for essential reasons.",
+                  "answer_start": 69
+                }
+              ]
+            }
+          ],
+          "context": "Travel to French Guiana is severely restricted until further notice. Travellers must prove that entry is for essential reasons. You may also need to request permission from the Prefecture in order to enter."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to take a covid test to travel to french guiana?",
+              "answers": [
+                {
+                  "text": "All travellers over the age of 11 must undertake a test for COVID-19 within 72 hours before departure for French Guiana.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i need to self-isolate after travelling to french guiana?",
+              "answers": [
+                {
+                  "text": "Arrivals from most destinations will also be required to self-isolate for seven days, before taking another PCR test.",
+                  "answer_start": 217
+                }
+              ]
+            }
+          ],
+          "context": "All travellers over the age of 11 must undertake a test for COVID-19 within 72 hours before departure for French Guiana. The test is obligatory and the traveller must show proof of a negative result before embarking. Arrivals from most destinations will also be required to self-isolate for seven days, before taking another PCR test."
+        }
+      ]
+    }
+  ]
+}

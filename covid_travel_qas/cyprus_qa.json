@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When did crossing points open in cyprus?",
+              "answers": [
+                {
+                  "text": " on 4 June 2021",
+                  "answer_start": 64
+                }
+              ]
+            },
+            {
+              "question": "Are face mask compulsory in cyprus?",
+              "answers": [
+                {
+                  "text": "The use of a face mask is compulsory",
+                  "answer_start": 661
+                }
+              ]
+            },
+            {
+              "question": "Where do i have to where a mask in cyprus?",
+              "answers": [
+                {
+                  "text": "in all indoor and outdoor public spaces for everyone aged 6 and above",
+                  "answer_start": 698
+                }
+              ]
+            }
+          ],
+          "context": "all crossing points between the Republic and the north re-opened on 4 June 2021 subject to a Red, Orange, Green categorisation system. Under current conditions, Red status applies which means that vaccinated travellers must present a negative PCR or Antigen (rapid) test result, taken within the last 7 days, in order to cross. Unvaccinated travellers must present a negative PCR or Antigen (rapid) test result, taken within the last 72 hours in order to cross. If you have been in the UK within 14 days of travel to Cyprus, and wish to cross to the north further conditions apply, refer to additional details under Entry to Cyprus. Public spaces and services: The use of a face mask is compulsory in all indoor and outdoor public spaces for everyone aged 6 and above. Failure to comply with restrictions may result in a fine."
+        }
+      ]
+    }
+  ]
+}

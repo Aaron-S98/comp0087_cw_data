@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How to avoid quarantine in argentina?",
+              "answers": [
+                {
+                  "text": "If you are fully vaccinated, you can enter Argentina as a tourist without needing quarantine.  ",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How can i prove my vaccination status when entering argentina?",
+              "answers": [
+                {
+                  "text": "document from a national or state-level public health body",
+                  "answer_start": 380
+                }
+              ]
+            }
+          ],
+          "context": "If you are fully vaccinated, you can enter Argentina as a tourist without needing quarantine.  At least 14 days must have passed since your second dose of the vaccine. Whether you have received a complete course of a vaccine or not, will be determined by the authorities of the country where you received your vaccine. You must be able to prove your full vaccination status via a document from a national or state-level public health body if vaccinated abroad."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How old do children have to be to not be required to test when entering argentina?",
+              "answers": [
+                {
+                  "text": "Children aged 5 and under",
+                  "answer_start": 27
+                }
+              ]
+            }
+          ],
+          "context": "Children and young people: Children aged 5 and under, do not need to take a test to enter Argentina. Children aged 17 and under who do not qualify as fully vaccinated can enter Argentina without needing to self-isolate but should avoid large gatherings for the first 7 days."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How to enter anguilla?",
+              "answers": [
+                {
+                  "text": "ports, sea and air",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What ports are operating ferries to aguilla?",
+              "answers": [
+                {
+                  "text": "Simpson Bay, Dutch Sint-Maarten",
+                  "answer_start": 209
+                }
+              ]
+            }
+          ],
+          "context": "ports, sea and air, are open. The regular ferry service from Marigot Port (French St. Martin) to Blowing Point Ferry Port has been suspended until further notice, however the ferry service is operational from Simpson Bay, Dutch Sint-Maarten. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do pregnant women need a vaccine to enter anguilla?",
+              "answers": [
+                {
+                  "text": "exception to this requirement is for pregnant women",
+                  "answer_start": 189
+                }
+              ]
+            },
+            {
+              "question": "Who is exempt from mandatory vaccination when entering anguilla?",
+              "answers": [
+                {
+                  "text": "pregnant women and children under the age of 18",
+                  "answer_start": 226
+                }
+              ]
+            }
+          ],
+          "context": "All adult visitors arriving in Anguilla must be fully vaccinated (details on accepted vaccinations below) and have received their last vaccination at least 14 days before arrival. The only exception to this requirement is for pregnant women and children under the age of 18. Mixed vaccines are accepted but must be a variation of Pfizer, AstraZeneca and Moderna. Single dose Johnson & Johnson vaccine is also accepted."
+        }
+      ]
+    }
+  ]
+}

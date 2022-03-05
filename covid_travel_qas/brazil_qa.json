@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What languages should documents be in when entering brazil?",
+              "answers": [
+                {
+                  "text": "English, Spanish or Portuguese",
+                  "answer_start": 524
+                }
+              ]
+            },
+            {
+              "question": "How dated should my pcr test be when entering brazil?",
+              "answers": [
+                {
+                  "text": "within 72 hours of boarding",
+                  "answer_start": 372
+                }
+              ]
+            },
+            {
+              "question": "How dated should my antigen test be when entering brazil?",
+              "answers": [
+                {
+                  "text": "within 24 hours of boarding",
+                  "answer_start": 463
+                }
+              ]
+            }
+          ],
+          "context": "International Restrictions: Entry by air: Entry requirements in response to COVID-19 are subject to change at short notice and travellers are strongly advised to review these directly with the Brazilian authorities prior to travel. Most people aged 12 or over travelling to Brazil by air will have to present documentary evidence of a negative PCR test for COVID-19 taken within 72 hours of boarding. Alternatively, they may present a negative antigen test taken within 24 hours of boarding. All forms of proof should be in English, Spanish or Portuguese and shown to airline staff at check-in."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "If arriving by land with a vaccine can i enter brazil?",
+              "answers": [
+                {
+                  "text": "only permitted entry if they are seeking to transit through Brazil",
+                  "answer_start": 533
+                }
+              ]
+            },
+            {
+              "question": "Are brazilian land borders open?",
+              "answers": [
+                {
+                  "text": "Brazil has re-opened all of its land borders.",
+                  "answer_start": 213
+                }
+              ]
+            },
+            {
+              "question": "What do travellers need to provide when entering brazil?",
+              "answers": [
+                {
+                  "text": "evidence of a negative PCR or Antigen test, as well as proof of full COVID-19 vaccination",
+                  "answer_start": 313
+                }
+              ]
+            }
+          ],
+          "context": "Brazilian and resident foreign nationals, who have been in the above countries during the last 14 days, may be allowed to enter Brazil. However, they have to comply with a 14 day quarantine period. Entry by land: Brazil has re-opened all of its land borders. For entry by land, travellers are required to present evidence of a negative PCR or Antigen test, as well as proof of full COVID-19 vaccination. However, unlike the requirements for those arriving by air, foreign travellers arriving by land without proof of vaccination are only permitted entry if they are seeking to transit through Brazil to their country of ordinary residence."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are cruise ships running in brazil?",
+              "answers": [
+                {
+                  "text": "temporarily suspended domestic cruise ships",
+                  "answer_start": 121
+                }
+              ]
+            }
+          ],
+          "context": "Following a recommendation from the Brazilian National Health Surveillance Agency (ANVISA), the Brazilian Government has temporarily suspended domestic cruise ships from operating along the Brazilian coast. Given the fluid coronavirus situation globally, such cruises are likely to remain subject to disruption at short notice throughout 2022. <br>\\nThe Brazilian government continues to suspend the entry of all international cruise ships and prohibits most foreigners from disembarking at any port or other maritime location in Brazil regardless of nationality. These restrictions do not apply to resident foreigners and foreign spouses, children, parents or custodians of a Brazilian national."
+        }
+      ]
+    }
+  ]
+}

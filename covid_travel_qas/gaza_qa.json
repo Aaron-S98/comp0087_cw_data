@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to take a covid-19 test to enter gaza?",
+              "answers": [
+                {
+                  "text": "All travellers of all ages arriving in Israel, including those who have been vaccinated or recovered, must take a COVID-19 (PCR) tests on arrival in Israel, at their own expense.",
+                  "answer_start": 20
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive for covid when entering gaza?",
+              "answers": [
+                {
+                  "text": "If the result of the test is positive the individual will be required to remain in isolation for a minimum of 14 days.",
+                  "answer_start": 499
+                }
+              ]
+            }
+          ],
+          "context": "Testing on arrival: All travellers of all ages arriving in Israel, including those who have been vaccinated or recovered, must take a COVID-19 (PCR) tests on arrival in Israel, at their own expense. You can make the payment after you submit the entry statement form prior to traveling to Israel. Payment in advance is at a reduced price. Only PCR tests are admissible. Quarantine requirements: All passengers must enter isolation until the results of their PCR test arrive, or 24 hours have passed. If the result of the test is positive the individual will be required to remain in isolation for a minimum of 14 days. Entrants from \u2018red\u2019 locations will be required to isolate in a government facility.Full guidance on requirements upon arrival is regularly updated online."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How can i prove my covid-19 status?",
+              "answers": [
+                {
+                  "text": "If you hold a verifiable digital certificate proving vaccination status, this should be scanned or uploaded along with the entry declaration.",
+                  "answer_start": 36
+                }
+              ]
+            }
+          ],
+          "context": "Demonstrating your COVID-19 status: If you hold a verifiable digital certificate proving vaccination status, this should be scanned or uploaded along with the entry declaration. If you do not have a verifiable digital certificate, you should declare the vaccinations you have received in the entry declaration form and attach all relevant documentation. You will then receive a Green Pass prior to boarding your flight."
+        }
+      ]
+    }
+  ]
+}

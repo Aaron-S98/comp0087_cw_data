@@ -1,0 +1,2200 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What do i need to present when arriving in bermuda?",
+              "answers": [
+                {
+                  "text": "copy of your Travel Authorisation and present a copy of the pre-departure PCR COVID-19 negative test result",
+                  "answer_start": 30
+                }
+              ]
+            },
+            {
+              "question": "How much jail time do i risk if i fail to respect covid guidelines?",
+              "answers": [
+                {
+                  "text": "up to six months imprisonment",
+                  "answer_start": 477
+                }
+              ]
+            },
+            {
+              "question": "Who must undergo a test at the airport when arriving in bermuda?",
+              "answers": [
+                {
+                  "text": "All travellers",
+                  "answer_start": 169
+                }
+              ]
+            }
+          ],
+          "context": "Upon arrival, you must show a copy of your Travel Authorisation and present a copy of the pre-departure PCR COVID-19 negative test result to health officers on request. All travellers will undergo PCR COVID-19 testing at the Bermuda L.F. Wade International Airport. It is important that you adhere to the COVID-19 guidance and quarantine in your accommodation until airport test results are ready. Failure to adhere to guidelines could result in a fine of up to $25,000 and/or up to six months imprisonment."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What happens if i test positive upon arrival in benin?",
+              "answers": [
+                {
+                  "text": "subject to government-mandated isolation measures and will receive treatment free of charge",
+                  "answer_start": 45
+                }
+              ]
+            }
+          ],
+          "context": "Those who test positive for COVID-19 will be subject to government-mandated isolation measures and will receive treatment free of charge."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long do covid test take to get results in benin?",
+              "answers": [
+                {
+                  "text": "up to 72 hours",
+                  "answer_start": 68
+                }
+              ]
+            },
+            {
+              "question": "Where do i quarantine if i test positive and have serious symptoms in benin?",
+              "answers": [
+                {
+                  "text": "at a government hospital",
+                  "answer_start": 175
+                }
+              ]
+            }
+          ],
+          "context": "COVID-19 test results are sent via an SMS text message. It can take up to 72 hours to receive the result from the day the test was taken. Those who test positive must isolate at a government hospital if the condition is serious. Alternatively, those who test positive with mild symptoms or no symptoms are required to self-isolate at a location of their choice."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What does pcr stand for?",
+              "answers": [
+                {
+                  "text": "Polymerase Chain Reaction",
+                  "answer_start": 96
+                }
+              ]
+            },
+            {
+              "question": "Do residents of belarus need to provide tests when entering the country ?",
+              "answers": [
+                {
+                  "text": "requirement does not apply to holders of permanent or temporary residency in Belarus",
+                  "answer_start": 228
+                }
+              ]
+            }
+          ],
+          "context": "Foreign arrivals above the age of six without vaccine certification must provide a medical PCR (Polymerase Chain Reaction) certificate showing a negative coronavirus test result, issued no later than 72 hours before entry. This requirement does not apply to holders of permanent or temporary residency in Belarus. There is no self-isolation requirement. However, fully vaccinated arrivals against COVID-19 must provide documentary evidence that the second dose was administered more than 1 but less than 12 months before arrival. You are responsible for providing evidence of full vaccination. This should be original or copy of COVID certificate (printed version) either in Belarusian, Russian or English. The certificate should include your full name and date of vaccination."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is land entry into belarus open to foreigners?",
+              "answers": [
+                {
+                  "text": "land border for foreign citizens has been suspended",
+                  "answer_start": 45
+                }
+              ]
+            }
+          ],
+          "context": "Entry into the Republic of Belarus through a land border for foreign citizens has been suspended. There is a narrow list of concessions, including for holders of permanent/temporary residency - you should check the State Border Committee website   for details. If you fall into one of the concessional categories, you should be aware that checks at the border might take longer than usual."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to take a covid-19 test to enter gaza?",
+              "answers": [
+                {
+                  "text": "All travellers of all ages arriving in Israel, including those who have been vaccinated or recovered, must take a COVID-19 (PCR) tests on arrival in Israel, at their own expense.",
+                  "answer_start": 20
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive for covid when entering gaza?",
+              "answers": [
+                {
+                  "text": "If the result of the test is positive the individual will be required to remain in isolation for a minimum of 14 days.",
+                  "answer_start": 499
+                }
+              ]
+            }
+          ],
+          "context": "Testing on arrival: All travellers of all ages arriving in Israel, including those who have been vaccinated or recovered, must take a COVID-19 (PCR) tests on arrival in Israel, at their own expense. You can make the payment after you submit the entry statement form prior to traveling to Israel. Payment in advance is at a reduced price. Only PCR tests are admissible. Quarantine requirements: All passengers must enter isolation until the results of their PCR test arrive, or 24 hours have passed. If the result of the test is positive the individual will be required to remain in isolation for a minimum of 14 days. Entrants from \u2018red\u2019 locations will be required to isolate in a government facility.Full guidance on requirements upon arrival is regularly updated online."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How can i prove my covid-19 status?",
+              "answers": [
+                {
+                  "text": "If you hold a verifiable digital certificate proving vaccination status, this should be scanned or uploaded along with the entry declaration.",
+                  "answer_start": 36
+                }
+              ]
+            }
+          ],
+          "context": "Demonstrating your COVID-19 status: If you hold a verifiable digital certificate proving vaccination status, this should be scanned or uploaded along with the entry declaration. If you do not have a verifiable digital certificate, you should declare the vaccinations you have received in the entry declaration form and attach all relevant documentation. You will then receive a Green Pass prior to boarding your flight."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i fly from the uk to china?",
+              "answers": [
+                {
+                  "text": "The Chinese authorities have suspended all direct flights from the UK.",
+                  "answer_start": 212
+                }
+              ]
+            },
+            {
+              "question": "Do i need a visa to go to china from the uk?",
+              "answers": [
+                {
+                  "text": "You will need a valid visa to enter China",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Where can i apply for a chinese visa in the uk?",
+              "answers": [
+                {
+                  "text": "London, Manchester and Edinburgh",
+                  "answer_start": 83
+                }
+              ]
+            }
+          ],
+          "context": "You will need a valid visa to enter China. The Chinese Visa Application Centres in London, Manchester and Edinburgh are operating but with limited opening hours. The Application Centre in Belfast remains closed. The Chinese authorities have suspended all direct flights from the UK. This measure will be subject to review but no date has been announced. Restrictions on travel to China from other countries, and the necessary requirements, may be different. British nationals travelling to China from a third country should follow the directions on the website of the local Chinese Embassy or consulate for requirements from that country. On 4 November 2020 the Chinese Embassy in the UK announced the temporary suspension of entry into China by non-Chinese nationals in the UK holding Chinese visas or residence permits valid at the time of the announcement."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i use an nhs test to enter china?",
+              "answers": [
+                {
+                  "text": "You should not use the NHS testing service to get a test in order to facilitate your travel to another country",
+                  "answer_start": 1
+                }
+              ]
+            },
+            {
+              "question": "How many flights are running from europe to shanghai?",
+              "answers": [
+                {
+                  "text": "A small number of international flights are also operating direct between European cities and Shanghai",
+                  "answer_start": 538
+                }
+              ]
+            }
+          ],
+          "context": " You should not use the NHS testing service to get a test in order to facilitate your travel to another country. You should arrange to take a private test from one of the eligible providers. <br>\\nA limited number of international flights from other countries are flying into Beijing. Other international passenger flights to Beijing continue to be diverted to 16 designated airports in Chengdu, Changsha, Hefei, Lanzhou, Tianjin, Shijiazhuang, Taiyuan, Hohhot, Jinan, Qingdao, Nanjing, Shenyang, Dalian, Zhengzhou, Xi\\u2019an and Wuhan. A small number of international flights are also operating direct between European cities and Shanghai, Guangzhou and Qingdao."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does it matter whether i am vaccinated when entering the bahamas?",
+              "answers": [
+                {
+                  "text": "Different rules apply to residents and visitors, fully vaccinated and unvaccinated travellers",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Different rules apply to residents and visitors, fully vaccinated and unvaccinated travellers and different age groups. The rules can change at short notice."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the name of the bahamas entry document regarding covid-19?",
+              "answers": [
+                {
+                  "text": "Bahamas Travel Health Visa Trip application",
+                  "answer_start": 39
+                }
+              ]
+            }
+          ],
+          "context": " All visitors of any age must submit a Bahamas Travel Health Visa Trip application. The health visa application is available from The Bahamas travel page. An email response will be provided once the application is completed, followed by an approval or denial of the health visa. This confirmation must be presented upon arrival in The Bahamas. You should allow 48 hours to process. A fee may be payable for certain categories of visitor."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where should i isolate myself if i test positive during my holiday in the bahamas?",
+              "answers": [
+                {
+                  "text": "hotel, private residence or medical facility",
+                  "answer_start": 125
+                }
+              ]
+            },
+            {
+              "question": "Can minors enter the bahamas alone?",
+              "answers": [
+                {
+                  "text": "arrive in The Bahamas with a parent or guardian",
+                  "answer_start": 556
+                }
+              ]
+            }
+          ],
+          "context": "If you test positive for COVID-19 in The Bahamas before returning to your country, you will be expected to self-isolate in a hotel, private residence or medical facility. You should also be expected to be contacted by local health authorities to confirm that you are complying with self-isolation rules. Should you need to leave your place of self-isolation for essential purposes then arrangements can be made with the local authorities. It is important to note that people under 17 years of age cannot apply for a Travel Health visa. They must therefore arrive in The Bahamas with a parent or guardian."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there many flights to burkina faso?",
+              "answers": [
+                {
+                  "text": "flights to and from Burkina Faso remain limited.",
+                  "answer_start": 11
+                }
+              ]
+            },
+            {
+              "question": "How many days in advance should i test prior to landing in burkina faso?",
+              "answers": [
+                {
+                  "text": "no more than 5 days prior to entry",
+                  "answer_start": 409
+                }
+              ]
+            },
+            {
+              "question": "What happens if i do not test before landing in burkina faso?",
+              "answers": [
+                {
+                  "text": "identity documents temporarily confiscated by the authorities and will be required to take a rapid diagnostic test",
+                  "answer_start": 460
+                }
+              ]
+            }
+          ],
+          "context": "Commercial flights to and from Burkina Faso remain limited. Check with your travel company for the latest information. Land and sea borders remain closed until further notice. <br>\\nAll international travellers will need to present a negative COVID 19 PCR test certificate dated no more than 5 days prior to arrival in Burkina Faso. <br>\\nPassengers arriving in Burkina Faso without a negative PCR test dated no more than 5 days prior to entry will have their identity documents temporarily confiscated by the authorities and will be required to take a rapid diagnostic test (RDT) and a PCR test. Confiscated identity documents will be returned after verification of payment for the tests. In the event of a positive RDT test, travellers will be placed in quarantine at their own expense at a government allocated hotel for 72 hours while awaiting the results of the PCR test. RDT and PCR tests are free for children under 6 years old."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How far in advance can i take my test before flying to belize?",
+              "answers": [
+                {
+                  "text": "96 hours prior to travel",
+                  "answer_start": 205
+                }
+              ]
+            },
+            {
+              "question": "What happens if i don\u2019t test prior to arriving in belize?",
+              "answers": [
+                {
+                  "text": "you must take a test on arrival at the airport for a fee",
+                  "answer_start": 354
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive when entering belize?",
+              "answers": [
+                {
+                  "text": "you will be required to undertake a mandatory quarantine at an approved quarantine hotel at your own expense",
+                  "answer_start": 817
+                }
+              ]
+            }
+          ],
+          "context": "All travellers aged 5 years or over (vaccinated and unvaccinated) entering Belize through the Philip Goldson International airport must present a negative COVID-19 test result from a PCR test taken within 96 hours prior to travel or from an approved rapid antigen test (home testing kits are not accepted) taken within 48 hours. If no test is presented, you must take a test on arrival at the airport for a fee of BZ$100. Travellers entering Belize by land or sea must undertake a COVID-19 rapid antigen test administered by the Ministry of Health and Wellness at the travellers expense. External COVID-19 test results will not be accepted. Land and sea ports of entry will be open to foreign tourists 8am to 4pm Monday to Friday and 8am to midday on Saturday and Sunday. If you receive a positive result on arrival, you will be required to undertake a mandatory quarantine at an approved quarantine hotel at your own expense. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is curfew in belize?",
+              "answers": [
+                {
+                  "text": "11pm to 4am Sunday to Thursday and midnight to 4am on Friday and Saturday",
+                  "answer_start": 157
+                }
+              ]
+            },
+            {
+              "question": "Is the curfew different for children?",
+              "answers": [
+                {
+                  "text": "the curfew applies from 8pm to 4am every day, unless with a parent or guardian",
+                  "answer_start": 246
+                }
+              ]
+            }
+          ],
+          "context": "Regulations remain in force to tackle the spread of coronavirus. A nationwide curfew is in place until further notice. For adults, the curfew is active from 11pm to 4am Sunday to Thursday and midnight to 4am on Friday and Saturday. For children, the curfew applies from 8pm to 4am every day, unless with a parent or guardian. Regular updates are made to the Statutory Instruments that set out the COVID-19 regulations in Belize."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long will i have to quarantine if i arrive from botswana?",
+              "answers": [
+                {
+                  "text": "quarantine for 10 days at a government-designated facility",
+                  "answer_start": 226
+                }
+              ]
+            }
+          ],
+          "context": "The Ministry of Health will monitor each case. A negative test is required as proof of recovery. Anyone travelling from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe must be vaccinated and quarantine for 10 days at a government-designated facility."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is health insurance mandatory in cambodia?",
+              "answers": [
+                {
+                  "text": "Health insurance is no longer mandatory",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Does cambodia accept proof of covid recovery?",
+              "answers": [
+                {
+                  "text": "Cambodia will accept proof of COVID-19 recovery",
+                  "answer_start": 390
+                }
+              ]
+            },
+            {
+              "question": "Do unvaccinated minors need to quarantine?",
+              "answers": [
+                {
+                  "text": "Unvaccinated under 18 year olds will be quarantined",
+                  "answer_start": 686
+                }
+              ]
+            }
+          ],
+          "context": "Health insurance is no longer mandatory but all foreign travellers are encouraged to purchase COVID-19 health insurance that includes a minimum of US$50,000 for medical cover through the Forte Insurance website. This evidence should be printed in colour. Demonstrating your COVID-19 status: All vaccinated travellers will need to demonstrate their vaccination status on arrival in Cambodia.Cambodia will accept proof of COVID-19 recovery and vaccination record and proof of COVID-19 vaccination issued in the Crown Dependencies. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. Unvaccinated under 18 year olds will be quarantined in accordance with the period that applies to the accompanying adult(s). "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is exempt from showing vaccination status when entering bosnia?",
+              "answers": [
+                {
+                  "text": "diplomats travelling to Bosnia and Herzegovina on official duties, EUFOR/NATO staff, freight drivers and crew, and foreigners in transit",
+                  "answer_start": 50
+                }
+              ]
+            }
+          ],
+          "context": "Some groups are exempt from this rule, including: diplomats travelling to Bosnia and Herzegovina on official duties, EUFOR/NATO staff, freight drivers and crew, and foreigners in transit to their country of residence. Changes to restrictions may be introduced at short notice. You should comply with any screening measures put in place by the authorities. You should arrange to take a private test. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where is mask wearing and social distancing required in bosnia and herzegozina?",
+              "answers": [
+                {
+                  "text": "in public transport, in public places and outside in crowded areas",
+                  "answer_start": 175
+                }
+              ]
+            },
+            {
+              "question": "What is at risk if i do not respect rules in bosnia?",
+              "answers": [
+                {
+                  "text": "fines",
+                  "answer_start": 365
+                }
+              ]
+            }
+          ],
+          "context": "Everyone should comply with the measures put in place in Bosnia and Herzegovina to limit the spread of coronavirus (COVID-19). Mask wearing and social distancing are required in public transport, in public places and outside in crowded areas, and there can be restrictions on the numbers of people gathering. Failure to observe public health measures can result in fines (see Protective clothing below). You should follow the advice of all levels of authority as restrictions may be introduced without notice"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What armenian land borders are open?",
+              "answers": [
+                {
+                  "text": "Borders with Georgia and Iran",
+                  "answer_start": 46
+                }
+              ]
+            },
+            {
+              "question": "What is the status of the border controls in georgia and iran?",
+              "answers": [
+                {
+                  "text": "neighboring countries retain their own strict border controls",
+                  "answer_start": 112
+                }
+              ]
+            }
+          ],
+          "context": "On 12 January 2021, Armenia reopened its land borders with Georgia and Iran to foreign nationals. However, both neighboring countries retain their own strict border controls in response to COVID-19. You should check Georgia and Iran entry/exit requirements before attempting to cross land borders to/from Armenia."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where do i have to wear a mask in armenia?",
+              "answers": [
+                {
+                  "text": "in all public or private transport, and in all public spaces",
+                  "answer_start": 25
+                }
+              ]
+            }
+          ],
+          "context": "You must wear a facemask in all public or private transport, and in all public spaces. Breaches of mask-wearing protocols are subject to a 10,000AMD fine. You should follow the advice of the Armenian authorities on permitted activities."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are land borders open in cambodia?",
+              "answers": [
+                {
+                  "text": "the Cambodia-Laos, Cambodia-Thailand and Cambodia-Vietnam land borders are closed",
+                  "answer_start": 102
+                }
+              ]
+            },
+            {
+              "question": "Are tests required upon entry in cambodia?",
+              "answers": [
+                {
+                  "text": "All foreigners arriving in Cambodia will be subject to a COVID-19 test on arrival",
+                  "answer_start": 222
+                }
+              ]
+            }
+          ],
+          "context": "Transiting Cambodia: It is currently not possible to enter or depart Cambodia through land borders as the Cambodia-Laos, Cambodia-Thailand and Cambodia-Vietnam land borders are closed. <br>\\n*Testing/screening on arrival: All foreigners arriving in Cambodia will be subject to a COVID-19 test on arrival (as well as requiring a COVID negative test before flying) depending on their vaccination status. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do you need to comply with argentinian sanitary requirements if you are transiting through the airport?",
+              "answers": [
+                {
+                  "text": "you are not required to comply with any sanitary requirements",
+                  "answer_start": 108
+                }
+              ]
+            },
+            {
+              "question": "Do you need to comply with argentinian sanitary requirements if you pass through immigration?",
+              "answers": [
+                {
+                  "text": "you must comply with the sanitary entry requirements applicable to you",
+                  "answer_start": 372
+                }
+              ]
+            }
+          ],
+          "context": "If you are transiting through Argentina on your way to another country and staying in the airport (airside) you are not required to comply with any sanitary requirements. If you are transiting through Argentina on your way to another country and will be passing through immigration (sometimes known as a layover), for example to stay in a hotel for a flight the next day, you must comply with the sanitary entry requirements applicable to you. These will differ if you are a non-resident foreign national or a resident of Argentina, as well as if you are fully vaccinated, or not."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do fully vaccinated travellers require a test when entering barbados?",
+              "answers": [
+                {
+                  "text": "must arrive with evidence of an RT-PCR test taken during the three days prior to arrival",
+                  "answer_start": 83
+                }
+              ]
+            }
+          ],
+          "context": "Fully vaccinated persons (2 doses administered more than 14 days prior to arrival) must arrive with evidence of an RT-PCR test taken during the three days prior to arrival in Barbados. Details of what the Barbadian authorities will accept as proof of vaccination can be found in the Barbados Travel Protocols. If you are unable to provide sufficient proof that you have been vaccinated then you will be treated as if you are unvaccinated. A number of fully vaccinated arrivals will be randomly chosen to have a rapid antigen test. There is no requirement to quarantine, as the result will be made available very quickly."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What tests are not accepted when entering barbados?",
+              "answers": [
+                {
+                  "text": "LAMP tests, rapid antigen tests, self-administered tests or home kits or tests using saliva samples will not be accepted.",
+                  "answer_start": 222
+                }
+              ]
+            }
+          ],
+          "context": "Accepted tests include tests which were taken at an approved or recognised laboratory by a healthcare provider via a nasopharyngeal or oropharyngeal sample (or both). Your test certificate should provide this information. LAMP tests, rapid antigen tests, self-administered tests or home kits or tests using saliva samples will not be accepted. You should check the protocols to confirm and understand all requirements."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where do i need to quarantine when entering barbados when i am not vaccinated? ?",
+              "answers": [
+                {
+                  "text": "a designated holding hotel, approved villa or a government facility",
+                  "answer_start": 66
+                }
+              ]
+            },
+            {
+              "question": "How long do i need to quarantine when entering barbados when i am not vaccinated? ?",
+              "answers": [
+                {
+                  "text": "until you receive the results of your second test",
+                  "answer_start": 310
+                }
+              ]
+            }
+          ],
+          "context": "Unvaccinated arrivals will be quarantined at approved facilities (a designated holding hotel, approved villa or a government facility at your own expense) and undergo a second PCR test 5 days after arrival. You will need to remain in your hotel room and may be required to wear an electronic tracking bracelet until you receive the results of your second test. The government aims to return results within 48 hours, although return times can sometimes be longer than this. If the result of that second test is negative, you will not be subject to further quarantine."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel to french guiana for non-essential reasons?",
+              "answers": [
+                {
+                  "text": "Travellers must prove that entry is for essential reasons.",
+                  "answer_start": 69
+                }
+              ]
+            }
+          ],
+          "context": "Travel to French Guiana is severely restricted until further notice. Travellers must prove that entry is for essential reasons. You may also need to request permission from the Prefecture in order to enter."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to take a covid test to travel to french guiana?",
+              "answers": [
+                {
+                  "text": "All travellers over the age of 11 must undertake a test for COVID-19 within 72 hours before departure for French Guiana.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i need to self-isolate after travelling to french guiana?",
+              "answers": [
+                {
+                  "text": "Arrivals from most destinations will also be required to self-isolate for seven days, before taking another PCR test.",
+                  "answer_start": 217
+                }
+              ]
+            }
+          ],
+          "context": "All travellers over the age of 11 must undertake a test for COVID-19 within 72 hours before departure for French Guiana. The test is obligatory and the traveller must show proof of a negative result before embarking. Arrivals from most destinations will also be required to self-isolate for seven days, before taking another PCR test."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to take a test if transfer flights in germany?",
+              "answers": [
+                {
+                  "text": "people who change planes at airports in Germany must also provide proof of vaccination, recovery or testing.",
+                  "answer_start": 98
+                }
+              ]
+            },
+            {
+              "question": "Will i need to wear a mask on public transport in germany?",
+              "answers": [
+                {
+                  "text": "Wearing a medical-grade mask remains a legal requirement in retail outlets and on public transport.",
+                  "answer_start": 433
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive for covid in germany?",
+              "answers": [
+                {
+                  "text": "Anyone testing positive with a Point of Care (PoC) antigen test is required to take a follow-up PCR test immediately and to self-isolate.",
+                  "answer_start": 574
+                }
+              ]
+            }
+          ],
+          "context": "Transit: pFlight transfers at airports are now classed as entries into a country. This means that people who change planes at airports in Germany must also provide proof of vaccination, recovery or testing. COVID-19 restrictions: Both the vaccinated and unvaccinated must continue to adhere to basic non-pharmaceutical guidelines, such as social distancing, wearing masks in enclosed spaces, and regularly ventilating indoor spaces. Wearing a medical-grade mask remains a legal requirement in retail outlets and on public transport.Testing positive for COVID-19 in Germany: Anyone testing positive with a Point of Care (PoC) antigen test is required to take a follow-up PCR test immediately and to self-isolate. Close contacts are also required to self-isolate, although exceptions may apply for those who are fully vaccinated."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When can i request a mobility pass in chile?",
+              "answers": [
+                {
+                  "text": "14-days after completing a full COVID-19 vaccination course in Chile",
+                  "answer_start": 209
+                }
+              ]
+            },
+            {
+              "question": "Where can i check if i am eligible for a chilean mobility pass?",
+              "answers": [
+                {
+                  "text": "eligibility criteria on the Chile Government website",
+                  "answer_start": 50
+                }
+              ]
+            }
+          ],
+          "context": "You may obtain a Mobility Pass if you fulfill the eligibility criteria on the Chile Government website. This will generate a QR-code after entering your personal information. This permit can only be requested 14-days after completing a full COVID-19 vaccination course in Chile (i.e. after the second dose for a two-dose course COVID-19 vaccine such as AstraZeneca, Pfizer, etc)."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel in chile when i am in quarantine?",
+              "answers": [
+                {
+                  "text": "you are not allowed interregional travel if you are in quarantine",
+                  "answer_start": 25
+                }
+              ]
+            }
+          ],
+          "context": "You should be aware that you are not allowed interregional travel if you are in quarantine after arriving in Chile. Non-resident foreign nationals will need to hold a valid Mobility Pass."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to be vaccinated to enter ghana?",
+              "answers": [
+                {
+                  "text": "All persons 18 years and over arriving into Ghana are required to provide evidence of being fully vaccinated against COVID-19.",
+                  "answer_start": 297
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Ghana: Kotoka International Airport is open. Commercial flights are operating to and from Ghana. Check with your travel company for the latest information. Land and sea borders remain closed. COVID-19 protocols at the airport may be subject to change as the new screening process evolves.All persons 18 years and over arriving into Ghana are required to provide evidence of being fully vaccinated against COVID-19. The Ghana Health Service defines a fully vaccinated person as someone who has taken the full dose of vaccines approved and registered by the Food and Drugs Authority of Ghana. This is one dose of Johnson and Johnson, or two doses of AstraZeneca, Pfizer, Moderna or Sputnik V."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does afghanistan have the medical facilities to deal with covid-19?",
+              "answers": [
+                {
+                  "text": "not have the capacity or capability to effectively deal with the COVID-19 outbreak",
+                  "answer_start": 49
+                }
+              ]
+            }
+          ],
+          "context": "Medical facilities, including those in Kabul, do not have the capacity or capability to effectively deal with the COVID-19 outbreak. The supply of ICU beds and ventilators is low. There are areas which have no medical facilities with ICU beds and ventilators."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the status of entry into afghanistan?",
+              "answers": [
+                {
+                  "text": "no inbound options to travel to the country",
+                  "answer_start": 94
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Afghanistan: Commercial flights are no longer operating to and from Kabul. There are no inbound options to travel to the country."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to take a covid test to enter gambia, if i am vaccinated?",
+              "answers": [
+                {
+                  "text": "Fully vaccinated passengers arriving do not require a negative PCR COVID-19 test to enter The Gambia.",
+                  "answer_start": 183
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive for covid on arrival at gambia?",
+              "answers": [
+                {
+                  "text": "If found positive, you will be quarantined at a government facility until your test returns a negative result.",
+                  "answer_start": 397
+                }
+              ]
+            }
+          ],
+          "context": "Entry to The Gambia: A variety of commercial flights service The Gambia. Check availability with your travel company for the latest information. The land border with Senegal is open. Fully vaccinated passengers arriving do not require a negative PCR COVID-19 test to enter The Gambia. You must show proof of vaccination. To enter The Gambia you will be asked to submit to a Rapid Diagnostic Test. If found positive, you will be quarantined at a government facility until your test returns a negative result. Non-vaccinated or partially vaccinated passengers arriving will require a negative PCR COVID-19 certificate, taken no more than 72 hours before arrival. Passengers will also be asked to submit to a Rapid Diagnostic Test. If found positive, you will be quarantined at a government facility until your test returns a negative result. Infants below 2 years of age are exempt. All other passengers must show proof of full vaccination or a negative PCR COVID-19 certificate."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What requirements does your vaccination certificate need to have in austria?",
+              "answers": [
+                {
+                  "text": "same requirements above for the EUDCC",
+                  "answer_start": 95
+                }
+              ]
+            }
+          ],
+          "context": "Documents equivalent to the 'EU Digital COVID Certificate' are also accepted, if they meet the same requirements above for the EUDCC."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does my ten year old need to provide proof of vaccination to travel in austria?",
+              "answers": [
+                {
+                  "text": "Children under 12 years and travelling with an adult are generally exempt",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What does my 15 year old child need to provide to travel in austria?",
+              "answers": [
+                {
+                  "text": "proof of vaccination, recovery or a negative test result",
+                  "answer_start": 104
+                }
+              ]
+            }
+          ],
+          "context": "Children under 12 years and travelling with an adult are generally exempt from the requirement to carry proof of vaccination, recovery or a negative test result."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How far in advance do you have to fill in the passenger locator form when travelling to belgium?",
+              "answers": [
+                {
+                  "text": "6 months before entering",
+                  "answer_start": 62
+                }
+              ]
+            },
+            {
+              "question": "Are land border exempt from filling out the plf in belgium?",
+              "answers": [
+                {
+                  "text": "same applies to people who travel to Belgium by train or bus",
+                  "answer_start": 572
+                }
+              ]
+            },
+            {
+              "question": "Why does belgium use a passenger locator form?",
+              "answers": [
+                {
+                  "text": "To determine the quarantine measures",
+                  "answer_start": 106
+                }
+              ]
+            }
+          ],
+          "context": "Passenger Locator Form: all travellers must fill it in within 6 months before entering Belgium.Important: To determine the quarantine measures, the PLF will take into consideration the areas where you have been in the 14 days before travelling. If the zones have changed colour, measures will apply retroactively. There is an exception when the person is traveling by specific travel means and staying less than 48 hours abroad, or less than 48 hours in Belgium. Persons who travel to Belgium by boat or plane are always obliged to fill in the Passenger Locator Form. The same applies to people who travel to Belgium by train or bus from outside the EU or Schengen area."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What vaccination certification is required to be considered as fully vaccinated in belgium?",
+              "answers": [
+                {
+                  "text": "EMA or Covidshield",
+                  "answer_start": 256
+                }
+              ]
+            },
+            {
+              "question": "How dated does my last vaccine need to be to be considered fully vaccinated in belgium?",
+              "answers": [
+                {
+                  "text": "You are fully vaccinated if your last injection was at least two weeks ago",
+                  "answer_start": 148
+                }
+              ]
+            }
+          ],
+          "context": "COVID certificates; there are three types of certificates: vaccination certificate proves that you are fully vaccinated against the COVID-19 virus. You are fully vaccinated if your last injection was at least two weeks ago, and the vaccine is certified by EMA or Covidshield. certificate of recovery proves that you have been infected with COVID-19 and have recovered. You have had a positive PCR test less than 180 days old and your isolation period has ended. test certificate proves that you have had a negative PCR test. This can be a negative PCR test of maximum 72 hours or a negative antigen test of maximum 36 hours."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What test is required to enter aruba?",
+              "answers": [
+                {
+                  "text": "antigen or a PCR test",
+                  "answer_start": 125
+                }
+              ]
+            },
+            {
+              "question": "From what age do travelers need to show a negative test when entering aruba?",
+              "answers": [
+                {
+                  "text": "over the age of 12",
+                  "answer_start": 14
+                }
+              ]
+            }
+          ],
+          "context": "All travelers over the age of 12 must present a negative COVID-19 test result when entering Aruba. The test can be either an antigen or a PCR test and must have been carried out no more than 24 hours before departure. A health screening and temperature check will be carried out on arrival."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there flights going into cameroon?",
+              "answers": [
+                {
+                  "text": "There are multiple commercial flight options to enter and leave Cameroon",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is the status of borders in cameroon?",
+              "answers": [
+                {
+                  "text": "Access across Cameroon land and sea borders is currently restricted due to COVID-19",
+                  "answer_start": 74
+                }
+              ]
+            }
+          ],
+          "context": "There are multiple commercial flight options to enter and leave Cameroon. Access across Cameroon land and sea borders is currently restricted due to COVID-19. Travel requirements to enter and exit Cameroon can change without notice and without proactive communication. The Centre for the Coordination of Public Health Emergency Operations conditions of entry and exit to Cameroon."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How dated can my test be to enter cameroon and not need to self isolate?",
+              "answers": [
+                {
+                  "text": "no older than 72 hours before boarding",
+                  "answer_start": 33
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive upon arrival in cameroon?",
+              "answers": [
+                {
+                  "text": "will be held for further enquiries to trace contacts and movements",
+                  "answer_start": 273
+                }
+              ]
+            }
+          ],
+          "context": "If you have a proof of a recent (no older than 72 hours before boarding) negative coronavirus test, you will normally not have to self-isolate. Anyone that has developed symptoms of Coronavirus on their travel or tests positive on arrival at Yaound\\u00e9 or Douala airport will be held for further enquiries to trace contacts and movements. We believe that anyone testing positive can quarantine at the location of your host or private accommodation until a negative PCR test is produced.These requirements are regularly evolving."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When flying to bangladesh from lesotho do i need to quarantine?",
+              "answers": [
+                {
+                  "text": "required to complete mandatory 14 day quarantine at a government nominated quarantine hotel",
+                  "answer_start": 162
+                }
+              ]
+            }
+          ],
+          "context": "Passengers who have visited, or transited Botswana, Eswatini, Ghana, Lesotho, Namibia, South Africa and Zimbabwe, within the preceding 14 days of 4 December, are required to complete mandatory 14 day quarantine at a government nominated quarantine hotel upon arrival in Bangladesh, regardless of vaccination status."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who covers the cost of quarantine in bangladesh?",
+              "answers": [
+                {
+                  "text": "people staying in a government approved hotel, government facility or hospital will need to cover the costs of those stays and any necessary COVID-19 tests",
+                  "answer_start": 206
+                }
+              ]
+            }
+          ],
+          "context": "Passengers that are subject to mandatory quarantine hotel stay should confirm their stay prior to travel. Proof of a quarantine hotel reservation will be required at airport check-in. In all circumstances, people staying in a government approved hotel, government facility or hospital will need to cover the costs of those stays and any necessary COVID-19 tests. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where are masks mandatory in bangladesh?",
+              "answers": [
+                {
+                  "text": "masks must be worn at all times",
+                  "answer_start": 5
+                }
+              ]
+            }
+          ],
+          "context": "Face masks must be worn at all times when moving in and around Bangladesh. Anyone not complying with these requests risks legal action"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to wear a face mask in public in georgia?",
+              "answers": [
+                {
+                  "text": "It is mandatory to wear masks in public places indoors (shops, hotels etc) and outdoors.",
+                  "answer_start": 547
+                }
+              ]
+            }
+          ],
+          "context": "Accommodation: Most hotels and other rental accommodation are open. Face masks must be worn when entering public spaces inside hotels and rental accommodation. Public spaces and services: Georgia introduced a COVID \\u201cgreen pass\\u201d system on 1 December 2021. You will need to prove your \\u201cgreen\\u201d status in order to enter:Hotels and other accommodation, Food outlets (open and closed spaces of restaurants, cafes, bars-including shopping malls), Cinemas, theatres, concert halls and entertainment facilities, Spas & gyms, Ski lifts. It is mandatory to wear masks in public places indoors (shops, hotels etc) and outdoors. Failing to do so can result in a 20 Lari fine for an individual or 500 Lari for a legal entity."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does my 5 year old child need to provide test results to enter bulgaria?",
+              "answers": [
+                {
+                  "text": "Children up to the age of 12 are not required to provide any COVID-19 related documents",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What covid vaccination certificate is recommended in bulgaria?",
+              "answers": [
+                {
+                  "text": "EU Digital COVID Certificate",
+                  "answer_start": 218
+                }
+              ]
+            },
+            {
+              "question": "What must vaccine documents contain to be valid in bulgaria?",
+              "answers": [
+                {
+                  "text": "holder's names and date of birth, dates, trade name and batch number of the relevant doses of the vaccine, name of the manufacturer/holder of the market authorisation, country where it was administered",
+                  "answer_start": 540
+                }
+              ]
+            }
+          ],
+          "context": "Children up to the age of 12 are not required to provide any COVID-19 related documents, regardless of their country of departure. Travellers from green and orange countries can enter Bulgaria only if they present an 'EU Digital COVID Certificate' (EUDCC), or equivalent documents, containing one of the following:Proof of full vaccination, valid from 14 days after the last scheduled dose. The combination of one dose of Vaxzevria (AstraZeneca) with one dose of Comirnaty (Pfizer-BioNTech) is also accepted. The document must contain: the holder's names and date of birth, dates, trade name and batch number of the relevant doses of the vaccine, name of the manufacturer/holder of the market authorisation, country where it was administered."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i leave bulgaria if i am self isolating?",
+              "answers": [
+                {
+                  "text": "During self-isolation you are not permitted to leave Bulgaria",
+                  "answer_start": 607
+                }
+              ]
+            },
+            {
+              "question": "How long do i have to quarantine if i test positive to covid-19?",
+              "answers": [
+                {
+                  "text": "required to self-isolate for 10 days",
+                  "answer_start": 309
+                }
+              ]
+            }
+          ],
+          "context": "Public spaces and services: An Emergency Epidemic situation is in place until 31 March 2022. Various coronavirus measures and restrictions remain in force during this time. The police are strictly enforcing measures and failure to comply could result in a fine. If you test positive for COVID-19, you will be required to self-isolate for 10 days. Additionally, there is a mandatory 7-day self-isolation requirement (starting from the date of last contact with the infected person) for anyone who has been in close contact with someone who has tested positive for COVID-19, regardless of vaccination status. During self-isolation you are not permitted to leave Bulgaria. The 7-day mandatory self-isolation period for close contacts may be revoked for close contacts who are vaccinated with a booster dose and who present a negative PCR test taken 72 hours after the mandatory self-isolation period commenced."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a covid test to travel to gabon?",
+              "answers": [
+                {
+                  "text": "All passengers travelling to Gabon must present a valid negative polymerase chain reaction (PCR) test no older than 3 days or a valid COVID-19 vaccination certificate for entry into Gabon.",
+                  "answer_start": 141
+                }
+              ]
+            }
+          ],
+          "context": "In relation to other countries, flight restrictions have eased to allow five flights per airline, per week. Land and sea borders are closed. All passengers travelling to Gabon must present a valid negative polymerase chain reaction (PCR) test no older than 3 days or a valid COVID-19 vaccination certificate for entry into Gabon."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to take a covid test on arrival into gabon?",
+              "answers": [
+                {
+                  "text": "On arrival, all passengers must take a compulsory test for COVID-19 at Libreville Airport.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Will i need to quarantine on arrival  into gabon?",
+              "answers": [
+                {
+                  "text": "Vaccinated passengers are allowed to proceed out of the airport without observing a quarantine. Non-vaccinated passengers are required to self-isolate for 5 days in designated hotels at their own expense whilst the COVID-19 test is being processed.",
+                  "answer_start": 91
+                }
+              ]
+            }
+          ],
+          "context": "On arrival, all passengers must take a compulsory test for COVID-19 at Libreville Airport. Vaccinated passengers are allowed to proceed out of the airport without observing a quarantine. Non-vaccinated passengers are required to self-isolate for 5 days in designated hotels at their own expense whilst the COVID-19 test is being processed. Passports will be retained by the immigration authorities during this time and returned after successful completion of the isolation time. If the COVID-19 test is negative, passengers will be issued a test certificate, which is valid for 14 days and can be renewed at the end of this period after another test is undertaken. Holders of vaccination certificates still have to undergo the compulsory testing but can self-isolate in the facility of their choice and do not have to leave their passport."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What happens if i test positive for covid in gabon?",
+              "answers": [
+                {
+                  "text": "If a COVID-19 test taken at the airport is positive, then passengers are required to continue self-isolation and await specific instructions from Gabonese health authorities.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "If a COVID-19 test taken at the airport is positive, then passengers are required to continue self-isolation and await specific instructions from Gabonese health authorities. Visitors to Gabon will have to go to one of the hotels which the government of Gabon has nominated for isolation."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What burundian land borders are open?",
+              "answers": [
+                {
+                  "text": "Land borders with Tanzania and the DRC border crossing at Gatumba-Uvira are open.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i need a test to enter burundi?",
+              "answers": [
+                {
+                  "text": "All travellers to Burundi must have proof of a negative COVID-19 test issued in the last 72 hours",
+                  "answer_start": 168
+                }
+              ]
+            }
+          ],
+          "context": "Land borders with Tanzania and the DRC border crossing at Gatumba-Uvira are open. All other land and maritime borders are closed with the exception of goods and cargo. All travellers to Burundi must have proof of a negative COVID-19 test issued in the last 72 hours. Travellers to and from Burundi must also book arrival and departure COVID-19 tests through the Ministry of Health before their arrival/departure."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are night clubs open in burundi?",
+              "answers": [
+                {
+                  "text": "Night clubs and karaoke bars in Burundi are closed until further notice",
+                  "answer_start": 288
+                }
+              ]
+            },
+            {
+              "question": "Do public transport works need to wear masks?",
+              "answers": [
+                {
+                  "text": "must wear a face mask",
+                  "answer_start": 143
+                }
+              ]
+            }
+          ],
+          "context": "All persons requesting in-person services from the Bujumbura Mairie, or any of the Mairie\\u2019s satellite buildings in the zones or communes, must wear a face mask. All drivers and passengers of public transport vehicles, including taxis, motos and bicycle taxis, must wear a face mask. Night clubs and karaoke bars in Burundi are closed until further notice. Burundi\\u2019s national testing and prevention campaign was relaunched on January 11, 2021, and residents of Bujumbura are encouraged to voluntarily submit to a free test at one of the screening sites throughout the city. Persons who violate quarantine or other prevention measures may be subject to fines or other penalties."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How to demonstrate proof of vaccination in azerbaijan?",
+              "answers": [
+                {
+                  "text": "proof of COVID-19 recovery and vaccination record",
+                  "answer_start": 71
+                }
+              ]
+            }
+          ],
+          "context": "Demonstrating your COVID-19 vaccination status: Azerbaijan will accept proof of COVID-19 recovery and vaccination record. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does azerbaijan require a negative test to depart the country?",
+              "answers": [
+                {
+                  "text": "Azerbaijan does not require you to produce a negative COVID-19 test",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Azerbaijan does not require you to produce a negative COVID-19 test to depart the country. However, you should check any testing requirements of the airlines that you are boarding, the country you are travelling to, as well as any countries you may be transiting to see what testing requirement they may have to enable you to travel. You should seek to have any test results you need to produce to fly received via email and printed off, or a paper certificate."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the status of covid-19 restrictions in azerbaijan?",
+              "answers": [
+                {
+                  "text": "no restrictions on travel around Azerbaijan",
+                  "answer_start": 20
+                }
+              ]
+            }
+          ],
+          "context": "There are currently no restrictions on travel around Azerbaijan. Most businesses and services are open. Almost all public places are only accessible for those with a COVID-19 Passport showing proof of vaccination or immunity. Supermarkets and chemists are exempt. British nationals vaccinated through the Azerbaijani vaccination programme can access a COVID-19 Passport via the local medical authorities (TABIB)"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What airlines are currently flying to angola?",
+              "answers": [
+                {
+                  "text": "TAP Air Portugal, Lufthansa, Air France, Brussels Airlines, Turkish Airlines, Emirates and Ethiopian Airlines",
+                  "answer_start": 88
+                }
+              ]
+            }
+          ],
+          "context": "There are a number of indirect commercial flights between the UK and Angola operated by TAP Air Portugal, Lufthansa, Air France, Brussels Airlines, Turkish Airlines, Emirates and Ethiopian Airlines."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the requirements when entering angola?",
+              "answers": [
+                {
+                  "text": "negative COVID-19 PCR test completed 72 hours before travel",
+                  "answer_start": 50
+                }
+              ]
+            }
+          ],
+          "context": "All passengers are required to show evidence of a negative COVID-19 PCR test completed 72 hours before travel to Angola. All passengers are required to complete an Advance Passenger Information form (FRV form) 72 hours before travel to Angola. Several travel documents must be uploaded onto the form in PDF format to be accepted before entry to Angola. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the protocol upon arrival in angola?",
+              "answers": [
+                {
+                  "text": "rapid COVID-19 test",
+                  "answer_start": 171
+                }
+              ]
+            }
+          ],
+          "context": "In addition to the requirement to show evidence of a negative COVID-19 test completed 72 hours before arrival in Angola, all arriving passengers are required to undergo a rapid COVID-19 test immediately on disembarkation from the plane. The cost of the test is approximately USD $20 and is payable by Angolan bank card, credit card or in cash on arrival. The test is undertaken in a hangar at the airport, but can take time. It usually takes approximately 20 to 40 minutes, depending on the number of passengers being processed, but it is advisable to carry water and a refreshment in case there is a long wait."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is exempt from quarantine when entering angola?",
+              "answers": [
+                {
+                  "text": "fully vaccinated and test negative on disembarkation are exempt from any quarantine ",
+                  "answer_start": 82
+                }
+              ]
+            }
+          ],
+          "context": "On 14 January 2022, the Angolan authorities announced that all passengers who are fully vaccinated and test negative on disembarkation are exempt from any quarantine requirements. Those who are not vaccinated and test negative on disembarkation will need to undertake compulsory self-quarantine for 7 days before undergoing a further COVID-19 test. A negative test is required to obtain a Titulo De Alta (ALTA) from the approved health centre and to be discharged from quarantine."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How to enter anguilla?",
+              "answers": [
+                {
+                  "text": "ports, sea and air",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What ports are operating ferries to aguilla?",
+              "answers": [
+                {
+                  "text": "Simpson Bay, Dutch Sint-Maarten",
+                  "answer_start": 209
+                }
+              ]
+            }
+          ],
+          "context": "ports, sea and air, are open. The regular ferry service from Marigot Port (French St. Martin) to Blowing Point Ferry Port has been suspended until further notice, however the ferry service is operational from Simpson Bay, Dutch Sint-Maarten. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do pregnant women need a vaccine to enter anguilla?",
+              "answers": [
+                {
+                  "text": "exception to this requirement is for pregnant women",
+                  "answer_start": 189
+                }
+              ]
+            },
+            {
+              "question": "Who is exempt from mandatory vaccination when entering anguilla?",
+              "answers": [
+                {
+                  "text": "pregnant women and children under the age of 18",
+                  "answer_start": 226
+                }
+              ]
+            }
+          ],
+          "context": "All adult visitors arriving in Anguilla must be fully vaccinated (details on accepted vaccinations below) and have received their last vaccination at least 14 days before arrival. The only exception to this requirement is for pregnant women and children under the age of 18. Mixed vaccines are accepted but must be a variation of Pfizer, AstraZeneca and Moderna. Single dose Johnson & Johnson vaccine is also accepted."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How dated is covid test allowed to be when entering botsawna?",
+              "answers": [
+                {
+                  "text": "not older than 72 hours",
+                  "answer_start": 55
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive when i arrive in botswana?",
+              "answers": [
+                {
+                  "text": "need to undergo 14 days isolation or quarantine at your own expense",
+                  "answer_start": 787
+                }
+              ]
+            },
+            {
+              "question": "What is the protocol if i do not show a test upon arrival as a tourist in botswana?",
+              "answers": [
+                {
+                  "text": "you will denied entry",
+                  "answer_start": 548
+                }
+              ]
+            }
+          ],
+          "context": "You must present proof of a negative COVID-19 PCR test not older than 72 hours from your time of departure from your country of origin. After arrival, you will have to remain in contact with the local health authority for a period of 14 days for self-monitoring. You should arrange to take a private test. If youre a returning citizen or resident and do not meet these requirements you will need to undergo 14 day mandatory quarantine and testing at your own expense. If youre not a returning citizen or resident and do not meet these requirements you will denied entry. Botswana border points, all travellers, including children, will be required to undergo an additional cost-free COVID-19 test to gain entry to Botswana. If the test is positive or you show COVID-19 symptoms, you may need to undergo 14 days isolation or quarantine at your own expense."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is enforcing covid-19 restrictions in australia?",
+              "answers": [
+                {
+                  "text": "state government",
+                  "answer_start": 265
+                }
+              ]
+            }
+          ],
+          "context": "Many parts of Australia are experiencing varying levels of COVID-19 outbreaks, and government countermeasures are constantly changing. Restrictions on travel, leaving the home, mask wearing, as well as social distancing measures, are determined and enforced by the state governments. Such restrictions may be enhanced, extended, eased, or lifted at any time. We [U.S. Consulate] strongly recommend consulting the relevant state government page for COVID-related restrictions in your area or any area you plan to travel to."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What to do if tested positive in australia?",
+              "answers": [
+                {
+                  "text": "you may need to stay where you are until you test negative",
+                  "answer_start": 35
+                }
+              ]
+            }
+          ],
+          "context": "If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i leave the airport during a transit in australia?",
+              "answers": [
+                {
+                  "text": "You will be need to stay within the airport for the duration of your transit",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "You will be need to stay within the airport for the duration of your transit, or if transiting overnight, you may be taken to mandatory quarantine for the duration of your transit or may need to self-isolate in a hotel."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are albanian land borders open?",
+              "answers": [
+                {
+                  "text": "Land borders are open",
+                  "answer_start": 55
+                }
+              ]
+            }
+          ],
+          "context": "Entry rules in response to coronavirus (COVID-19): All land borders are open."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do you need a test if you are vaccinated when entering albania?",
+              "answers": [
+                {
+                  "text": "proof of COVID-19 vaccination",
+                  "answer_start": 119
+                }
+              ]
+            },
+            {
+              "question": "How to enter albania without test of vaccination?",
+              "answers": [
+                {
+                  "text": "evidence proving that you have recovered from COVID-19 within the last six months",
+                  "answer_start": 395
+                }
+              ]
+            }
+          ],
+          "context": "Entering Albania: Foreign nationals, aged six and above, travelling to Albania, must demonstrate one of the following: proof of COVID-19 vaccination. The second/final dose of vaccine must have been administered at least 14 days before arrival, negative PCR COVID-19 test performed up to 72 hours ahead of arrival,  rapid Antigen (COVID-19) test performed no more than 48 hours ahead of arrival, evidence proving that you have recovered from COVID-19 within the last six months. These requirements also apply to those travellers who transit through Albania."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where are face masks mandatory in albania?",
+              "answers": [
+                {
+                  "text": "indoors and whilst using public transport",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ],
+          "context": "The wearing of face masks is mandatory only indoors and whilst using public transport. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are albanian night clubs open?",
+              "answers": [
+                {
+                  "text": "Night clubs remain closed",
+                  "answer_start": 353
+                }
+              ]
+            },
+            {
+              "question": "What time is the curfew in albania?",
+              "answers": [
+                {
+                  "text": "11pm to 6am",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ],
+          "context": "Since 1 September, a night time curfew from 11pm to 6am is in place. Other than the night-time curfew, there are currently no restrictions on movement within Albania. Public transport and taxis are operating as normal. Public places and businesses: Bars and restaurants must close by 11pm as per the curfew. However, delivery services remain available. Night clubs remain closed. Outdoor gatherings of up to 50 people are allowed, provided the Institute of Public Health Albania rules are followed."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What covid-19 mask wearing policies are there in andorra?",
+              "answers": [
+                {
+                  "text": "use of face masks is mandatory in enclosed public premises",
+                  "answer_start": 326
+                }
+              ]
+            }
+          ],
+          "context": "The Andorran authorities have various restrictions in place including social distancing of 1.5m unless specific protocols are in place. The use of a mask is not mandatory in public spaces and on urban roads, provided that there are no crowds of people that do not allow you to maintain the minimum distance of 1.5 meters. The use of face masks is mandatory in enclosed public premises such as bars, restaurants, shops and cultural establishments, among others. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What do andorran authorities consider a valid covid certificate?",
+              "answers": [
+                {
+                  "text": "vaccination certificate, a recovery certificate, or a negative diagnostic test",
+                  "answer_start": 43
+                }
+              ]
+            }
+          ],
+          "context": "The Andorran authorities consider either a vaccination certificate, a recovery certificate, or a negative diagnostic test as an acceptable COVID certificate."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How to avoid quarantine in argentina?",
+              "answers": [
+                {
+                  "text": "If you are fully vaccinated, you can enter Argentina as a tourist without needing quarantine.  ",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How can i prove my vaccination status when entering argentina?",
+              "answers": [
+                {
+                  "text": "document from a national or state-level public health body",
+                  "answer_start": 380
+                }
+              ]
+            }
+          ],
+          "context": "If you are fully vaccinated, you can enter Argentina as a tourist without needing quarantine.  At least 14 days must have passed since your second dose of the vaccine. Whether you have received a complete course of a vaccine or not, will be determined by the authorities of the country where you received your vaccine. You must be able to prove your full vaccination status via a document from a national or state-level public health body if vaccinated abroad."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How old do children have to be to not be required to test when entering argentina?",
+              "answers": [
+                {
+                  "text": "Children aged 5 and under",
+                  "answer_start": 27
+                }
+              ]
+            }
+          ],
+          "context": "Children and young people: Children aged 5 and under, do not need to take a test to enter Argentina. Children aged 17 and under who do not qualify as fully vaccinated can enter Argentina without needing to self-isolate but should avoid large gatherings for the first 7 days."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What happens if i test positive for covid-19 in greece?",
+              "answers": [
+                {
+                  "text": "If you test positive for COVID-19 while in Greece you must self-isolate for 5 days from the date of the positive test result.",
+                  "answer_start": 49
+                }
+              ]
+            }
+          ],
+          "context": "What to do if you test positive while in Greece: If you test positive for COVID-19 while in Greece you must self-isolate for 5 days from the date of the positive test result. You may leave self-isolation after 5 days if you are no longer experiencing symptoms, otherwise you should continue to self-isolate.If you have been in close contact with someone who has tested positive and have received your booster, you are not obliged to self-isolate but must take a PCR or rapid test on day 5 of the exposure. If you are unvaccinated or are vaccinated but have not received your booster, you must take a PCR or rapid test and self-isolate for 5 days.The above guidance may not apply in the case of variants of special interest. These cases will be assessed by the EMEA (Greek health authority) and appropriate instructions will be given.Depending on the circumstances, you may be able to self-isolate in your current accommodation, or Greek authorities will ask you to self-isolate in a state provided quarantine hootel."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to wear a mask in public in greece?",
+              "answers": [
+                {
+                  "text": "It is mandatory to wear a mask in all indoor and outdoor public spaces, in all areas of Greece.",
+                  "answer_start": 16
+                }
+              ]
+            }
+          ],
+          "context": "Wearing a mask: It is mandatory to wear a mask in all indoor and outdoor public spaces, in all areas of Greece. In certain areas, such as in supermarkets and pharmacies, and on public transport, you will be required to wear either double masks (at least one of which should be surgical), or an N95/FFP2 mask."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel in greece without having had a covid-19 vaccine?",
+              "answers": [
+                {
+                  "text": "Travel by aeroplane, train and bus is allowed subject to either a certified negative PCR test in the last 72 hours before the scheduled time of arrival at destination, or to a certified rapid (antigen) test within 48 hours of scheduled arrival at destination",
+                  "answer_start": 109
+                }
+              ]
+            },
+            {
+              "question": "Can i go to shops and restaurants without having had a vaccine?",
+              "answers": [
+                {
+                  "text": "You must present proof of a negative rapid test, taken up to 48 hours before entry, to visit other public spaces including shops and restaurants (outdoors)",
+                  "answer_start": 508
+                }
+              ]
+            }
+          ],
+          "context": "Unvaccinated in Greece: If you have not been fully vaccinated or do not have proof of recovery from COVID-19:Travel by aeroplane, train and bus is allowed subject to either a certified negative PCR test in the last 72 hours before the scheduled time of arrival at destination, or to a certified rapid (antigen) test within 48 hours of scheduled arrival at destination;You will not be allowed to enter nightclubs, restaurants (indoors), theatres, cinemas, museums, exhibitions, conferences, gyms and stadiums;You must present proof of a negative rapid test, taken up to 48 hours before entry, to visit other public spaces including shops and restaurants (outdoors);Failure to comply with these rules may be met with fines of up to \u20ac5,000;Unvaccinated children (between the ages 4 and 18) require a negative self-test to enter public spaces such as shops, restaurants (indoor and outdoor) and museums."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What languages should documents be in when entering brazil?",
+              "answers": [
+                {
+                  "text": "English, Spanish or Portuguese",
+                  "answer_start": 524
+                }
+              ]
+            },
+            {
+              "question": "How dated should my pcr test be when entering brazil?",
+              "answers": [
+                {
+                  "text": "within 72 hours of boarding",
+                  "answer_start": 372
+                }
+              ]
+            },
+            {
+              "question": "How dated should my antigen test be when entering brazil?",
+              "answers": [
+                {
+                  "text": "within 24 hours of boarding",
+                  "answer_start": 463
+                }
+              ]
+            }
+          ],
+          "context": "International Restrictions: Entry by air: Entry requirements in response to COVID-19 are subject to change at short notice and travellers are strongly advised to review these directly with the Brazilian authorities prior to travel. Most people aged 12 or over travelling to Brazil by air will have to present documentary evidence of a negative PCR test for COVID-19 taken within 72 hours of boarding. Alternatively, they may present a negative antigen test taken within 24 hours of boarding. All forms of proof should be in English, Spanish or Portuguese and shown to airline staff at check-in."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "If arriving by land with a vaccine can i enter brazil?",
+              "answers": [
+                {
+                  "text": "only permitted entry if they are seeking to transit through Brazil",
+                  "answer_start": 533
+                }
+              ]
+            },
+            {
+              "question": "Are brazilian land borders open?",
+              "answers": [
+                {
+                  "text": "Brazil has re-opened all of its land borders.",
+                  "answer_start": 213
+                }
+              ]
+            },
+            {
+              "question": "What do travellers need to provide when entering brazil?",
+              "answers": [
+                {
+                  "text": "evidence of a negative PCR or Antigen test, as well as proof of full COVID-19 vaccination",
+                  "answer_start": 313
+                }
+              ]
+            }
+          ],
+          "context": "Brazilian and resident foreign nationals, who have been in the above countries during the last 14 days, may be allowed to enter Brazil. However, they have to comply with a 14 day quarantine period. Entry by land: Brazil has re-opened all of its land borders. For entry by land, travellers are required to present evidence of a negative PCR or Antigen test, as well as proof of full COVID-19 vaccination. However, unlike the requirements for those arriving by air, foreign travellers arriving by land without proof of vaccination are only permitted entry if they are seeking to transit through Brazil to their country of ordinary residence."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are cruise ships running in brazil?",
+              "answers": [
+                {
+                  "text": "temporarily suspended domestic cruise ships",
+                  "answer_start": 121
+                }
+              ]
+            }
+          ],
+          "context": "Following a recommendation from the Brazilian National Health Surveillance Agency (ANVISA), the Brazilian Government has temporarily suspended domestic cruise ships from operating along the Brazilian coast. Given the fluid coronavirus situation globally, such cruises are likely to remain subject to disruption at short notice throughout 2022. <br>\\nThe Brazilian government continues to suspend the entry of all international cruise ships and prohibits most foreigners from disembarking at any port or other maritime location in Brazil regardless of nationality. These restrictions do not apply to resident foreigners and foreign spouses, children, parents or custodians of a Brazilian national."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What test is mandatory upon arrival in algeria?",
+              "answers": [
+                {
+                  "text": "antigen",
+                  "answer_start": 45
+                }
+              ]
+            },
+            {
+              "question": "How do you pay for the mandatory antigen test on arrival in algeria?",
+              "answers": [
+                {
+                  "text": "cash",
+                  "answer_start": 115
+                }
+              ]
+            }
+          ],
+          "context": "All travellers will also have to complete an antigen test on arrival in Algeria. Antigen tests must be paid for in cash. All travellers must bring sufficient cash with them as there are no opportunities to withdraw cash before the antigen test. Payment must be made of either Euros, US Dollars, or 1,600 Algerian Dinar. You should arrange to take a private test."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the risks if you do not comply with restrictions in algeria?",
+              "answers": [
+                {
+                  "text": "prison",
+                  "answer_start": 238
+                }
+              ]
+            }
+          ],
+          "context": "All security services and local authorities have been instructed to rigorously monitor and enforce compliance with preventive and other social distancing measures. Penalties include fines up to the equivalent of \\u00a3600, and 6 months imprisonment."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "In algeria, are restaurants open?",
+              "answers": [
+                {
+                  "text": "Recreational areas, beaches, cultural centres, sports facilities, restaurants, fast food outlets, cafes and most markets are open",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Recreational areas, beaches, cultural centres, sports facilities, restaurants, fast food outlets, cafes and most markets are open. Weddings, funerals and other large gatherings are allowed within certain rules. Primary schools, secondary schools and universities reopened in 2020, with additional COVID-19 measures in place. The 2021 to 22 school year began on 21 September. Universities re-opened in October."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where and how long is the quarantine when entering bahrain unvaccinated?",
+              "answers": [
+                {
+                  "text": "7 days at your residence or an approved quarantine centre",
+                  "answer_start": 516
+                }
+              ]
+            },
+            {
+              "question": "What test is required to enter bahrain?",
+              "answers": [
+                {
+                  "text": "negative PCR test certificate with QR code before boarding the aircraft, administered within 72 hours of departure",
+                  "answer_start": 226
+                }
+              ]
+            }
+          ],
+          "context": "Bahrain International Airport remains open, including for transit and transfer passengers, and visas on arrival are available for foreign nationals. From 9 January 2022 all arrivals aged 6 and above must: present an approved, negative PCR test certificate with QR code before boarding the aircraft, administered within 72 hours of departure. pay for and undergo a PCR test on arrival (at the airport). Non-vaccinated arrivals (for individuals aged 12 and above) will additionally need to: quarantine for a period of 7 days at your residence or an approved quarantine centre. Before travelling, you should check with your airline who may have their own boarding requirements."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How to obtain the vaccination certification card in bahrain?",
+              "answers": [
+                {
+                  "text": " will need proof of official COVID-19 vaccination status",
+                  "answer_start": 223
+                }
+              ]
+            }
+          ],
+          "context": "Vaccinated arrivals will receive a Vaccination Certification Card on arrival which will allow access to indoor public services in-country, depending on Bahrain Traffic Light Alert System. See Public places and services. You will need proof of official COVID-19 vaccination status to receive the card and avoid the need for quarantine. Vaccination certificates must contain a QR code unless issued from the UK, USA, European Union, Switzerland, Canada, Australia, New Zealand, South Korea, Japan, Singapore or Israel. Full vaccination status is deemed as those with vaccines approved by the World Health Organisation (WHO) or Bahrain."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a test or vaccine to transit through bahrain?",
+              "answers": [
+                {
+                  "text": "Transit and transfer passengers are permitted to use Bahrain International Airport without the requirement to undergo testing.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Transit and transfer passengers are permitted to use Bahrain International Airport without the requirement to undergo testing. You should check Bahrain visa portal for the most up to date information."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can unvaccinated tourists enter colombia without a visa?",
+              "answers": [
+                {
+                  "text": "not be allowed to enter the country",
+                  "answer_start": 260
+                }
+              ]
+            },
+            {
+              "question": "How dated can my pcr test be when i enter colombia?",
+              "answers": [
+                {
+                  "text": "no later than 72 hours prior to boarding",
+                  "answer_start": 629
+                }
+              ]
+            }
+          ],
+          "context": "Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. <br>\\nUnvaccinated foreign nationals who are not holders of a Permanent Resident visa in Colombia will not be allowed to enter the country. <br>\\nColombian nationals, foreign nationals holders of a Permanent Resident visa, Diplomatic staff and their dependants over 18 who are unvaccinated, have not completed their vaccination scheme or have had their final dose less than 14 days before travel, will be able to enter Colombia showing proof of a negative PCR test issued no later than 72 hours prior to boarding."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are surgical masks required in airports in colombia?",
+              "answers": [
+                {
+                  "text": "Surgical masks must be used by all passengers above 2 years of age throughout the journey",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What masks do the colombian government recommend?",
+              "answers": [
+                {
+                  "text": "N95 masks are recommended",
+                  "answer_start": 169
+                }
+              ]
+            }
+          ],
+          "context": "Surgical masks must be used by all passengers above 2 years of age throughout the journey, from entering the air terminal, during the flight and at the port of arrival. N95 masks are recommended for passengers above 60 years of age and those with pre-existing health conditions."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is the airport always open in the british virgin islands?",
+              "answers": [
+                {
+                  "text": "close for two half hour periods each day between 9:00 am to 9:30 am and 6:00 pm to 6:30 pm",
+                  "answer_start": 223
+                }
+              ]
+            },
+            {
+              "question": "Where can i enter the british virgin islands if i am not vaccinated?",
+              "answers": [
+                {
+                  "text": "the BVI through the Road Town Jetty and the T B Lettsome International Airport",
+                  "answer_start": 876
+                }
+              ]
+            }
+          ],
+          "context": "Entry to the British Virgin Islands: Entry by air to the Territory is only permitted through the Terrance B. Lettsome International Airport. The airport is currently operating reduced hours from 7:30 am to 7:30 pm and will close for two half hour periods each day between 9:00 am to 9:30 am and 6:00 pm to 6:30 pm. <br>\\nTravellers who have been fully vaccinated, with the second dose of a World Health Organization approved vaccine administered at least 14 days before travel, can also enter the BVI by sea through the Road Town Jetty; Soper\\u2019s Hole Dock, West End; Great Harbour, Jost Van Dyke; or Spanish Town, Virgin Gorda. <br>\\nPartially vaccinated travellers (those that have received one dose of a two-dose vaccine, or whose second dose was administered less than two weeks before arriving in the Territory) and unvaccinated travellers are only permitted to enter the BVI through the Road Town Jetty and the T B Lettsome International Airport."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i currently fly from europe to bolivia?",
+              "answers": [
+                {
+                  "text": "Flight restrictions from Europe have been lifted",
+                  "answer_start": 41
+                }
+              ]
+            },
+            {
+              "question": "What test is required when entering bolivia?",
+              "answers": [
+                {
+                  "text": "PCR test",
+                  "answer_start": 140
+                }
+              ]
+            },
+            {
+              "question": "How long do i have to self-isolate if i am not vaccinated when entering bolivia?",
+              "answers": [
+                {
+                  "text": "need to self- isolate for 10 days",
+                  "answer_start": 393
+                }
+              ]
+            }
+          ],
+          "context": "Restrictions in response to coronavirus: Flight restrictions from Europe have been lifted. Passengers arriving from all countries require a PCR test taken up to 72 hours before flying and is required for everybody over 5-years of age to enter Bolivia. Passengers need to show a vaccination certificate dated at least 14 days before arrival in Bolivia. Passengers that have not been vaccinated need to self- isolate for 10 days. Tourists must show proof of medical insurance that will cover the cost of COVID treatment.  You should arrange to take a private test. You should check specific requirements with your airline. The border with Brazil is temporarily closed. Other land, river and lake border crossings have been opened by Bolivian authorities, but Paraguay is the only neighbouring country that has opened its borders so far. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What test is required to fly internally in bolivia?",
+              "answers": [
+                {
+                  "text": "a negative PCR test within the last 48 hours",
+                  "answer_start": 45
+                }
+              ]
+            }
+          ],
+          "context": "As of 26 January vaccination certificates or a negative PCR test within the last 48 hours will be required for internal flights and bus journeys in Bolivia."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel in canada if i show symptoms of coronavirus?",
+              "answers": [
+                {
+                  "text": "Anyone showing symptoms associated with coronavirus will be barred from domestic flights and some inter-city train services",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How do i prove that i am allowed to not wear a mask?",
+              "answers": [
+                {
+                  "text": "Anyone who cannot wear a face mask for medical reasons must be in possession of a medical certificate",
+                  "answer_start": 256
+                }
+              ]
+            },
+            {
+              "question": "What is required to use canadian public transportation?",
+              "answers": [
+                {
+                  "text": "possession of a mask/facial covering",
+                  "answer_start": 674
+                }
+              ]
+            }
+          ],
+          "context": "Anyone showing symptoms associated with coronavirus will be barred from domestic flights and some inter-city train services. Non-medical face masks or face coverings are required for all flights to and from Canadian airports, and within airport terminals. Anyone who cannot wear a face mask for medical reasons must be in possession of a medical certificate. The Canadian authorities recommend the use of non-medical masks/facial coverings when it is not possible to consistently maintain a 2-metre physical distance from others, including on public transportation. Some local transport authorities are making this a mandatory requirement. You should ensure that you are in possession of a mask/facial covering when using public transport in the event you are requested by transport operators to wear one."
+        }
+      ]
+    }
+  ]
+}

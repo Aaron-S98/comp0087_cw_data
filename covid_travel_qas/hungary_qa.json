@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to wear a face mask in hungary?",
+              "answers": [
+                {
+                  "text": "Wearing a face mask is mandatory in hospitals and social institutions, and on public transport. From 20 November, it is also compulsory to wear a face mask in indoor public spaces, including shops, museums, theatres and cinemas.",
+                  "answer_start": 323
+                }
+              ]
+            },
+            {
+              "question": "Will there be social distancing in hungary?",
+              "answers": [
+                {
+                  "text": "Social distancing rules are currently not in force.",
+                  "answer_start": 720
+                }
+              ]
+            },
+            {
+              "question": "Are there curfews in hungary?",
+              "answers": [
+                {
+                  "text": "Curfews are no longer in place and all shops and service providers are able to open as normal.",
+                  "answer_start": 117
+                }
+              ]
+            }
+          ],
+          "context": "Travel in Hungary: Everyone should comply with the measures put in place in Hungary to limit the spread of COVID-19. Curfews are no longer in place and all shops and service providers are able to open as normal. Those who have received their first vaccine dose are issued with an Immunity Certification from the Government.Wearing a face mask is mandatory in hospitals and social institutions, and on public transport. From 20 November, it is also compulsory to wear a face mask in indoor public spaces, including shops, museums, theatres and cinemas.There is currently no requirement to produce an Immunity Certificate to enter restaurants, hotels and leisure facilities and attend cultural events with booked seating. Social distancing rules are currently not in force. For sporting, dance and other indoor events, as well as outdoor events with more than 500 people attendance, including Christmas markets, entry is only allowed to holders of Immunity Certificates."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel to hungary?",
+              "answers": [
+                {
+                  "text": "From within the EU: Non-essential travel to Hungary is allowed only to Hungarian citizens who hold an immunity card, and to non-Hungarian nationals who can provide one of the following: Proof of strong vaccination, proof of strong recovery/strong from COVID-19, negative result/strong to a molecular, PCR, test, valid 72 hours, issued in English or Hungarian and performed in EU countries.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "From within the EU: Non-essential travel to Hungary is allowed only to Hungarian citizens who hold an immunity card, and to non-Hungarian nationals who can provide one of the following: Proof of strong vaccination, proof of strong recovery/strong from COVID-19, negative result/strong to a molecular, PCR, test, valid 72 hours, issued in English or Hungarian and performed in EU countries. Transit: Non-Hungarian citizens transiting via road, railway or water travel can enter Hungary if: they agree to a medical examination upon entry, and the medical examination does not establish the suspicion of COVID-19 infection."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What should i do if i test positive for covid-19 in hungary?",
+              "answers": [
+                {
+                  "text": "you must self-isolate at your accommodation",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ],
+          "context": "If you test positive for coronavirus during your stay in Hungary, you must self-isolate at your accommodation. You can leave your self-isolation when all of the following three conditions are met:you have had no fever for 3 days;your respiratory symptoms have ceased;10 days have passed from the start of your on-set of symptoms or the date of your positive PCR test, whichever was earliest.You cannot leave your accommodation and you cannot have guests during your period of self-isolation. You can order groceries, food and medicine online and have it delivered to your home. In a medical emergency, you should call 112."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a covid test to travel to gabon?",
+              "answers": [
+                {
+                  "text": "All passengers travelling to Gabon must present a valid negative polymerase chain reaction (PCR) test no older than 3 days or a valid COVID-19 vaccination certificate for entry into Gabon.",
+                  "answer_start": 141
+                }
+              ]
+            }
+          ],
+          "context": "In relation to other countries, flight restrictions have eased to allow five flights per airline, per week. Land and sea borders are closed. All passengers travelling to Gabon must present a valid negative polymerase chain reaction (PCR) test no older than 3 days or a valid COVID-19 vaccination certificate for entry into Gabon."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to take a covid test on arrival into gabon?",
+              "answers": [
+                {
+                  "text": "On arrival, all passengers must take a compulsory test for COVID-19 at Libreville Airport.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Will i need to quarantine on arrival  into gabon?",
+              "answers": [
+                {
+                  "text": "Vaccinated passengers are allowed to proceed out of the airport without observing a quarantine. Non-vaccinated passengers are required to self-isolate for 5 days in designated hotels at their own expense whilst the COVID-19 test is being processed.",
+                  "answer_start": 91
+                }
+              ]
+            }
+          ],
+          "context": "On arrival, all passengers must take a compulsory test for COVID-19 at Libreville Airport. Vaccinated passengers are allowed to proceed out of the airport without observing a quarantine. Non-vaccinated passengers are required to self-isolate for 5 days in designated hotels at their own expense whilst the COVID-19 test is being processed. Passports will be retained by the immigration authorities during this time and returned after successful completion of the isolation time. If the COVID-19 test is negative, passengers will be issued a test certificate, which is valid for 14 days and can be renewed at the end of this period after another test is undertaken. Holders of vaccination certificates still have to undergo the compulsory testing but can self-isolate in the facility of their choice and do not have to leave their passport."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What happens if i test positive for covid in gabon?",
+              "answers": [
+                {
+                  "text": "If a COVID-19 test taken at the airport is positive, then passengers are required to continue self-isolation and await specific instructions from Gabonese health authorities.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "If a COVID-19 test taken at the airport is positive, then passengers are required to continue self-isolation and await specific instructions from Gabonese health authorities. Visitors to Gabon will have to go to one of the hotels which the government of Gabon has nominated for isolation."
+        }
+      ]
+    }
+  ]
+}

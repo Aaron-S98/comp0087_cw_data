@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to quarantine in guam?",
+              "answers": [
+                {
+                  "text": "All incoming passengers, including those in transit, will be subject to a 14- day quarantine at a government-designated facility.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Are shops open in guam?",
+              "answers": [
+                {
+                  "text": "Retail outlets, shopping malls, salons and government services that adhere to social-distancing measures are allowed to operate.",
+                  "answer_start": 632
+                }
+              ]
+            }
+          ],
+          "context": "All incoming passengers, including those in transit, will be subject to a 14- day quarantine at a government-designated facility. Travellers who have been in a COVID-19-affected country for more than a week will be barred entry if they do not hold a document recognised and certified by Guam Department of Social Health and Services (DPHSS) confirming that they are not infected with COVID-19. The test must be dated no more than 72 hours before the date of arrival. Returning residents are exempted. A state of public health emergency is in place until at least 5 June. During this period, gatherings up to ten people are allowed. Retail outlets, shopping malls, salons and government services that adhere to social-distancing measures are allowed to operate. Several roads remain closed from 10.00 to 22.00 daily for essential or authorised services only."
+        }
+      ]
+    }
+  ]
+}

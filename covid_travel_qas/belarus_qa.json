@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What does pcr stand for?",
+              "answers": [
+                {
+                  "text": "Polymerase Chain Reaction",
+                  "answer_start": 96
+                }
+              ]
+            },
+            {
+              "question": "Do residents of belarus need to provide tests when entering the country ?",
+              "answers": [
+                {
+                  "text": "requirement does not apply to holders of permanent or temporary residency in Belarus",
+                  "answer_start": 228
+                }
+              ]
+            }
+          ],
+          "context": "Foreign arrivals above the age of six without vaccine certification must provide a medical PCR (Polymerase Chain Reaction) certificate showing a negative coronavirus test result, issued no later than 72 hours before entry. This requirement does not apply to holders of permanent or temporary residency in Belarus. There is no self-isolation requirement. However, fully vaccinated arrivals against COVID-19 must provide documentary evidence that the second dose was administered more than 1 but less than 12 months before arrival. You are responsible for providing evidence of full vaccination. This should be original or copy of COVID certificate (printed version) either in Belarusian, Russian or English. The certificate should include your full name and date of vaccination."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is land entry into belarus open to foreigners?",
+              "answers": [
+                {
+                  "text": "land border for foreign citizens has been suspended",
+                  "answer_start": 45
+                }
+              ]
+            }
+          ],
+          "context": "Entry into the Republic of Belarus through a land border for foreign citizens has been suspended. There is a narrow list of concessions, including for holders of permanent/temporary residency - you should check the State Border Committee website   for details. If you fall into one of the concessional categories, you should be aware that checks at the border might take longer than usual."
+        }
+      ]
+    }
+  ]
+}

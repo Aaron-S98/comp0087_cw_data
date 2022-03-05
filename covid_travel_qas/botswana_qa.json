@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How dated is covid test allowed to be when entering botsawna?",
+              "answers": [
+                {
+                  "text": "not older than 72 hours",
+                  "answer_start": 55
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive when i arrive in botswana?",
+              "answers": [
+                {
+                  "text": "need to undergo 14 days isolation or quarantine at your own expense",
+                  "answer_start": 787
+                }
+              ]
+            },
+            {
+              "question": "What is the protocol if i do not show a test upon arrival as a tourist in botswana?",
+              "answers": [
+                {
+                  "text": "you will denied entry",
+                  "answer_start": 548
+                }
+              ]
+            }
+          ],
+          "context": "You must present proof of a negative COVID-19 PCR test not older than 72 hours from your time of departure from your country of origin. After arrival, you will have to remain in contact with the local health authority for a period of 14 days for self-monitoring. You should arrange to take a private test. If youre a returning citizen or resident and do not meet these requirements you will need to undergo 14 day mandatory quarantine and testing at your own expense. If youre not a returning citizen or resident and do not meet these requirements you will denied entry. Botswana border points, all travellers, including children, will be required to undergo an additional cost-free COVID-19 test to gain entry to Botswana. If the test is positive or you show COVID-19 symptoms, you may need to undergo 14 days isolation or quarantine at your own expense."
+        }
+      ]
+    }
+  ]
+}

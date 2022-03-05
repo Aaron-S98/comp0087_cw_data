@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are albanian land borders open?",
+              "answers": [
+                {
+                  "text": "Land borders are open",
+                  "answer_start": 55
+                }
+              ]
+            }
+          ],
+          "context": "Entry rules in response to coronavirus (COVID-19): All land borders are open."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do you need a test if you are vaccinated when entering albania?",
+              "answers": [
+                {
+                  "text": "proof of COVID-19 vaccination",
+                  "answer_start": 119
+                }
+              ]
+            },
+            {
+              "question": "How to enter albania without test of vaccination?",
+              "answers": [
+                {
+                  "text": "evidence proving that you have recovered from COVID-19 within the last six months",
+                  "answer_start": 395
+                }
+              ]
+            }
+          ],
+          "context": "Entering Albania: Foreign nationals, aged six and above, travelling to Albania, must demonstrate one of the following: proof of COVID-19 vaccination. The second/final dose of vaccine must have been administered at least 14 days before arrival, negative PCR COVID-19 test performed up to 72 hours ahead of arrival,  rapid Antigen (COVID-19) test performed no more than 48 hours ahead of arrival, evidence proving that you have recovered from COVID-19 within the last six months. These requirements also apply to those travellers who transit through Albania."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where are face masks mandatory in albania?",
+              "answers": [
+                {
+                  "text": "indoors and whilst using public transport",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ],
+          "context": "The wearing of face masks is mandatory only indoors and whilst using public transport. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are albanian night clubs open?",
+              "answers": [
+                {
+                  "text": "Night clubs remain closed",
+                  "answer_start": 353
+                }
+              ]
+            },
+            {
+              "question": "What time is the curfew in albania?",
+              "answers": [
+                {
+                  "text": "11pm to 6am",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ],
+          "context": "Since 1 September, a night time curfew from 11pm to 6am is in place. Other than the night-time curfew, there are currently no restrictions on movement within Albania. Public transport and taxis are operating as normal. Public places and businesses: Bars and restaurants must close by 11pm as per the curfew. However, delivery services remain available. Night clubs remain closed. Outdoor gatherings of up to 50 people are allowed, provided the Institute of Public Health Albania rules are followed."
+        }
+      ]
+    }
+  ]
+}

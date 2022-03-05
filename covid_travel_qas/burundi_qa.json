@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What burundian land borders are open?",
+              "answers": [
+                {
+                  "text": "Land borders with Tanzania and the DRC border crossing at Gatumba-Uvira are open.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i need a test to enter burundi?",
+              "answers": [
+                {
+                  "text": "All travellers to Burundi must have proof of a negative COVID-19 test issued in the last 72 hours",
+                  "answer_start": 168
+                }
+              ]
+            }
+          ],
+          "context": "Land borders with Tanzania and the DRC border crossing at Gatumba-Uvira are open. All other land and maritime borders are closed with the exception of goods and cargo. All travellers to Burundi must have proof of a negative COVID-19 test issued in the last 72 hours. Travellers to and from Burundi must also book arrival and departure COVID-19 tests through the Ministry of Health before their arrival/departure."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are night clubs open in burundi?",
+              "answers": [
+                {
+                  "text": "Night clubs and karaoke bars in Burundi are closed until further notice",
+                  "answer_start": 288
+                }
+              ]
+            },
+            {
+              "question": "Do public transport works need to wear masks?",
+              "answers": [
+                {
+                  "text": "must wear a face mask",
+                  "answer_start": 143
+                }
+              ]
+            }
+          ],
+          "context": "All persons requesting in-person services from the Bujumbura Mairie, or any of the Mairie\\u2019s satellite buildings in the zones or communes, must wear a face mask. All drivers and passengers of public transport vehicles, including taxis, motos and bicycle taxis, must wear a face mask. Night clubs and karaoke bars in Burundi are closed until further notice. Burundi\\u2019s national testing and prevention campaign was relaunched on January 11, 2021, and residents of Bujumbura are encouraged to voluntarily submit to a free test at one of the screening sites throughout the city. Persons who violate quarantine or other prevention measures may be subject to fines or other penalties."
+        }
+      ]
+    }
+  ]
+}

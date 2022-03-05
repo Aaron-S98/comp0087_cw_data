@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a covid-19 certificate to travel to iceland?",
+              "answers": [
+                {
+                  "text": "Documents equivalent to the EU Digital COVID Certificate in Icelandic, Swedish, Danish, Norwegian or English are also accepted, if they meet the same requirements listed above for the EUDCC.",
+                  "answer_start": 19
+                }
+              ]
+            },
+            {
+              "question": "Are there travel restrictions for transit passengers in iceland?",
+              "answers": [
+                {
+                  "text": "Transit passengers who do not leave the airport are exempt from travel restrictions at the border.",
+                  "answer_start": 209
+                }
+              ]
+            }
+          ],
+          "context": "From within the EU:Documents equivalent to the EU Digital COVID Certificate in Icelandic, Swedish, Danish, Norwegian or English are also accepted, if they meet the same requirements listed above for the EUDCC.Transit passengers who do not leave the airport are exempt from travel restrictions at the border.Travel restrictions do not apply to other EEA/EFTA-citizens and citizens of Monaco, San Marino, and the Vatican.Third-country citizens are still not authorized to travel to Iceland unless exemptions apply."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do children need to quarantine on arrival in iceland?",
+              "answers": [
+                {
+                  "text": "Children younger than 17/strong are exempt from quarantine and testing requirements.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i need to show proof of vaccination when travelling to iceland?",
+              "answers": [
+                {
+                  "text": "Proof of vaccination or proof of recovery in the prior 6 months, travellers who cannot present either of these two documents must present a negative result to pre-departure RT-PCR test - valid 72 hours.",
+                  "answer_start": 84
+                }
+              ]
+            },
+            {
+              "question": "Are there any travel restrictions within iceland?",
+              "answers": [
+                {
+                  "text": "There are currently no restrictions on travel within Iceland.",
+                  "answer_start": 286
+                }
+              ]
+            }
+          ],
+          "context": "Children younger than 17/strong are exempt from quarantine and testing requirements.Proof of vaccination or proof of recovery in the prior 6 months, travellers who cannot present either of these two documents must present a negative result to pre-departure RT-PCR test - valid 72 hours.There are currently no restrictions on travel within Iceland. However, you should regularly monitor government announcements for any rapid changes. Accommodation: Hotels and private rentals are open. You will be expected to follow any COVID-19 related requirements that are displayed in hotels, guesthouses, car rentals and other tourism companies throughout the country.Public spaces and services: Restrictions include social distancing and bans on gatherings over certain numbers."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do fully vaccinated travellers require a test when entering barbados?",
+              "answers": [
+                {
+                  "text": "must arrive with evidence of an RT-PCR test taken during the three days prior to arrival",
+                  "answer_start": 83
+                }
+              ]
+            }
+          ],
+          "context": "Fully vaccinated persons (2 doses administered more than 14 days prior to arrival) must arrive with evidence of an RT-PCR test taken during the three days prior to arrival in Barbados. Details of what the Barbadian authorities will accept as proof of vaccination can be found in the Barbados Travel Protocols. If you are unable to provide sufficient proof that you have been vaccinated then you will be treated as if you are unvaccinated. A number of fully vaccinated arrivals will be randomly chosen to have a rapid antigen test. There is no requirement to quarantine, as the result will be made available very quickly."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What tests are not accepted when entering barbados?",
+              "answers": [
+                {
+                  "text": "LAMP tests, rapid antigen tests, self-administered tests or home kits or tests using saliva samples will not be accepted.",
+                  "answer_start": 222
+                }
+              ]
+            }
+          ],
+          "context": "Accepted tests include tests which were taken at an approved or recognised laboratory by a healthcare provider via a nasopharyngeal or oropharyngeal sample (or both). Your test certificate should provide this information. LAMP tests, rapid antigen tests, self-administered tests or home kits or tests using saliva samples will not be accepted. You should check the protocols to confirm and understand all requirements."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where do i need to quarantine when entering barbados when i am not vaccinated? ?",
+              "answers": [
+                {
+                  "text": "a designated holding hotel, approved villa or a government facility",
+                  "answer_start": 66
+                }
+              ]
+            },
+            {
+              "question": "How long do i need to quarantine when entering barbados when i am not vaccinated? ?",
+              "answers": [
+                {
+                  "text": "until you receive the results of your second test",
+                  "answer_start": 310
+                }
+              ]
+            }
+          ],
+          "context": "Unvaccinated arrivals will be quarantined at approved facilities (a designated holding hotel, approved villa or a government facility at your own expense) and undergo a second PCR test 5 days after arrival. You will need to remain in your hotel room and may be required to wear an electronic tracking bracelet until you receive the results of your second test. The government aims to return results within 48 hours, although return times can sometimes be longer than this. If the result of that second test is negative, you will not be subject to further quarantine."
+        }
+      ]
+    }
+  ]
+}

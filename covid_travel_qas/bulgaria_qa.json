@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does my 5 year old child need to provide test results to enter bulgaria?",
+              "answers": [
+                {
+                  "text": "Children up to the age of 12 are not required to provide any COVID-19 related documents",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What covid vaccination certificate is recommended in bulgaria?",
+              "answers": [
+                {
+                  "text": "EU Digital COVID Certificate",
+                  "answer_start": 218
+                }
+              ]
+            },
+            {
+              "question": "What must vaccine documents contain to be valid in bulgaria?",
+              "answers": [
+                {
+                  "text": "holder's names and date of birth, dates, trade name and batch number of the relevant doses of the vaccine, name of the manufacturer/holder of the market authorisation, country where it was administered",
+                  "answer_start": 540
+                }
+              ]
+            }
+          ],
+          "context": "Children up to the age of 12 are not required to provide any COVID-19 related documents, regardless of their country of departure. Travellers from green and orange countries can enter Bulgaria only if they present an 'EU Digital COVID Certificate' (EUDCC), or equivalent documents, containing one of the following:Proof of full vaccination, valid from 14 days after the last scheduled dose. The combination of one dose of Vaxzevria (AstraZeneca) with one dose of Comirnaty (Pfizer-BioNTech) is also accepted. The document must contain: the holder's names and date of birth, dates, trade name and batch number of the relevant doses of the vaccine, name of the manufacturer/holder of the market authorisation, country where it was administered."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i leave bulgaria if i am self isolating?",
+              "answers": [
+                {
+                  "text": "During self-isolation you are not permitted to leave Bulgaria",
+                  "answer_start": 607
+                }
+              ]
+            },
+            {
+              "question": "How long do i have to quarantine if i test positive to covid-19?",
+              "answers": [
+                {
+                  "text": "required to self-isolate for 10 days",
+                  "answer_start": 309
+                }
+              ]
+            }
+          ],
+          "context": "Public spaces and services: An Emergency Epidemic situation is in place until 31 March 2022. Various coronavirus measures and restrictions remain in force during this time. The police are strictly enforcing measures and failure to comply could result in a fine. If you test positive for COVID-19, you will be required to self-isolate for 10 days. Additionally, there is a mandatory 7-day self-isolation requirement (starting from the date of last contact with the infected person) for anyone who has been in close contact with someone who has tested positive for COVID-19, regardless of vaccination status. During self-isolation you are not permitted to leave Bulgaria. The 7-day mandatory self-isolation period for close contacts may be revoked for close contacts who are vaccinated with a booster dose and who present a negative PCR test taken 72 hours after the mandatory self-isolation period commenced."
+        }
+      ]
+    }
+  ]
+}

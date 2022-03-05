@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What shall i do to comply with restriction when entering the cote d'ivoire?",
+              "answers": [
+                {
+                  "text": "hand in this form on arrival and comply with the medical monitoring system",
+                  "answer_start": 14
+                }
+              ]
+            },
+            {
+              "question": "Are tests done upon arrival in the ivory coast?",
+              "answers": [
+                {
+                  "text": "mandatory PCR testing upon arrival at the airport for those arriving from countries where the Omicron variant has been detected",
+                  "answer_start": 414
+                }
+              ]
+            }
+          ],
+          "context": "Youll need to hand in this form on arrival and comply with the medical monitoring system which has been put in place by the authorities for anyone arriving in Cote d\u2019Ivoire from outside. This includes providing temperature readings and registering your contact details. As of January 2022, all inbound air travellers are likely to be subject to additional measures to control the spread of COVID-19. This includes mandatory PCR testing upon arrival at the airport for those arriving from countries where the Omicron variant has been detected."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long after my arrival will the ivoirian government monitor me?",
+              "answers": [
+                {
+                  "text": "The government plans to monitor inbound travellers health status for five days by calling or texting their mobile phone",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What are the requirements to enter cote d'ivoire?",
+              "answers": [
+                {
+                  "text": "If you have a temperature below 38 degrees and are carrying a valid negative COVID-19 test result",
+                  "answer_start": 122
+                }
+              ]
+            }
+          ],
+          "context": "The government plans to monitor inbound travellers health status for five days by calling or texting their mobile phones. If you have a temperature below 38 degrees and are carrying a valid negative COVID-19 test result, you may be permitted to enter Cote d\u2019Ivoire. You may be monitored by SMS tracking for 14 days. If you have a temperature higher than 38 degrees and/or an invalid COVID-19 test result on arrival, youll be required to take a COVID-19 test at your own expense. "
+        }
+      ]
+    }
+  ]
+}
