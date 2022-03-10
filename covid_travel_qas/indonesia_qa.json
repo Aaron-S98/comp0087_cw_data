@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i apply for a tourist visa to indonesia?",
+              "answers": [
+                {
+                  "text": "Tourist visas are not currently available for foreign Nationals.",
+                  "answer_start": 546
+                }
+              ]
+            },
+            {
+              "question": "Do i need proof of covid-19 vaccination for a visa to indonesia?",
+              "answers": [
+                {
+                  "text": "The requirements include:a. Proof of full COVID-19 vaccination",
+                  "answer_start": 610
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Indonesia: Indonesia is implementing a series of changes to admission for foreign nationals in response to developments in the Covid pandemic. While these are being rolled out, in addition to meeting the categories below, you should reconfirm your eligibility to enter Indonesia with your travel agent/airline and the Indonesian Embassy.Visit Visa: Foreigners can now apply for a visitor or limited stay visa, including visas on compassionate grounds. The application should be made by the sponsor to the Director General of Immigration.Tourist visas are not currently available for foreign Nationals.The requirements include:a. Proof of full COVID-19 vaccination; b. Letter stating willingness to obey Indonesia\u2019s health protocol including quarantine requirements; c. Proof of health insurance, minimum $100,000/travel insurance including health coverage and/or letter stating willingness to pay for own treatment should the person be or become infected with COVID-19;."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How can i prove my covid-19 status on arrival to indonesia?",
+              "answers": [
+                {
+                  "text": "Indonesia has not yet confirmed that it will accept the proof of COVID-19 recovery and vaccination record. You should follow the entry rules for unvaccinated people.",
+                  "answer_start": 36
+                }
+              ]
+            },
+            {
+              "question": "Do i need to take a covid-19 test to enter indonesia?",
+              "answers": [
+                {
+                  "text": "All visitors will also need to present your health certificate showing a negative COVID-19 PCR test result as stipulated above at check-in ahead of any scheduled travel.",
+                  "answer_start": 320
+                }
+              ]
+            }
+          ],
+          "context": "Demonstrating your COVID-19 status: Indonesia has not yet confirmed that it will accept the proof of COVID-19 recovery and vaccination record. You should follow the entry rules for unvaccinated people. Your appointment card from vaccination centres is not designed to be used as proof of vaccination.Health certificate: All visitors will also need to present your health certificate showing a negative COVID-19 PCR test result as stipulated above at check-in ahead of any scheduled travel. Failure to present a health certificate may result in your being prevented from boarding the plane, or denied entry or transit in Indonesia. You should comply with any additional screening measures put in place by the authorities."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is it required to wear a face mask in indonesia?",
+              "answers": [
+                {
+                  "text": "It is mandatory to wear a face mask when outside",
+                  "answer_start": 210
+                }
+              ]
+            }
+          ],
+          "context": "Travel in Indonesia: Emergency public activity restrictions, PPKM, are in place on a rolling basis throughout the whole of Indonesia. Essential services are available, but many public facilities remain closed. It is mandatory to wear a face mask when outside. Criminal sanctions, including deportation or large fines may apply for violations of the restrictions. Partial reopening of essential businesses, 50% capacity, is now allowed.Public health measures by the Indonesian authorities include restrictions on in-country air travel."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What happens if i test positive for covid-19?",
+              "answers": [
+                {
+                  "text": "If you test positive for COVID-19 before or after you travel. You will be expected to self-isolate at home for 10 days along with all family members.",
+                  "answer_start": 355
+                }
+              ]
+            },
+            {
+              "question": "Will i need to pay for quarantine costs in indonesia?",
+              "answers": [
+                {
+                  "text": "You will be expected to bear all costs.",
+                  "answer_start": 684
+                }
+              ]
+            }
+          ],
+          "context": "Accommodation: Some hotels and private rental options continue to be open for business but will be more limited than usual and social distancing measures will be in force.Public places and services: Emergency mobility restrictions have been introduced on travel and non-essential services until at least 20 September. Essential services remain accessible.If you test positive for COVID-19 before or after you travel. You will be expected to self-isolate at home for 10 days along with all family members. If you do not have a home in Indonesia, you may be required to isolate in a Government-approved hotel or other quarantine facility where you will need to undergo further testing. You will be expected to bear all costs. These rules are likely to apply equally to minors travelling without parents."
+        }
+      ]
+    }
+  ]
+}

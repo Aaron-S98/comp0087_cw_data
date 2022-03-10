@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where are face masks required in finland?",
+              "answers": [
+                {
+                  "text": "The Finnish authorities recommend the use of face masks when travelling on public transport and in other situations where maintaining safe distances is not possible",
+                  "answer_start": 1
+                }
+              ]
+            }
+          ],
+          "context": " The Finnish authorities recommend the use of face masks when travelling on public transport and in other situations where maintaining safe distances is not possible."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does finland accept proof of covid vaccination ?",
+              "answers": [
+                {
+                  "text": "Finland will accept proof of COVID-19 vaccination record",
+                  "answer_start": 94
+                }
+              ]
+            },
+            {
+              "question": "How old must by print covid vaccine certification be in finland?",
+              "answers": [
+                {
+                  "text": " it must date from 1 November",
+                  "answer_start": 221
+                }
+              ]
+            }
+          ],
+          "context": "The coronavirus situation around Finland can vary widely, so local advice should be followed. Finland will accept proof of COVID-19 vaccination record. If you are travelling with a printed PDF proof of vaccination status, it must date from 1 November to ensure that the certificate can be scanned successfully, if domestic certification is required."
+        }
+      ]
+    }
+  ]
+}

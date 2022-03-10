@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is required to quarantine when entering equatorial guinea?",
+              "answers": [
+                {
+                  "text": "All passengers",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "When can i stop my quarantine in equatorial guinea?",
+              "answers": [
+                {
+                  "text": "Those who test negative after the second test will be free to leave quarantine",
+                  "answer_start": 139
+                }
+              ]
+            },
+            {
+              "question": "What do i risk if i present a fake pcr test when entering equatorial guinea?",
+              "answers": [
+                {
+                  "text": "Authorities may withdraw passports from passengers if an invalid PCR test is presented",
+                  "answer_start": 581
+                }
+              ]
+            }
+          ],
+          "context": "All passengers are then required to quarantine for 5 days, even if they test negative, and take a second test once the 5 days have passed. Those who test negative after the second test will be free to leave quarantine. Those who test positive will be required to isolate immediately. Oil company employees will be able to isolate in oil company isolation facilities, whilst other individuals will have to go to one of the hotels which the government of Equatorial Guinea has nominated for isolation until a negative test is returned. This applies to all, including those under 18. Authorities may withdraw passports from passengers if an invalid PCR test is presented. You should arrange to take a private test."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What restrictions have been set on domestic flights in equatorial guinea?",
+              "answers": [
+                {
+                  "text": "domestic flights will be limited to 3 flights per week for domestic services providers",
+                  "answer_start": 62
+                }
+              ]
+            },
+            {
+              "question": "Do i need to provide a test when travelling internally in equatorial guinea?",
+              "answers": [
+                {
+                  "text": "Negative PCR test certificates no older than 48 hours old or proof of vaccination are required to conduct domestic travel",
+                  "answer_start": 236
+                }
+              ]
+            },
+            {
+              "question": "What are the accept reasons for domestic travel in equatorial guinea?",
+              "answers": [
+                {
+                  "text": "with an essential reason, such as work or health",
+                  "answer_start": 533
+                }
+              ]
+            }
+          ],
+          "context": "Domestic flights have resumed, however, under new guidelines, domestic flights will be limited to 3 flights per week for domestic services providers. Passengers will need to fulfil additional testing requirements to use these services. Negative PCR test certificates no older than 48 hours old or proof of vaccination are required to conduct domestic travel. Equatorial Guinea will accept the proof of COVID-19 recovery and vaccination record. You may only travel between provinces and districts within continental Equatorial Guinea with an essential reason, such as work or health."
+        }
+      ]
+    }
+  ]
+}

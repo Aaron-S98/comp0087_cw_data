@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What capacity is public transport operating at?",
+              "answers": [
+                {
+                  "text": "a restricted 75% capacity",
+                  "answer_start": 70
+                }
+              ]
+            },
+            {
+              "question": "How many people are allowed in a vehicle if they are not from the same family?",
+              "answers": [
+                {
+                  "text": "No more than four people",
+                  "answer_start": 180
+                }
+              ]
+            },
+            {
+              "question": "What will the authorities do when they stop your vehicle?",
+              "answers": [
+                {
+                  "text": "enquire about the reason for the journey.",
+                  "answer_start": 314
+                }
+              ]
+            },
+            {
+              "question": "When using public transport, how often should you wear a mask?",
+              "answers": [
+                {
+                  "text": "You should wear a mask at all times",
+                  "answer_start": 117
+                }
+              ]
+            },
+            {
+              "question": "From what date is public transport operating at a restricted capacity from?",
+              "answers": [
+                {
+                  "text": "3 October 2021",
+                  "answer_start": 101
+                }
+              ]
+            }
+          ],
+          "context": "Public transport, including the metro and bus services, operates with a restricted 75% capacity from 3 October 2021. You should wear a mask at all times when using these services. No more than four people are allowed in a vehicle, if they are not part of the same family. The authorities may also stop vehicles to enquire about the reason for the journey."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "From 3rd october 2021, what is the requirement about wearing face masks?",
+              "answers": [
+                {
+                  "text": "the requirement to wear facemasks has been relaxed in certain conditions.",
+                  "answer_start": 33
+                }
+              ]
+            },
+            {
+              "question": "What are the rules about wearing face masks in shopping malls?",
+              "answers": [
+                {
+                  "text": "You are still required to wear facemasks",
+                  "answer_start": 234
+                }
+              ]
+            },
+            {
+              "question": "What are the rules for wearing a face mask at public events?",
+              "answers": [
+                {
+                  "text": "It is no longer a requirement to wear your mask",
+                  "answer_start": 107
+                }
+              ]
+            }
+          ],
+          "context": "With effect from 3 October 2021, the requirement to wear facemasks has been relaxed in certain conditions. It is no longer a requirement to wear your mask in open spaces, except when attending organised public events such as markets. You are still required to wear facemasks in places such as mosques, hospitals, schools/universities and shopping malls."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the maximum number of people that can gather in outdoor spaces?",
+              "answers": [
+                {
+                  "text": "50",
+                  "answer_start": 23
+                }
+              ]
+            }
+          ],
+          "context": "Outdoors, a maximum of 50 vaccinated people can gather in a group"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "For residents returning to qatar, what are the quarantine rules if i have had a vaccine?",
+              "answers": [
+                {
+                  "text": "all residents returning to Qatar will be exempt from quarantine",
+                  "answer_start": 20
+                }
+              ]
+            },
+            {
+              "question": "What do you need from the departing country upon arriving in qatar?",
+              "answers": [
+                {
+                  "text": "a negative PCR test certificate",
+                  "answer_start": 340
+                }
+              ]
+            },
+            {
+              "question": "How many days ago does the vaccine dose need to have been given to gain entry to qatar?",
+              "answers": [
+                {
+                  "text": "14 days prior",
+                  "answer_start": 284
+                }
+              ]
+            }
+          ],
+          "context": "From 25 April 2021, all residents returning to Qatar will be exempt from quarantine provided they have completed a vaccination course as recognised by MoPH Qatar (namely Pfizer/BioNTech, Moderna, AstraZeneca or Johnson & Johnson), their last vaccination dose having been administered 14 days prior to entry to Qatar and are able to provide a negative PCR test certificate recognised by the Health Department in the departing country."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which test do i have to take upon arrival in qatar?",
+              "answers": [
+                {
+                  "text": "a PCR test",
+                  "answer_start": 100
+                }
+              ]
+            },
+            {
+              "question": "When does an unvaccinated traveller take a pcr test upon arriving in qatar?",
+              "answers": [
+                {
+                  "text": "on the sixth day",
+                  "answer_start": 360
+                }
+              ]
+            },
+            {
+              "question": "What are the rules for testing when leaving qatar?",
+              "answers": [
+                {
+                  "text": "residents aged five and above are not required to take a PCR test before departing the country.",
+                  "answer_start": 45
+                }
+              ]
+            },
+            {
+              "question": "For fully vaccinated citizens, within how many hours do they need to take a pcr test upoon arrival?",
+              "answers": [
+                {
+                  "text": "within 36 hours",
+                  "answer_start": 187
+                }
+              ]
+            }
+          ],
+          "context": "Fully vaccinated citizens, GCC citizens, and residents aged five and above are not required to take a PCR test before departing the country. However, they are required to take a PCR test within 36 hours of their arrival. Unvaccinated citizens, GCC citizens, and residents are required to take a PCR test within 72 hours prior to arrival and undergo a PCR test on the sixth day before being released from home quarantine on the seventh day of arrival.All other visitors, including vaccinated travelers, are required to take a PCR test 72 hours before arrival. Additionally, unvaccinated travelers are subjected to a PCR test on the sixth day before being released from home quarantine on the seventh day of arrival."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where do residents need to complete pre-registration for return to qatar?",
+              "answers": [
+                {
+                  "text": "ehteraz.gov.qa",
+                  "answer_start": 100
+                }
+              ]
+            },
+            {
+              "question": "When should pre-registration be completed for return to qatar?",
+              "answers": [
+                {
+                  "text": "ahead of travel",
+                  "answer_start": 115
+                }
+              ]
+            }
+          ],
+          "context": "it is recommended that all residents complete pre-registration for return to Qatar using the portal ehteraz.gov.qa ahead of travel"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which tests do i need to take if i travel through the abu samra border crossing?",
+              "answers": [
+                {
+                  "text": "a COVID-19 test and obtain a virus-free certificate",
+                  "answer_start": 168
+                }
+              ]
+            },
+            {
+              "question": "When does the certificate need to be obtained?",
+              "answers": [
+                {
+                  "text": "no more than 72 hours before travel.",
+                  "answer_start": 220
+                }
+              ]
+            }
+          ],
+          "context": "Following the opening of the air, land and sea borders between Qatar and Saudi Arabia, all arrivals to Qatar from the Abu Samra border crossing are required to undergo a COVID-19 test and obtain a virus-free certificate no more than 72 hours before travel."
+        }
+      ]
+    }
+  ]
+}

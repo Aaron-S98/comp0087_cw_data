@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "From when do unvaccinated travellers need to quarantine when arriving in djibouti?",
+              "answers": [
+                {
+                  "text": "from 21 June",
+                  "answer_start": 13
+                }
+              ]
+            },
+            {
+              "question": "What kind of test do i need to provide when arriving in djibouti?",
+              "answers": [
+                {
+                  "text": "a PCR test certificate from the country where you started your journey",
+                  "answer_start": 292
+                }
+              ]
+            },
+            {
+              "question": "What countries are barred from travel for djiboutian nationals?",
+              "answers": [
+                {
+                  "text": "South Africa, India or Brazil",
+                  "answer_start": 520
+                }
+              ]
+            }
+          ],
+          "context": " With effect from 21 June, all passengers arriving in Djibouti who cannot show evidence of having been vaccinated, will have to spend 10 days in quarantine in their own accommodation. Whether arriving by air, land or sea, if you are over 11 years of age, you will also be required to provide a PCR test certificate from the country where you started your journey. The test must be taken within 72 hours of the start of the journey and 120 hours of arrival in Djibouti. Passengers who started their journeys or transited South Africa, India or Brazil will not be allowed to enter Djibouti due to increasing concerns about COVID-19 variants. Djiboutian Nationals are not allowed to travel to those countries."
+        }
+      ]
+    }
+  ]
+}

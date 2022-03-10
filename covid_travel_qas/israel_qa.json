@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where can i find the latest covid-19 information for israel?",
+              "answers": [
+                {
+                  "text": "Full guidance on requirements upon arrival is regularly updated online.",
+                  "answer_start": 83
+                }
+              ]
+            },
+            {
+              "question": "Will i need to take a pcr test if i am vaccinated?",
+              "answers": [
+                {
+                  "text": "All travellers of all ages arriving in Israel, including those who have been vaccinated or recovered, must take a COVID-19 PCR tests on arrival in Israel, at their own expense.",
+                  "answer_start": 648
+                }
+              ]
+            }
+          ],
+          "context": "Entry and borders: Israel operates a number of entry requirements due to COVID-19. Full guidance on requirements upon arrival is regularly updated online.Further restrictions may be introduced at short notice.Land crossings: Restrictions also apply at land crossings between Israel and Jordan, and between the Occupied Palestinian Territories and Jordan. You can find the latest guidance on entering and exiting Israel via the land borders on the a Israeli Ministry of Health\u2019s website. You may face delays or restrictions at Israeli controlled checkpoints around the West Bank, including when attempting to leave the West Bank.Testing on arrival: All travellers of all ages arriving in Israel, including those who have been vaccinated or recovered, must take a COVID-19 PCR tests on arrival in Israel, at their own expense."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to quarantine on arrival to israel?",
+              "answers": [
+                {
+                  "text": "All passengers must enter isolation until the results of their PCR test arrive, or 24 hours have passed.",
+                  "answer_start": 25
+                }
+              ]
+            },
+            {
+              "question": "How do i prove my vaccine status?",
+              "answers": [
+                {
+                  "text": "If you hold a verifiable digital certificate proving vaccination status, this should be scanned or uploaded along with the entry declaration. If you do not have a verifiable digital certificate, you should declare the vaccinations you have received in the entry declaration form and attach all relevant documentation.",
+                  "answer_start": 598
+                }
+              ]
+            }
+          ],
+          "context": "Quarantine requirements: All passengers must enter isolation until the results of their PCR test arrive, or 24 hours have passed. If the result of the test is positive the individual will be required to remain in isolation for a minimum of 14 days. Entrants from \u2018red\u2019 locations will be required to isolate in a government facility.Demonstrating your COVID-19 status: Israel will accept the proof of COVID-19 recovery and vaccination record. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status.If you hold a verifiable digital certificate proving vaccination status, this should be scanned or uploaded along with the entry declaration. If you do not have a verifiable digital certificate, you should declare the vaccinations you have received in the entry declaration form and attach all relevant documentation. You will then receive a Green Pass prior to boarding your flight."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to take a covid test to leave israel?",
+              "answers": [
+                {
+                  "text": "All passengers who stayed in Israel for over 72 hours must present a negative COVID-19 PCR test, or a valid Israeli vaccination or recovery certificate to leave Israel.",
+                  "answer_start": 28
+                }
+              ]
+            },
+            {
+              "question": "Can i take public transport in israel?",
+              "answers": [
+                {
+                  "text": "There are limited public transport services to Tel Aviv Ben Gurion International Airport, and local taxis and minicabs can be arranged.",
+                  "answer_start": 333
+                }
+              ]
+            }
+          ],
+          "context": "Requirements for departure: All passengers who stayed in Israel for over 72 hours must present a negative COVID-19 PCR test, or a valid Israeli vaccination or recovery certificate to leave Israel. All travellers must also complete an online outbound passenger statement form.Travel in Israel or the Occupied Palestinian Territories: There are limited public transport services to Tel Aviv Ben Gurion International Airport, and local taxis and minicabs can be arranged. You will need to comply with social distancing and health regulations when travelling to the airport. You may face delays or restrictions at Israeli controlled checkpoints around the West Bank, including when attempting to leave the West Bank."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there covid-19 restrictions in israel?",
+              "answers": [
+                {
+                  "text": "While some restrictions have been removed, the state of emergency remains in place.",
+                  "answer_start": 275
+                }
+              ]
+            },
+            {
+              "question": "Can i book a hotel in israel?",
+              "answers": [
+                {
+                  "text": "Some hotels across Israel and the Occupied Palestinian Territories have now reopened.",
+                  "answer_start": 597
+                }
+              ]
+            }
+          ],
+          "context": "This includes requirements when travelling on public transport, in taxis or in private vehicles, and requirements to wear a face covering in public. On 5 March 2020 the Palestinian Authority (PA) announced a state of emergency related to the coronavirus (COVID-19) pandemic. While some restrictions have been removed, the state of emergency remains in place. You should follow local announcements for any changes to restrictions in the Occupied Palestinian Territories, and confirm any travel arrangements or hotel bookings before moving around the Occupied Palestinian Territories.Accommodation: Some hotels across Israel and the Occupied Palestinian Territories have now reopened."
+        }
+      ]
+    }
+  ]
+}

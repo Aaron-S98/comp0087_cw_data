@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When did ecuadors land border open with colombia?",
+              "answers": [
+                {
+                  "text": "The land border with Colombia opened in December 2021",
+                  "answer_start": 174
+                }
+              ]
+            },
+            {
+              "question": "Where did the border between colombia and ecuador open?",
+              "answers": [
+                {
+                  "text": "only through the Rumichaca international checkpoint",
+                  "answer_start": 251
+                }
+              ]
+            },
+            {
+              "question": "Where are cruise ships allowed to dock in ecaudor?",
+              "answers": [
+                {
+                  "text": "Esmeraldas, Guayaquil, Manta and Puerto Baquerizo ports",
+                  "answer_start": 451
+                }
+              ]
+            },
+            {
+              "question": "Are flights operating to ecuador?",
+              "answers": [
+                {
+                  "text": "International commercial flights are operating to and from Ecuador",
+                  "answer_start": 508
+                }
+              ]
+            }
+          ],
+          "context": "The land border with Peru remains closed. However, Ecuadorean nationals and foreign residents may be allowed to enter Ecuador, via the Huaquillas southern border checkpoint. The land border with Colombia opened in December 2021 to all travellers, but only through the Rumichaca international checkpoint, from 8am to 5pm. Most ports remain closed for travel/tourism activities. As of October 2021, international cruise ship operations are permitted in Esmeraldas, Guayaquil, Manta and Puerto Baquerizo ports. International commercial flights are operating to and from Ecuador. However, we highly recommend you to contact your airline/travel company to check your travel itinerary, in case of any last minute COVID-19-related changes."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long do passengers from india need to quarantine when arriving in ecuador?",
+              "answers": [
+                {
+                  "text": "must self-isolate for 10 days",
+                  "answer_start": 84
+                }
+              ]
+            },
+            {
+              "question": "Where do travellers need to quarantine when arriving in ecaudor?",
+              "answers": [
+                {
+                  "text": "either in a private home or in a hotel, at their own expense, in addition to meeting the other requirements outlined above",
+                  "answer_start": 114
+                }
+              ]
+            },
+            {
+              "question": "If i am not vaccinated yet what test do i need to provide when entering ecuador?",
+              "answers": [
+                {
+                  "text": "a negative RT-PCR test",
+                  "answer_start": 800
+                }
+              ]
+            }
+          ],
+          "context": "All passengers arriving from India, including those who only transited the country, must self-isolate for 10 days either in a private home or in a hotel, at their own expense, in addition to meeting the other requirements outlined above. In response to the omicron variant of COVID-19, since 1 December 2021, passengers arriving from or transiting through South Africa, Botswana, Egypt, Mozambique, Lesotho, Zimbabwe, Eswatini (Swaziland) and Namibia are not permitted to enter the country. Passengers arriving from countries whose regulations state that COVID-19 vaccination is available only after 6 months of having been infected, and who are thus unable to show their full vaccination certificate, will be required to present an official document proving this regulation (valid for 6 months) and a negative RT-PCR test."
+        }
+      ]
+    }
+  ]
+}

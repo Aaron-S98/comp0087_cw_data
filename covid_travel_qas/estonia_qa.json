@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is exempt from travel restrictions in estonia?",
+              "answers": [
+                {
+                  "text": "As a general rule, passengers in transit in the EU area are exempted from temporary travel restrictions.EU citizens entering the EU from a third country, as well as their family members, irrespective of their nationality, are exempted from the travel restrictions",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i still need an airport transit visa in estonia?",
+              "answers": [
+                {
+                  "text": "Rules regarding airport transit visa requirements continue to apply",
+                  "answer_start": 521
+                }
+              ]
+            },
+            {
+              "question": "Can i transit through the schengen area depite not being an eu national?",
+              "answers": [
+                {
+                  "text": "Passengers travelling from a non-EU country to another non-EU country may transit through the international transit area of airports located in the Schengen area",
+                  "answer_start": 358
+                }
+              ]
+            }
+          ],
+          "context": "As a general rule, passengers in transit in the EU area are exempted from temporary travel restrictions.EU citizens entering the EU from a third country, as well as their family members, irrespective of their nationality, are exempted from the travel restrictions regardless of whether or not they are returning to their country of nationality or residence. Passengers travelling from a non-EU country to another non-EU country may transit through the international transit area of airports located in the Schengen area. Rules regarding airport transit visa requirements continue to apply."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does estonia accept proof of covid recovery?",
+              "answers": [
+                {
+                  "text": "Estonia will accept the proof of COVID-19 recovery",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How old can my paper vaccination certificate be when entering estonia?",
+              "answers": [
+                {
+                  "text": " it must date from 1 November to ensure that the certificate can be scanned successfully",
+                  "answer_start": 144
+                }
+              ]
+            }
+          ],
+          "context": "Estonia will accept the proof of COVID-19 recovery and vaccination record. If you are travelling with a printed PDF proof of vaccination status, it must date from 1 November to ensure that the certificate can be scanned successfully, if domestic certification is required. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status."
+        }
+      ]
+    }
+  ]
+}

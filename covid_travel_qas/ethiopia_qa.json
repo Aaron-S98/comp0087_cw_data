@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How old can my pcr test be until it is no longer valid to enter ethiopia?",
+              "answers": [
+                {
+                  "text": " within the previous 120 hours",
+                  "answer_start": 129
+                }
+              ]
+            },
+            {
+              "question": "How long do i need to qurantine for when entering ethiopia?",
+              "answers": [
+                {
+                  "text": "7 days mandatory self-quarantine",
+                  "answer_start": 321
+                }
+              ]
+            }
+          ],
+          "context": "There are special measures in place at all borders when entering Ethiopia. Proof of a negative COVID-19 RT PCR test result issued within the previous 120 hours (5 days), starting from the time the sample is given, is required for all air passengers over the age of 10 years entering Ethiopia. Arrivals must then complete 7 days mandatory self-quarantine. You should arrange to take a private test."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What tests are accepted when entering ethiopia?",
+              "answers": [
+                {
+                  "text": "Only RT PCR tests will be accepted",
+                  "answer_start": 271
+                }
+              ]
+            },
+            {
+              "question": "Do i need to show my test before i board my flight to ethiopia?",
+              "answers": [
+                {
+                  "text": "You may need to demonstrate you have such a test certificate before boarding your flight",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "question": "What do i need to have in order to not be required to self isolate when entering ethiopia?",
+              "answers": [
+                {
+                  "text": " passengers who have a certificate of recovery from COVID -19 within the last 90 days or have been fully vaccinated against COVID-19 are not required to self-isolate",
+                  "answer_start": 542
+                }
+              ]
+            }
+          ],
+          "context": "Test and Quarantine requirements: Proof of a negative COVID-19 RT PCR test result issued within the previous 120 hours (5 days), starting from the time the sample is given, is required for all air passengers over the age of 10 years entering Ethiopia (except diplomats). Only RT PCR tests will be accepted. You may need to demonstrate you have such a test certificate before boarding your flight. You will need to complete 7 days mandatory self-isolation on arrival. You must provide the address for your self-isolation upon arrival. However, passengers who have a certificate of recovery from COVID -19 within the last 90 days or have been fully vaccinated against COVID-19 are not required to self-isolate."
+        }
+      ]
+    }
+  ]
+}

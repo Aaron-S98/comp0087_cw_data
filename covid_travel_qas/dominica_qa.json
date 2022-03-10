@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will the dominican authorities accept my certificate of vaccination?",
+              "answers": [
+                {
+                  "text": "Dominica will accept the certificate of your vaccination",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is the minimum amount of days i can quarantine when arriving from the uk to dominica?",
+              "answers": [
+                {
+                  "text": "minimum of 5 days quarantine",
+                  "answer_start": 449
+                }
+              ]
+            },
+            {
+              "question": "Where should i quarantine if i am travelling from the uk?",
+              "answers": [
+                {
+                  "text": "the government isolation facility in Portsmouth or a Safe-in Nature-certified private property",
+                  "answer_start": 348
+                }
+              ]
+            },
+            {
+              "question": "Can i self isolate with my children in dominica when travelling from the uk?",
+              "answers": [
+                {
+                  "text": "Family groups can be kept together",
+                  "answer_start": 798
+                }
+              ]
+            }
+          ],
+          "context": "Dominica will accept the certificate of your vaccination. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. Quarantine for unvaccinated arrivals from the UK: On arrival, you will undergo a health assessment and then be transported either to the government isolation facility in Portsmouth or a Safe-in Nature-certified private property for a minimum of 5 days quarantine, the latter at your own expense. You will be required to undergo a second PCR test 5 days after arrival. If the result of that second test is negative, you will not be subject to further quarantine. If the result is positive, you will be transported to the government isolation facility in Portsmouth until you recover. Family groups can be kept together. The government aims to return results within 48 hours. While you are in the government isolation facility, you will need to pay for your own meals."
+        }
+      ]
+    }
+  ]
+}

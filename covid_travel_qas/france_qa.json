@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a booster shot to have the vaccine pass in france?",
+              "answers": [
+                {
+                  "text": "You may also be required to have a booster dose to be able to obtain the pass vaccinal for domestic use in Franc",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Does france accept proof of vaccination?",
+              "answers": [
+                {
+                  "text": "France will accept the proof of COVID-19 recovery and vaccination record",
+                  "answer_start": 165
+                }
+              ]
+            },
+            {
+              "question": "Where are face masks mandatory in in france?",
+              "answers": [
+                {
+                  "text": "Facemasks are mandatory in all enclosed public spaces",
+                  "answer_start": 633
+                }
+              ]
+            }
+          ],
+          "context": "You may also be required to have a booster dose to be able to obtain the pass vaccinal for domestic use in France. Please see the section above for further details. France will accept the proof of COVID-19 recovery and vaccination record. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. Other Covid status certification that conforms with the EU Digital COVID Certification scheme (e.g. from other EU member states) can also be used for entry into settings where there is a COVID status certification requirement in France. Facemasks are mandatory in all enclosed public spaces."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to wear a mask outside in france?",
+              "answers": [
+                {
+                  "text": "no longer required to wear a facemask in all outdoor public spaces",
+                  "answer_start": 7
+                }
+              ]
+            },
+            {
+              "question": "How long do i have to quarantine when i test positive despite being vaccinated?",
+              "answers": [
+                {
+                  "text": "you must self-isolate for 7 days from the day on which you first develop symptoms, or 7 days from the date of the positive test result",
+                  "answer_start": 413
+                }
+              ]
+            },
+            {
+              "question": "How can i reduce my self isolation period?",
+              "answers": [
+                {
+                  "text": "can be reduced to 5 days if you take a negative PCR or antigen test",
+                  "answer_start": 564
+                }
+              ]
+            }
+          ],
+          "context": " It is no longer required to wear a facemask in all outdoor public spaces, with some exceptions, including gatherings, queues, markets, and stadiums. Failure to comply with these restrictions may result in a fine. Please refer to local guidance for more information. If you test positive for coronavirus in France and you\u2019re fully vaccinated (including a booster, in line with French pass sanitaire requirements) you must self-isolate for 7 days from the day on which you first develop symptoms, or 7 days from the date of the positive test result. Self-isolation can be reduced to 5 days if you take a negative PCR or antigen test (supervised, not self-administered) on day 5 and you have not displayed any symptoms over the previous 48 hours."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How can adults access care homes?",
+              "answers": [
+                {
+                  "text": "with a negative test result",
+                  "answer_start": 429
+                }
+              ]
+            },
+            {
+              "question": "Do children need to demonstrate covid status to enter venues?",
+              "answers": [
+                {
+                  "text": "Children aged between 12 and 15 years need to continue to demonstrate their COVID-19 status through the pass sanitaire in order to access services and venues.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Children aged between 12 and 15 years need to continue to demonstrate their COVID-19 status through the pass sanitaire in order to access services and venues. This includes leisure facilities (bars, restaurants, museums, cinemas), hospitals, retirement homes and modes of transport such as long distance train and bus journeys and planes. Adults can continue to access hospitals, care homes and health and social care facilities with a negative test result."
+        }
+      ]
+    }
+  ]
+}

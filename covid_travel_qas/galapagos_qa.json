@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are tourists allowed on the galapagos islands?",
+              "answers": [
+                {
+                  "text": "Tourist activities are allowed in the Galapagos Islands",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "At what age do i need to provide a pcr test when entering the galapagos islands?",
+              "answers": [
+                {
+                  "text": "16 years old",
+                  "answer_start": 77
+                }
+              ]
+            }
+          ],
+          "context": "Tourist activities are allowed in the Galapagos Islands. All travellers over 16 years old wishing to enter the Islands must present a negative (RT-PCR) test for COVID-19, taken up to 72 hours prior to the date of the flight to the Galapagos Islands, along with a full COVID-19 vaccination certificate (i.e. both doses for those vaccinations which consist of two doses, or its equivalent), received at least 14 days prior the flight date."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What method of payment id preferred to pay for the entry test?",
+              "answers": [
+                {
+                  "text": "cash",
+                  "answer_start": 333
+                }
+              ]
+            },
+            {
+              "question": "Where do i quarantine in djibouti if i am a foreigner?",
+              "answers": [
+                {
+                  "text": "at a hotel agreed with those conducting the test or if showing symptoms into the hospital",
+                  "answer_start": 508
+                }
+              ]
+            },
+            {
+              "question": "Do djiboutian nationals have to pay for their quarantine?",
+              "answers": [
+                {
+                  "text": "can choose to go to a government isolation site at no cost or pay costs of staying at a hotel",
+                  "answer_start": 662
+                }
+              ]
+            }
+          ],
+          "context": "On arrival at all entry points (land, air or sea), if you are older than 11 years, you will be tested for COVID-19 which can take up to an hour. You should not eat anything 30 minutes before your arrival at the entry point. You will have to pay for the test either by credit card, but as the credit card machines do not always work, cash (dollars, euros accepted) is a more reliable method of payment. If the test result is positive, foreign travellers will have to go into quarantine, at their own expense, at a hotel agreed with those conducting the test or if showing symptoms into the hospital, until testing negative. Djiboutian nationals who test positive can choose to go to a government isolation site at no cost or pay costs of staying at a hotel."
+        }
+      ]
+    }
+  ]
+}

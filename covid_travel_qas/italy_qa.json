@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel to italy without having a covid-19 vaccine?",
+              "answers": [
+                {
+                  "text": "Travellers from countries on a list who do not hold a vaccination certificate must:Provide a negative result to a pre-departure test.",
+                  "answer_start": 166
+                }
+              ]
+            },
+            {
+              "question": "What type of covid-19 tests are accepted on arrival to italy?",
+              "answers": [
+                {
+                  "text": "Molecular and antigen tests are accepted.",
+                  "answer_start": 300
+                }
+              ]
+            },
+            {
+              "question": "How long is a uk covid-19 test valid in italy?",
+              "answers": [
+                {
+                  "text": "48 hours for travellers from the UK",
+                  "answer_start": 352
+                }
+              ]
+            }
+          ],
+          "context": "Travellers who have stayed or transited Canada, Japan and the United States of America in the previous 14 days can also show a certificate of recovery from COVID-19. Travellers from countries on a list who do not hold a vaccination certificate must:Provide a negative result to a pre-departure test. Molecular and antigen tests are accepted. Validity: 48 hours for travellers from the UK; 72 hours for travellers from all other countries on the list.Communicate their entry into Italy to the Prevention Department of the local health authority. Travel to their final destination in Italy by private transport only.Self-isolate for 5 days at the address indicated on the Passenger Locator Form. Perform another molecular or antigen test after the self-isolation period. These rules are valid until 31 January 2022."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is public transport open in italy?",
+              "answers": [
+                {
+                  "text": "Public transport is capped at a maximum occupancy rate of 50%",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Public transport is capped at a maximum occupancy rate of 50%.At least a standard Green Pass is needed to leave one\u2019s municipality (both within the region or outside of the region) EXCEPT for work, health, or other urgent reasons.ellow Zones: Zones classified as having a 'moderate' risk:  Calabria, Campania, Emilia Romagna, Lazio, Liguria, Marche, Puglia, Sardinia, Tuscany, Veneto, and the autonomous provinces of Bolzano and Trento.White Zones: Zones classified as having a \u2018low\u2019 level of risk: Basilicata, Molise, and Umbria."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to wear a face mask in italy?",
+              "answers": [
+                {
+                  "text": "The mandatory use of masks in all outdoor spaces and whilst indoors.",
+                  "answer_start": 123
+                }
+              ]
+            },
+            {
+              "question": "Do children need to wear face masks?",
+              "answers": [
+                {
+                  "text": "Children aged 5 and under do not need to wear a mask.",
+                  "answer_start": 192
+                }
+              ]
+            },
+            {
+              "question": "Is social distance in force in italy?",
+              "answers": [
+                {
+                  "text": "Social distancing of one metre must be observed",
+                  "answer_start": 664
+                }
+              ]
+            }
+          ],
+          "context": "Public spaces and travel within Italy. Public spaces and services. The following COVID-19 restrictions should be followed: The mandatory use of masks in all outdoor spaces and whilst indoors. Children aged 5 and under do not need to wear a mask. You should pay close attention to signage when travelling and carry a mask with you at all times. The use of FFP2 masks is compulsory on public transport, in theatres, concert halls and cinemas and for sporting events until at least 31 March. You cannot consume food or drink in the above indoor locations; til 31 January outdoor events in public spaces and concerts are prohibited; discotheques and clubs are closed; Social distancing of one metre must be observed and gatherings should be avoided"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How can i prove my covid-19 vaccination status in italy?",
+              "answers": [
+                {
+                  "text": "Italy will accept proof of COVID-19 recovery and vaccination record as the equivalent to a Super Green Pass as long as it is in the form of a verifiable QR code.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i need to prove my covid-19 vaccination status to travel in italy?",
+              "answers": [
+                {
+                  "text": "you will need a Super Green Pass to access hotels and to travel on local transport including the metro, trains, buses and domestic flights.",
+                  "answer_start": 563
+                }
+              ]
+            }
+          ],
+          "context": "Italy will accept proof of COVID-19 recovery and vaccination record as the equivalent to a Super Green Pass as long as it is in the form of a verifiable QR code. From 1 February your vaccination certificate will be valid for 180 days from the date of your final vaccination when visiting Italy. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. All recovery certificates must be accompanied by a sworn translation.Travelling within Italy: From 10 January, you will need a Super Green Pass to access hotels and to travel on local transport including the metro, trains, buses and domestic flights."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there any covid-19 requirements to fly to italy?",
+              "answers": [
+                {
+                  "text": "To board an international flight from Italy, all travellers aged 12 and above must be able to show a Green Pass or Super Green Pass.",
+                  "answer_start": 33
+                }
+              ]
+            },
+            {
+              "question": "Can i fly to italy if i am unvaccinated?",
+              "answers": [
+                {
+                  "text": "If you are unvaccinated, you can obtain a Green Pass by testing negative to a rapid COVID-19 test available from local pharmacies.",
+                  "answer_start": 165
+                }
+              ]
+            },
+            {
+              "question": "Do i need to wear a face mask on a flight to italy?",
+              "answers": [
+                {
+                  "text": "From 10 January until 31 March, FFP2 masks or higher grade must be worn to travel on flights in Italy.",
+                  "answer_start": 410
+                }
+              ]
+            }
+          ],
+          "context": "International travel from Italy: To board an international flight from Italy, all travellers aged 12 and above must be able to show a Green Pass or Super Green Pass.If you are unvaccinated, you can obtain a Green Pass by testing negative to a rapid COVID-19 test available from local pharmacies. You must obtain the green pass no earlier than 48 hours prior to your flight departure.Wearing masks for flights: From 10 January until 31 March, FFP2 masks or higher grade must be worn to travel on flights in Italy. You should take spare masks for long journeys. Check with your travel operator before travelling."
+        }
+      ]
+    }
+  ]
+}

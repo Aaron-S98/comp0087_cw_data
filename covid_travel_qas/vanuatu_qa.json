@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can a non-resident enter vanuatu?",
+              "answers": [
+                {
+                  "text": "Borders are closed to non-residents",
+                  "answer_start": 18
+                }
+              ]
+            },
+            {
+              "question": "Who can get on a repatriation flight to vanuatu?",
+              "answers": [
+                {
+                  "text": "Vanuatu citizens and permanent residents",
+                  "answer_start": 152
+                }
+              ]
+            },
+            {
+              "question": "Which countries can i get a repatriation flight to vanuatu from?",
+              "answers": [
+                {
+                  "text": "from Auckland, Brisbane and Noumea",
+                  "answer_start": 113
+                }
+              ]
+            },
+            {
+              "question": "Which airline runs repatriation flights to vanuatu?",
+              "answers": [
+                {
+                  "text": "Air Vanuatu run occasional scheduled repatriation flights",
+                  "answer_start": 55
+                }
+              ]
+            },
+            {
+              "question": "How long do i have to quarantine for upon arriving in vanuatu?",
+              "answers": [
+                {
+                  "text": "Arriving passengers are required to undergo 14 days\u2019 quarantine at a government approved location at their own expense.",
+                  "answer_start": 270
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Vanuatu: Borders are closed to non-residents. Air Vanuatu run occasional scheduled repatriation flights from Auckland, Brisbane and Noumea for Vanuatu citizens and permanent residents. Places on these flights need to be pre-approved by the Vanuatu authorities. Arriving passengers are required to undergo 14 days\u2019 quarantine at a government approved location at their own expense."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to be vaccinated to enter vanuatu?",
+              "answers": [
+                {
+                  "text": "All travellers to Vanuatu who are 18 years and older are required to be fully vaccinated against COVID-19.",
+                  "answer_start": 238
+                }
+              ]
+            }
+          ],
+          "context": "International travel: All inbound travel to Vanuatu by both sea and air is suspended until 1 February 2022. Air Vanuatu is running a small number of outbound cargo services with some seats for passengers to Brisbane, Auckland and Noumea. All travellers to Vanuatu who are 18 years and older are required to be fully vaccinated against COVID-19."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a covid-19 test to fly to vanuatu?",
+              "answers": [
+                {
+                  "text": "Airlines may also have their own requirements for travellers including having to undertake a pre-departure COVID-19 test before boarding.",
+                  "answer_start": 266
+                }
+              ]
+            }
+          ],
+          "context": "You will also need to make your own transit arrangements at your point of arrival from Vanuatu. Before making your onward flight booking from your transit point, you should also check the current transit rules for any other countries you will be travelling through. Airlines may also have their own requirements for travellers including having to undertake a pre-departure COVID-19 test before boarding."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i have social gatherings in vanuatu?",
+              "answers": [
+                {
+                  "text": "There are no restrictions in place on social gatherings",
+                  "answer_start": 301
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive for covid-19 in vanuatu?",
+              "answers": [
+                {
+                  "text": "If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "question": "Can i travel within vanuatu?",
+              "answers": [
+                {
+                  "text": "Travel in Vanuatu: Domestic travel may be affected by COVID-19. Passengers should check with their airline about any restrictions on flights operating between islands",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Travel in Vanuatu: Domestic travel may be affected by COVID-19. Passengers should check with their airline about any restrictions on flights operating between islands. Public places and services: A State of Emergency is in place in Vanuatu until 31 January 2022, in response to the COVID-19 pandemic. There are no restrictions in place on social gatherings. Restaurants, bars and supermarkets are permitted to open as usual, although some are operating a restricted service or have closed altogether in response to falling trade. If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a face covering in ireland?",
+              "answers": [
+                {
+                  "text": "Face coverings are mandatory in retail outlets, banks, credit unions and post offices, in taxis, in bus and rail stations, on public transport and for workers in customer facing roles in caf\u00e9s, bars and restaurants.",
+                  "answer_start": 16
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive for covid?",
+              "answers": [
+                {
+                  "text": "If you test positive for COVID-19, you may need to stay where you are until you test negative.",
+                  "answer_start": 231
+                }
+              ]
+            }
+          ],
+          "context": "Face coverings: Face coverings are mandatory in retail outlets, banks, credit unions and post offices, in taxis, in bus and rail stations, on public transport and for workers in customer facing roles in caf\u00e9s, bars and restaurants.If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there."
+        }
+      ]
+    }
+  ]
+}

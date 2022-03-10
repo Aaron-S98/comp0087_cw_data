@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are the dominican republic air borders open?",
+              "answers": [
+                {
+                  "text": "The Dominican Republic air borders are open",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What measures are implemented in airports?",
+              "answers": [
+                {
+                  "text": "social distancing, use of masks and temperature checks",
+                  "answer_start": 469
+                }
+              ]
+            },
+            {
+              "question": "What countries can i currently fly to from the dominican republic?",
+              "answers": [
+                {
+                  "text": "US, Spain, France and some other countries",
+                  "answer_start": 88
+                }
+              ]
+            }
+          ],
+          "context": "The Dominican Republic air borders are open and commercial options are departing to the US, Spain, France and some other countries. If you are returning to the UK, read the travel advice for any country you may be transiting, to check entry/transit requirements, as well as checking UK government requirements. You will need to observe all social distancing measures if planning travel to the airport. Airports are implementing measures inside the terminals, including social distancing, use of masks and temperature checks. You should arrive in sufficient time and comply with any instructions from police or the Dominican authorities."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What must athletic clubs do in order to permitted to run?",
+              "answers": [
+                {
+                  "text": "compliance with social distancing rules",
+                  "answer_start": 114
+                }
+              ]
+            },
+            {
+              "question": "What do i require to host a large event in the dominican republic?",
+              "answers": [
+                {
+                  "text": "a permit from the Ministry of Public Health",
+                  "answer_start": 298
+                }
+              ]
+            }
+          ],
+          "context": "\u200b\u200bEntertainment activities and athletic training and sports are permitted only if they can be practiced in strict compliance with social distancing rules. Indoor gyms are open with strict COVID protocols. Social events or activities that involve large gatherings in any area for public use require a permit from the Ministry of Public Health. To get this permit, responsible parties should submit a request for authorization in writing, with a minimum of seven days in advance, that must include the general information of the event or activity, including the place, setting, photo of the space and responsible persons."
+        }
+      ]
+    }
+  ]
+}

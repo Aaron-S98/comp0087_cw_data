@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where can i get access to the egyptian health declaration?",
+              "answers": [
+                {
+                  "text": "issued by your airline or on arrival",
+                  "answer_start": 190
+                }
+              ]
+            },
+            {
+              "question": "What happens if my rapid test upon arrival is positive?",
+              "answers": [
+                {
+                  "text": "if positive will lead to a subsequent PCR test",
+                  "answer_start": 510
+                }
+              ]
+            },
+            {
+              "question": "Where do i have to quarantine if i my pcr test is positive when arriving in egypt?",
+              "answers": [
+                {
+                  "text": "isolation at a government hospital",
+                  "answer_start": 573
+                }
+              ]
+            }
+          ],
+          "context": "The Egyptian authorities have advised that all arrivals into Egypt will be subject to health measures. Passengers from all countries will be required to complete a paper health declaration (issued by your airline or on arrival) with personal details, and will need to provide confirmation of valid health insurance policy to airport authorities. Passengers arriving from countries where C19 variants of concern have been identified may be required to undertake a rapid COVID-19 test (ID NOW) on arrival, which if positive will lead to a subsequent PCR test to determine if isolation at a government hospital is necessary."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What requirements should my pcr test have?",
+              "answers": [
+                {
+                  "text": "issued by an accredited laboratory in the country of issue, and must be stamped or have a QR code",
+                  "answer_start": 167
+                }
+              ]
+            }
+          ],
+          "context": "Passengers arriving from London Heathrow only are permitted to have their PCR test conducted no more than 96 hours prior to flight departure. PCR certificates must be issued by an accredited laboratory in the country of issue, and must be stamped or have a QR code. You should arrange to take a private test. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Am i exempt of a pcr test if i am vaccinated when going to sharm el sheikh?",
+              "answers": [
+                {
+                  "text": "passengers holding a COVID-19 vaccination certificate that meets the requirements are exempt",
+                  "answer_start": 269
+                }
+              ]
+            },
+            {
+              "question": "Do i have to self isolate when waiting for a test?",
+              "answers": [
+                {
+                  "text": "After testing you will be required to self-isolate at your hotel until you receive your test result",
+                  "answer_start": 364
+                }
+              ]
+            },
+            {
+              "question": "If my test comes back positive, how long do i have to quarantine?",
+              "answers": [
+                {
+                  "text": "up to 14 days",
+                  "answer_start": 737
+                }
+              ]
+            }
+          ],
+          "context": "The Egyptian authorities have advised that tourists arriving directly at airports in the coastal governorates of the Red Sea (Hurghada and Marsa Alam), South Sinai (Sharm El Sheikh), and Marsa Matrouh have the option of taking a PCR test on arrival for a fee of USD30 (passengers holding a COVID-19 vaccination certificate that meets the requirements are exempt). After testing you will be required to self-isolate at your hotel until you receive your test result. The Egyptian authorities will be in touch and will advise whether you need to continue self-isolating. Test results are expected to become available within 12 to 24 hours. If your test result is positive, the Egyptian authorities are likely to ask you to self-isolate for up to 14 days in a separate room allocated for quarantine within your hotel. If symptoms persist, you may be transferred to a public hospital."
+        }
+      ]
+    }
+  ]
+}

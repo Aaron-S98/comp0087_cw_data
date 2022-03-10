@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What can i expect when travelling internally in eswatini?",
+              "answers": [
+                {
+                  "text": "road blocks or unexpected protests and road closures could occur",
+                  "answer_start": 40
+                }
+              ]
+            },
+            {
+              "question": "What time does the curfew start in eswatini?",
+              "answers": [
+                {
+                  "text": "9pm",
+                  "answer_start": 212
+                }
+              ]
+            },
+            {
+              "question": "Are hotels safe in eswatini?",
+              "answers": [
+                {
+                  "text": "Strict hygiene measures are in place to ensure guest safety",
+                  "answer_start": 499
+                }
+              ]
+            }
+          ],
+          "context": "Travel within Eswatini is possible, but road blocks or unexpected protests and road closures could occur. You should avoid protests, demonstrations, or marches. Stay alert for signs of disturbances. Travel after 9pm is not permitted whilst the curfew is in place. It is compulsory to wear a mask everywhere, even when travelling alone in a vehicle. There is a requirement for 1.5 metres of social distance with others. Accommodation: A few hotels are open for business despite the partial lockdown. Strict hygiene measures are in place to ensure guest safety. Public places and services: A curfew has been introduced from 9pm to 4am in response to civil unrest. No one should be on the street after 9pm. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is maximum amount of people allowed for an outdoor gathering in eswatini?",
+              "answers": [
+                {
+                  "text": "reduced to 200",
+                  "answer_start": 433
+                }
+              ]
+            },
+            {
+              "question": "What gatherings are allowed in eswatini?",
+              "answers": [
+                {
+                  "text": "Gatherings remain prohibited except for funerals, community meetings, weddings, professional low-contact sports and religious services",
+                  "answer_start": 57
+                }
+              ]
+            }
+          ],
+          "context": "From 14 June 2021, all retailers will be shut after 7pm. Gatherings remain prohibited except for funerals, community meetings, weddings, professional low-contact sports and religious services. Gatherings are limited to 2.5 hours, with a maximum of 50 people indoors and 100 people outdoors. Only outdoor entertainment and arts activities are allowed. The maximum number of people permitted at an outdoor entertainment event has been reduced to 200."
+        }
+      ]
+    }
+  ]
+}
