@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where does my vaccine passport need to come from?",
+              "answers": [
+                {
+                  "text": "issued from their country of residence",
+                  "answer_start": 55
+                }
+              ]
+            },
+            {
+              "question": "Do i need a vaccine to enter azerbaijan even if i caught covid in the last 4 months?",
+              "answers": [
+                {
+                  "text": "If someone can prove they have contracted COVID within the past 6 months that is also acceptable",
+                  "answer_start": 376
+                }
+              ]
+            },
+            {
+              "question": "Do i need to wear a mask indoors in azerbaijan?",
+              "answers": [
+                {
+                  "text": "The wearing of masks indoors remains mandatory",
+                  "answer_start": 772
+                }
+              ]
+            }
+          ],
+          "context": "Travellers to Azerbaijan, who have a COVID-19 passport issued from their country of residence, can also present this either in a digital format, or as a printed certificate, to gain access to public places. From 15 February 2022, Azerbaijan classifies someone as being vaccinated only if they have had their second vaccination or booster vaccination within the past 6 months. If someone can prove they have contracted COVID within the past 6 months that is also acceptable. The detail and application of COVID-19 rules can change at short notice. You should regularly check the latest requirements and ensure you have documentation of full vaccination from either the local medical authorities or your country of residence. The wearing of masks outdoors is not mandatory. The wearing of masks indoors remains mandatory. Failure to follow mask-wearing rules could incur a 100 AZN fine. "
+        }
+      ]
+    }
+  ]
+}

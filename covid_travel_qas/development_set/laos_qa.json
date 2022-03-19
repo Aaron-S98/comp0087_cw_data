@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there internal travel restrictions in laos?",
+              "answers": [
+                {
+                  "text": "Travel restrictions within Laos have been lifted. Authorisation for travel by road, water and air between provinces is no longer required",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What type of shops are closed in laos?",
+              "answers": [
+                {
+                  "text": "The Lao authorities have announced changes to lockdown restrictions in all provinces. There will be a continued nationwide closure of all forms of entertainment venues including karaoke lounges, bars, internet cafes, snooker halls, casinos and gaming venues.",
+                  "answer_start": 332
+                }
+              ]
+            }
+          ],
+          "context": "Travel restrictions within Laos have been lifted. Authorisation for travel by road, water and air between provinces is no longer required for travellers carrying proof of full vaccination. You should consult with provincial COVID-19 Task Forces for guidance for those who are not fully vaccinated or are too young to be vaccinated. The Lao authorities have announced changes to lockdown restrictions in all provinces. There will be a continued nationwide closure of all forms of entertainment venues including karaoke lounges, bars, internet cafes, snooker halls, casinos and gaming venues. No events with over 50 participants including religious activities, traditional ceremonies and weddings are permitted. You should carry evidence of your vaccination status at all times."
+        }
+      ]
+    }
+  ]
+}

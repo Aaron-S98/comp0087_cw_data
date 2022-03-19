@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are air arrivals required to have?",
+              "answers": [
+                {
+                  "text": "required to have had a negative COVID-19 test",
+                  "answer_start": 110
+                }
+              ]
+            },
+            {
+              "question": "From when must the test have been taken?",
+              "answers": [
+                {
+                  "text": "within 72 hours before travelling to the island",
+                  "answer_start": 156
+                }
+              ]
+            }
+          ],
+          "context": "Entry to St Helena, Ascension and Tristan da Cunha: All air arrivals (except from Ascension) to St Helena are required to have had a negative COVID-19 test within 72 hours before travelling to the island."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the entry restrictions in place for foreign nationals?",
+              "answers": [
+                {
+                  "text": "There are no other entry restrictions in force",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "There are no other entry restrictions in force and foreign nationals are permitted to enter St Helena provided they meet the immigration rules."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where does the travel corridor go from ?",
+              "answers": [
+                {
+                  "text": "St Helena and Ascension",
+                  "answer_start": 45
+                }
+              ]
+            }
+          ],
+          "context": "There is currently a travel corridor between St Helena and Ascension."
+        }
+      ]
+    }
+  ]
+}

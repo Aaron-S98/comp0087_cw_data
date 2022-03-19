@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How many honiara flights are available for pre-approved passengers?",
+              "answers": [
+                {
+                  "text": "limited Honiara flights are available for pre-approved passengers",
+                  "answer_start": 25
+                }
+              ]
+            },
+            {
+              "question": "What are the limited honiara flights due to?",
+              "answers": [
+                {
+                  "text": "Changes in night curfew",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Changes in night curfew, limited Honiara flights are available for pre-approved passengers "
+        }
+      ]
+    }
+  ]
+}

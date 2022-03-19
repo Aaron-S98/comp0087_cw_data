@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "From when will there be new rules for unvaccinated travellers arriving in st lucia?",
+              "answers": [
+                {
+                  "text": "From 5 March 2022 there are new rules for unvaccinated travellers arriving in St Lucia",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What will be restricted for unvaccinated travellers arriving in st lucia?",
+              "answers": [
+                {
+                  "text": "accommodation and movement",
+                  "answer_start": 106
+                }
+              ]
+            },
+            {
+              "question": "How long will restrictions for unvaccinated travellers last?",
+              "answers": [
+                {
+                  "text": "14 days",
+                  "answer_start": 147
+                }
+              ]
+            }
+          ],
+          "context": "From 5 March 2022 there are new rules for unvaccinated travellers arriving in St Lucia, that may restrict accommodation and movement for the first 14 days."
+        }
+      ]
+    }
+  ]
+}

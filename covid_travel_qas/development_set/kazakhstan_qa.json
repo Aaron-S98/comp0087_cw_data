@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long to self isolate if covid-19 positive in Kazakhstan?",
+              "answers": [
+                {
+                  "text": "self-isolate for 14 days",
+                  "answer_start": 211
+                }
+              ]
+            },
+            {
+              "question": "Should i check government website before travelling to Kazakhstan?",
+              "answers": [
+                {
+                  "text": "Due to the current State of Emergency foreign nationals should check entry requirements",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Due to the current State of Emergency foreign nationals should check entry requirements, as there could change at short notice. Travellers entering Kazakhstan who test positive for coronavirus currently need to self-isolate for 14 days."
+        }
+      ]
+    }
+  ]
+}

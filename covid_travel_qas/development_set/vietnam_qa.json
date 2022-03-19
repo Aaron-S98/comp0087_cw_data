@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i have to pay for quarantine costs in vietnam?",
+              "answers": [
+                {
+                  "text": "The Vietnamese government has confirmed that anyone entering Vietnam from 1 September 2020 must pay for quarantine costs both in government centres and in designated hotels.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i have to pay for covid hospital treatment costs in vietnam?",
+              "answers": [
+                {
+                  "text": "You will also be responsible for paying for any coronavirus hospital treatment costs.",
+                  "answer_start": 174
+                }
+              ]
+            }
+          ],
+          "context": "The Vietnamese government has confirmed that anyone entering Vietnam from 1 September 2020 must pay for quarantine costs both in government centres and in designated hotels. You will also be responsible for paying for any coronavirus hospital treatment costs."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long do i have to quarantine in vietnam for?",
+              "answers": [
+                {
+                  "text": "You should expect to go into quarantine for at least 14 days. Fully vaccinated visitors may be permitted to leave after 7 days with a further 7 days at a place of residence.",
+                  "answer_start": 321
+                }
+              ]
+            }
+          ],
+          "context": "Vietnam\u2019s quarantine requirements are mandated by the Vietnamese Ministry of Health. The British Embassy and Consulate General are unable to intervene in having these requirements waived, shortened or changed or assist in the reservation of, or transfer to, hotels used for quarantine. Violations carry strict penalties. You should expect to go into quarantine for at least 14 days. Fully vaccinated visitors may be permitted to leave after 7 days with a further 7 days at a place of residence. Quarantine will be longer if you test positive at any point. If you test positive, you should expect to be treated in a Vietnamese hospital. Asymptomatic patients may be discharged from hospital after 10 days and have 2 back to back negative COVID-19 tests. Once discharged you will be expected to undertake a period of self-isolation for 14 days and should follow the instructions issued by the local authorities. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a covid test if i\u2019m travelling within vietnam?",
+              "answers": [
+                {
+                  "text": "Passengers who reside in level 4 areas or lockdown areas must present a negative COVID-test, taken no longer than 72 hours before boarding.",
+                  "answer_start": 289
+                }
+              ]
+            }
+          ],
+          "context": "Domestic travel: Air Travel- COVID-19 prevention measures vary depending on where you start your journey and your destination. You should check with your travel provider on the status of your flight and prevention measures in place at your destination and/or on return, before travelling. Passengers who reside in level 4 areas or lockdown areas must present a negative COVID-test, taken no longer than 72 hours before boarding. Inter-province public transport- Transport services may be cancelled or suspended at short notice. You should check with your travel provider on travel restrictions and any COVID-19 prevention measures in place at your destination and/or on return."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the restrictions in vietnam?",
+              "answers": [
+                {
+                  "text": "The measures to combat COVID-19 vary from province to province and can change at short notice.",
+                  "answer_start": 28
+                }
+              ]
+            }
+          ],
+          "context": "Public spaces and services- The measures to combat COVID-19 vary from province to province and can change at short notice. Vietnam has introduced a colour-coded categorisation to identify high risk COVID areas across Vietnam. These categories can vary between provinces and within cities. The categories are: Red, Orange, Yellow, and Green. The Vietnamese authorities regularly review the categorisations. Restrictions will differ depending on the categorisation of particular districts within cities. You should be ready to comply with local authorities. You should also ensure that you have your ID/passport with you. Before travelling to another province you should check with your travel provider and/or accommodation what requirements are in place, both where you are travelling to and on return. Some provinces may require negative COVID-19 tests to be obtained before and/or after entry and some may impose periods of self-isolation. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to wear a mask in vietnam?",
+              "answers": [
+                {
+                  "text": "Mask wearing is compulsory in public settings. Those not wearing masks may be liable to spot fines.",
+                  "answer_start": 108
+                }
+              ]
+            }
+          ],
+          "context": "Social distancing rules remain in place in many places across Vietnam and you should follow these strictly. Mask wearing is compulsory in public settings. Those not wearing masks may be liable to spot fines."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the hanoi covid-19 restrictions in vietnam?",
+              "answers": [
+                {
+                  "text": "Restrictions within Hanoi can vary between districts depending on colour-coded categorisations designated by the local authorities. The Hanoi local authorities review these categorisations weekly.",
+                  "answer_start": 7
+                }
+              ]
+            },
+            {
+              "question": "Do i need proof of vaccination in vietnam?",
+              "answers": [
+                {
+                  "text": "You should install on your phone the PC-Covid App and register your travel. You should also carry other proof of your vaccinations.",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "question": "What should i do if i experience covid-19 symptoms in vietnam?",
+              "answers": [
+                {
+                  "text": "If you experience COVID-19 symptoms you should report to your local Ward Response Team or call 115.",
+                  "answer_start": 705
+                }
+              ]
+            },
+            {
+              "question": "Will i need a covid-19 test in vietnam?",
+              "answers": [
+                {
+                  "text": "If you are asked to undertake testing, you should comply.",
+                  "answer_start": 965
+                }
+              ]
+            }
+          ],
+          "context": "Hanoi- Restrictions within Hanoi can vary between districts depending on colour-coded categorisations designated by the local authorities. The Hanoi local authorities review these categorisations weekly. You should be alert to changes and be ready to comply with restrictions put in place. Ho Chi Minh City- You should install on your phone the PC-Covid App and register your travel. You should also carry other proof of your vaccinations. There may be local variations so you should talk to your landlord or local ward authorities or resident group for details as to what restrictions are in place in your area. Residents should ensure they have their medical declaration QR code with them at all times. If you experience COVID-19 symptoms you should report to your local Ward Response Team or call 115. Healthcare in Vietnam- If you think you have COVID-19 symptoms, you should go immediately to a local doctor or hospital. Testing and self-isolation/quarantine- If you are asked to undertake testing, you should comply."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What should i do if i test positive for covid-19 in vietnam?",
+              "answers": [
+                {
+                  "text": "If you test positive with COVID-19 you will have to self-isolate for 7 days.",
+                  "answer_start": 107
+                }
+              ]
+            },
+            {
+              "question": "What do i do if i come in contact with someone with covid-19 in vietnam?",
+              "answers": [
+                {
+                  "text": "If you become a close contact of someone with COVID-19, you will have to self-isolate for 7 days, at your place of residence, if it meets the requirements of local health authorities, or at a quarantine centre.",
+                  "answer_start": 383
+                }
+              ]
+            }
+          ],
+          "context": "Self-isolation periods and testing requirements can change at short notice and may vary between locations. If you test positive with COVID-19 you will have to self-isolate for 7 days. Most provinces permit self-isolation at your place of residence if it meets the requirements of local authorities, but you may be required to self-isolate in a designated quarantine centre or hotel. If you become a close contact of someone with COVID-19, you will have to self-isolate for 7 days, at your place of residence, if it meets the requirements of local health authorities, or at a quarantine centre. Once you have completed quarantine/self-isolation you should receive a document specifying this. You should keep this, as you may need to present it officials in Vietnam or when you leave Vietnam."
+        }
+      ]
+    }
+  ]
+}

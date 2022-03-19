@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+      {
+        "qas": [
+            {
+              "question": "Which coastline does Southern California touch?",
+              "answers": [
+                {
+                  "text": "Pacific",
+                  "answer_start": 82
+                }
+              ]
+            },
+            {
+              "question": "How many metropolitan areas does Southern California's population encompass?",
+              "id": "5705e3f252bb89140068966b",
+              "answers": [
+                {
+                  "text": "seven",
+                  "answer_start": 246
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many inhabitants does the Los Angeles area contain?",
+              "id": "5705e3f252bb89140068966c",
+              "answers": [
+                {
+                  "text": "12 million",
+                  "answer_start": 691
+                },
+                {
+                  "text": "over 12 million inhabitants",
+                  "answer_start": 686
+                },
+                {
+                  "text": "12 million",
+                  "answer_start": 691
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Which of the three heavily populated areas has the least number of inhabitants?",
+              "id": "5705e3f252bb89140068966d",
+              "answers": [
+                {
+                  "text": "San Diego",
+                  "answer_start": 793
+                },
+                {
+                  "text": "the San Diego area",
+                  "answer_start": 789
+                },
+                {
+                  "text": "San Diego",
+                  "answer_start": 793
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Southern California includes the heavily built-up urban area stretching along the Pacific coast from Ventura, through the Greater Los Angeles Area and the Inland Empire, and down to Greater San Diego. Southern California's population encompasses seven metropolitan areas, or MSAs: the Los Angeles metropolitan area, consisting of Los Angeles and Orange counties; the Inland Empire, consisting of Riverside and San Bernardino counties; the San Diego metropolitan area; the Oxnard\u2013Thousand Oaks\u2013Ventura metropolitan area; the Santa Barbara metro area; the San Luis Obispo metropolitan area; and the El Centro area. Out of these, three are heavy populated areas: the Los Angeles area with over 12 million inhabitants, the Riverside-San Bernardino area with over four million inhabitants, and the San Diego area with over 3 million inhabitants. For CSA metropolitan purposes, the five counties of Los Angeles, Orange, Riverside, San Bernardino, and Ventura are all combined to make up the Greater Los Angeles Area with over 17.5 million people. With over 22 million people, southern California contains roughly 60 percent of California's population.",
+          "document_id": 630
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What method is used to intuitively assess or quantify the amount of resources required to solve a computational problem?",
+              "answers": [
+                {
+                  "text": "mathematical models of computation",
+                  "answer_start": 176
+                }
+              ]
+            },
+            {
+              "question": "What are two basic primary resources used to guage complexity?",
+              "answers": [
+                {
+                  "text": "time and storage",
+                  "answer_start": 305
+                }
+              ]
+            },
+            {
+              "question": "What unit is measured to determine circuit complexity?",
+              "answers": [
+                {
+                  "text": "number of gates in a circuit",
+                  "answer_start": 440
+                }
+              ]
+            }
+          ],
+          "context": "A problem is regarded as inherently difficult if its solution requires significant resources, whatever the algorithm used. The theory formalizes this intuition, by introducing mathematical models of computation to study these problems and quantifying the amount of resources needed to solve them, such as time and storage. Other complexity measures are also used, such as the amount of communication (used in communication complexity), the number of gates in a circuit (used in circuit complexity) and the number of processors (used in parallel computing). One of the roles of computational complexity theory is to determine the practical limits on what computers can and cannot do."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do children need a negative covid-19 test upon arrival in pakistan?",
+              "answers": [
+                {
+                  "text": "Travellers aged 6 years and above are required to present evidence of a negative COVID-19 PCR test",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i need to be vaccinated to travel to pakistan?",
+              "answers": [
+                {
+                  "text": "Passengers aged 15 and above require full vaccination against COVID-19 in order to undertake inbound flights to Pakistan.",
+                  "answer_start": 148
+                }
+              ]
+            }
+          ],
+          "context": "Travellers aged 6 years and above are required to present evidence of a negative COVID-19 PCR test taken up to 48 hours before the start of travel. Passengers aged 15 and above require full vaccination against COVID-19 in order to undertake inbound flights to Pakistan. Pakistan will accept the proof of COVID-19 vaccination record. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. Passengers who hold a medical certificate stating that they have been medically advised not to receive a COVID-19 vaccine are exempt from this requirement. The Pakistani authorities have closed most land borders with Afghanistan, India and Iran. There are ongoing limited border openings for repatriation and trade. Illegal entry to Pakistan is a serious offence. If you cross from Afghanistan without the correct documentation you may be subject to detention and/or deportation. There is currently no process for regularisation of status for illegal entrants which is necessary for onward travel."
+        }
+      ]
+    }
+  ]
+}

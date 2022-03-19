@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel to hong kong?",
+              "answers": [
+                {
+                  "text": "Travellers who have visited the UK (or 7 other designated countries) within the past 21 days are not currently permitted to enter Hong Kong or transit through Hong Kong International Airport.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Will i need to quarantine in hong kong?",
+              "answers": [
+                {
+                  "text": "travellers arriving at Hong Kong International Airport from all places other than mainland China, Macao and Taiwan will need to undergo 14 days quarantine at a designated quarantine hotel.",
+                  "answer_start": 266
+                }
+              ]
+            }
+          ],
+          "context": "Travellers who have visited the UK (or 7 other designated countries) within the past 21 days are not currently permitted to enter Hong Kong or transit through Hong Kong International Airport. From 5 February, this period will be shortened to 14 days.rom 5 February, travellers arriving at Hong Kong International Airport from all places other than mainland China, Macao and Taiwan will need to undergo 14 days quarantine at a designated quarantine hotel. On arrival, travellers will need to provide confirmation of a hotel room reservation at their designated quarantine hotel.Most travellers arriving from abroad must be fully vaccinated Hong Kong residents. Proof of a single dose of the BioNTech vaccination will be accepted for 12-17 year-old Hong Kong residents travelling from abroad, or those unable to receive a second vaccination for health reasons. Accompanied unvaccinated minors under the age of 12 who are Hong Kong residents or children of Hong Kong residents are also allowed to enter Hong Kong."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What happens if i don't quarantine in hong kong?",
+              "answers": [
+                {
+                  "text": "You could face a 6-month prison sentence and a substantial fine.",
+                  "answer_start": 128
+                }
+              ]
+            },
+            {
+              "question": "Can i travel to china from hong kong?",
+              "answers": [
+                {
+                  "text": "All border crossings with mainland China remain closed indefinitely, with the exception of the Shenzhen Bay Checkpoint and the Hong Kong-Zhuhai-Macao Bridge.",
+                  "answer_start": 488
+                }
+              ]
+            }
+          ],
+          "context": "Failure to comply with the quarantine conditions may result in you being immediately taken to government quarantine facilities. You could face a 6-month prison sentence and a substantial fine. You should comply with the requirements of your quarantine arrangements.Transiting Hong Kong: Transit services at Hong Kong International Airport are currently suspended for anyone who has visited a \u2018High-risk\u2019 country within the past 14 days.Travel between Hong Kong, Macao and mainland China: All border crossings with mainland China remain closed indefinitely, with the exception of the Shenzhen Bay Checkpoint and the Hong Kong-Zhuhai-Macao Bridge. All passengers wanting to board a shuttle bus to cross the bridge departing from Hong Kong to Macao must present a certificate confirming that they have tested negative for COVID-19 within 72 hours of their departure."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to be vaccinated to enter restaurants and shops in hong kong?",
+              "answers": [
+                {
+                  "text": "proof of vaccination against COVID-19 will be required to enter a range of venues, including restaurants, gyms, swimming pools and hotels.",
+                  "answer_start": 334
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive for covid in hong kong?",
+              "answers": [
+                {
+                  "text": "If you test positive for COVID-19, you may need to stay where you are until you test negative.",
+                  "answer_start": 580
+                }
+              ]
+            }
+          ],
+          "context": "Travel in Hong Kong: There are local travel restrictions in place upon arrival in Hong Kong including mandatory quarantine.Following the detection of the Omicron Covid-19 variant in Hong Kong, restrictions have been placed on the operations of restaurants, bars, schools, museums and a number of other public places.From 24 February, proof of vaccination against COVID-19 will be required to enter a range of venues, including restaurants, gyms, swimming pools and hotels. Those who are under 12, or deemed medically unfit for vaccination, will be exempt from these requirements. If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there."
+        }
+      ]
+    }
+  ]
+}

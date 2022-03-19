@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When do you need to take a pcr test when coming from a red list country?",
+              "answers": [
+                {
+                  "text": "within 72 hours of arrival in Qatar",
+                  "answer_start": 107
+                }
+              ]
+            },
+            {
+              "question": "What does a fully vaccinated resident need to take within 72 hours of arrival in qatar?",
+              "answers": [
+                {
+                  "text": "pre-departure PCR test",
+                  "answer_start": 84
+                }
+              ]
+            }
+          ],
+          "context": " Fully vaccinated residents returning from a red listed country need to undertake a pre-departure PCR test within 72 hours of arrival in Qatar "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Travelling to qatar after 25th april 2021, who will be exempt from quarantine?",
+              "answers": [
+                {
+                  "text": "residents",
+                  "answer_start": 24
+                }
+              ]
+            }
+          ],
+          "context": "From 25 April 2021, all residents returning to Qatar will be exempt from quarantine provided they have completed a vaccination course as recognised by MoPH Qatar ("
+        }
+      ]
+    }
+  ]
+}

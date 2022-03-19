@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is there a lockdown in kosovo?",
+              "answers": [
+                {
+                  "text": "Movement and activity in Kosovo are currently restricted.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Is there a curfew in kosovo?",
+              "answers": [
+                {
+                  "text": "There is a 10pm to 5am curfew, with exceptions for emergencies only",
+                  "answer_start": 58
+                }
+              ]
+            }
+          ],
+          "context": "Movement and activity in Kosovo are currently restricted. There is a 10pm to 5am curfew, with exceptions for emergencies only. Public transport is permitted to operate at half capacity, providing masks are worn. Taxis are allowed to work with up to two passengers"
+        }
+      ]
+    }
+  ]
+}

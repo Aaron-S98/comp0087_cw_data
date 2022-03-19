@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What do i have to complete if i don't have documents?",
+              "answers": [
+                {
+                  "text": "must complete an online epidemiological form that declares information about your state of health",
+                  "answer_start": 106
+                }
+              ]
+            },
+            {
+              "question": "What must you confirm if you don't have a listed document?",
+              "answers": [
+                {
+                  "text": "confirm that you will self-isolate for 14 days unless you are exempt.",
+                  "answer_start": 231
+                }
+              ]
+            },
+            {
+              "question": "When does this rule begin?",
+              "answers": [
+                {
+                  "text": "From 17 January 2022",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "From 17 January 2022, on entering Moldova, all arrivals who don\u2019t have one of the documents listed below, must complete an online epidemiological form that declares information about your state of health (relevant to COVID-19) and confirm that you will self-isolate for 14 days unless you are exempt."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "If i'm in isolation when do i take a test ?",
+              "answers": [
+                {
+                  "text": "on the 7th day of their visit",
+                  "answer_start": 79
+                }
+              ]
+            },
+            {
+              "question": "If the test result is negative, what happens?",
+              "answers": [
+                {
+                  "text": "will not have to continue self-isolating",
+                  "answer_start": 114
+                }
+              ]
+            },
+            {
+              "question": "With a negative pcr test where can i enter?",
+              "answers": [
+                {
+                  "text": "the Transnistrian region",
+                  "answer_start": 205
+                }
+              ]
+            }
+          ],
+          "context": "Arrivals who are in self-isolation may take a PCR test or a rapid antigen test on the 7th day of their visit, and will not have to continue self-isolating if the test is negative. You are allowed to enter the Transnistrian region without a negative PCR test."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What makes you exempt from self-isolation?",
+              "answers": [
+                {
+                  "text": "you present proof that you have received both doses of an approved vaccination",
+                  "answer_start": 42
+                }
+              ]
+            },
+            {
+              "question": "When must the second dose have been administered for the exemption to be valid ?",
+              "answers": [
+                {
+                  "text": "at least 14 days before your date of arrival",
+                  "answer_start": 166
+                }
+              ]
+            }
+          ],
+          "context": "You will be exempt from self-isolation if you present proof that you have received both doses of an approved vaccination. The second dose must have been administered at least 14 days before your date of arrival. Current rules do not specify whether electronic documents are acceptable as proof, but you are recommended to present your vaccination certificate in paper form."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is strongly advised against?",
+              "answers": [
+                {
+                  "text": "entering Moldova without any COVID documentation",
+                  "answer_start": 42
+                }
+              ]
+            },
+            {
+              "question": "What counts as covid documentation?",
+              "answers": [
+                {
+                  "text": "vaccination certificate, negative PCR test, lateral flow test or similar",
+                  "answer_start": 97
+                }
+              ]
+            }
+          ],
+          "context": "IMPORTANT: It is strongly advised against entering Moldova without any COVID documentation (e.g. vaccination certificate, negative PCR test, lateral flow test or similar)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who have eased the covid-19 requirements?",
+              "answers": [
+                {
+                  "text": "Authorities ease COVID-19 requirements",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "For whom have the requirements been eased for?",
+              "answers": [
+                {
+                  "text": "for international arrivals",
+                  "answer_start": 39
+                }
+              ]
+            }
+          ],
+          "context": "Authorities ease COVID-19 requirements for international arrivals."
+        }
+      ]
+    }
+  ]
+}

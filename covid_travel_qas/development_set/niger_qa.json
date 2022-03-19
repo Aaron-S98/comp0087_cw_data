@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to quarentine upon arrival in niger?",
+              "answers": [
+                {
+                  "text": "If you are staying in Niger for less than 7 days, you will need to take a COVID-19 test on arrival and self-isolate until you have received the results of the test.",
+                  "answer_start": 760
+                }
+              ]
+            },
+            {
+              "question": "Who can visit niger?",
+              "answers": [
+                {
+                  "text": "Entry to Niger is only permitted for Nigerien nationals, persons with valid residency and foreign nationals with valid visas.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Niger is only permitted for Nigerien nationals, persons with valid residency and foreign nationals with valid visas. If you are eligible for entry, you will need to present a negative COVID-19 PCR test certificate taken within 72 hours before arrival to the airport authorities. All travellers entering Niger are also required to register their PCR test and obtain a mandatory QR code. Before travelling, you should <a href=\"https://trustedtravel.panabios.org/\">register and upload your PCR test results online</a>. You can find a full list of approved COVID-19 testing laboratories on the Trusted Travel website. Details of how this policy is being implemented are not fully clear at this stage.You may be subject to temperature checks upon arrival. If you are staying in Niger for less than 7 days, you will need to take a COVID-19 test on arrival and self-isolate until you have received the results of the test. If your test is negative, you can end the self-isolation."
+        }
+      ]
+    }
+  ]
+}

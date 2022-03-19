@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where can i get commercial flights to venezuela?",
+              "answers": [
+                {
+                  "text": "Venezuelan authorities allow resumption of commercial flights to, from Turkey, Mexico, Panama, the Dominican Republic, Bolivia, Russia, Cuba and Spain",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Where can i get a commercial flight to from venezuela?",
+              "answers": [
+                {
+                  "text": "Venezuelan authorities allow resumption of commercial flights to, from Turkey, Mexico, Panama, the Dominican Republic, Bolivia, Russia, Cuba and Spain",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Venezuelan authorities allow resumption of commercial flights to, from Turkey, Mexico, Panama, the Dominican Republic, Bolivia, Russia, Cuba and Spain"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a pcr test to enter venezuela?",
+              "answers": [
+                {
+                  "text": "All travellers entering Venezuela must have a hardcopy negative COVID-19 PCR test performed within 72 hours of their incoming flight arrival.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Which covid-19 tests are accepted by venezuela?",
+              "answers": [
+                {
+                  "text": "All travellers entering Venezuela must have a hardcopy negative COVID-19 PCR test performed within 72 hours of their incoming flight arrival. Other COVID-19 diagnostic viral tests, e.g. TMA, LAMP, NEAR or antigen, are not accepted.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "All travellers entering Venezuela must have a hardcopy negative COVID-19 PCR test performed within 72 hours of their incoming flight arrival. Other COVID-19 diagnostic viral tests, e.g. TMA, LAMP, NEAR or antigen, are not accepted."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a permit to reach the maiquetia airport in venezuela?",
+              "answers": [
+                {
+                  "text": "Passengers located in the Caracas, Distrito Capital, area with confirmed travel itineraries are allowed to reach the airport in Maiquetia, La Guaira, without any special permit.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Are there domestic flights to maiquetia in venezuela?",
+              "answers": [
+                {
+                  "text": "There are no domestic flights to Maiquetia operating until further notice.",
+                  "answer_start": 277
+                }
+              ]
+            },
+            {
+              "question": "Do i need a face mask in venezuela?",
+              "answers": [
+                {
+                  "text": "The use of face covering is mandatory at all times, including when travelling via land in private vehicles.",
+                  "answer_start": 352
+                }
+              ]
+            },
+            {
+              "question": "Where do i need a face mask in venezuela?",
+              "answers": [
+                {
+                  "text": "The use of face covering is mandatory at all times, including when travelling via land in private vehicles.",
+                  "answer_start": 352
+                }
+              ]
+            },
+            {
+              "question": "Are hotels open in venezuela?",
+              "answers": [
+                {
+                  "text": "Most hotels are open and able to receive guests.",
+                  "answer_start": 686
+                }
+              ]
+            }
+          ],
+          "context": "Passengers located in the Caracas, Distrito Capital, area with confirmed travel itineraries are allowed to reach the airport in Maiquetia, La Guaira, without any special permit. Movement to the airport via land from other states require a \u201csalvoconducto\u201d in advance of travel. There are no domestic flights to Maiquetia operating until further notice. The use of face covering is mandatory at all times, including when travelling via land in private vehicles. Certain municipalities might be under stricter lockdown than others depending on the number of COVID-19 infections reported. Stay informed through local media reports and follow the advice of local authorities. Accommodation: Most hotels are open and able to receive guests. Private accommodation rental remains possible, although with reduced availability. Some hotels may require guests to be COVID-19 tested before allowing them to check-in into their premises, please confirm any specific requirements in advance."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are schools and universities open in venezuela?",
+              "answers": [
+                {
+                  "text": "Schools and universities remain closed until further notice.",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "question": "Can i have public gatherings in venezuela?",
+              "answers": [
+                {
+                  "text": "Public gatherings are prohibited and people have been instructed to wear face covering at all times when outside.",
+                  "answer_start": 473
+                }
+              ]
+            }
+          ],
+          "context": "Public places and services: Social/community-wide quarantine and bans on inter-state travel with roadblocks are in place since 16 March. Local authorities have recently moved on to an alternating lockdown/flexible scheme where during a \u201cflexible week\u201d certain specific economic sectors are allowed to operate limited hours; on a \u201clockdown week\u201d only essential businesses and medical services remain operational. Schools and universities remain closed until further notice. Public gatherings are prohibited and people have been instructed to wear face covering at all times when outside."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i get a visa to visit mozambique?",
+              "answers": [
+                {
+                  "text": "The issuing of border visas for tourism purposes has now resumed",
+                  "answer_start": 99
+                }
+              ]
+            },
+            {
+              "question": "Do i need to quarantine if i am vaccinated?",
+              "answers": [
+                {
+                  "text": "Travellers presenting a negative COVID-19 PCR test are exempt from the quarantine regime regardless of whether they have been fully vaccinated.",
+                  "answer_start": 270
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Mozambique is allowed to all travellers with a valid tourist, business or residency visa. The issuing of border visas for tourism purposes has now resumed. Testing for COVID-19 may be required on arrival in Mozambique, at your expense. Quarantine requirements: Travellers presenting a negative COVID-19 PCR test are exempt from the quarantine regime regardless of whether they have been fully vaccinated. The test must have been issued in the departure country, within 72 hours prior to the time of arrival, even if they hold proof of vaccination. Children under 5 years old are exempt from the requirement to present a COVID-19 PCR test. You should arrange to take a private test. A negative PCR test is valid for up to 7 days for travellers using the South Africa land border. Anyone testing positive, or in contact with someone who has tested positive for COVID-19 will be required to self-isolate for a period of 7 days. Anyone who does not present a negative COVID-19 test will need to self-isolate for 7 days. A negative PCR test is valid for up to 7 days for travellers using the South Africa land border."
+        }
+      ]
+    }
+  ]
+}

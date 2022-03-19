@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to quarantine upon arrival to the philippines?",
+              "answers": [
+                {
+                  "text": "Upon arrival, you will not be required to undergo facility-based quarantine.",
+                  "answer_start": 248
+                }
+              ]
+            },
+            {
+              "question": "Are vaccination records accpeted in the philippines?",
+              "answers": [
+                {
+                  "text": "The Philippines will accept the proof of COVID-19 recovery and vaccination record.",
+                  "answer_start": 702
+                }
+              ]
+            }
+          ],
+          "context": "From 1 February 2022, fully vaccinated travellers holding a valid visa will be permitted entry. You must provide a negative Reverse Transcription Polymerase Chain Reaction (RT-PCR) test taken within 48 hours prior to departing for the Philippines. Upon arrival, you will not be required to undergo facility-based quarantine. Instead you should self-monitor symptoms for 7 days with the first day being the date of arrival. From 10 February 2022, fully vaccinated will be permitted to enter the Philippines. You will be permitted to enter the country visa free for an initial period of 30 days and will not be required to undergo facility-based quarantine providing you meet the following requirements. The Philippines will accept the proof of COVID-19 recovery and vaccination record. You should follow the rules for fully vaccinated travellers depending on the country risk classifications as determined by the Philippine Government."
+        }
+      ]
+    }
+  ]
+}

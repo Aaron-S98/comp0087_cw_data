@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Has the quarantine requirement changes in the us?",
+              "answers": [
+                {
+                  "text": "shortening the recommended time for isolation from 10 days for people with COVID-19 to five days",
+                  "answer_start": 86
+                }
+              ]
+            },
+            {
+              "question": "Who is decideding to reduce the quarantine time?",
+              "answers": [
+                {
+                  "text": "the CDC",
+                  "answer_start": 15
+                }
+              ]
+            },
+            {
+              "question": "On what condition can the quarantine be reduced?",
+              "answers": [
+                {
+                  "text": "if asymptomatic, followed by five days of wearing a mask when around others",
+                  "answer_start": 184
+                }
+              ]
+            },
+            {
+              "question": "How long do i have to wear a mask after being in contact with someone with covid?",
+              "answers": [
+                {
+                  "text": "should wear a mask for 10 days after the exposure",
+                  "answer_start": 902
+                }
+              ]
+            },
+            {
+              "question": "If i have a booster do i need to quarantine?",
+              "answers": [
+                {
+                  "text": "Individuals who have received their booster shot do not need to quarantine following an exposure",
+                  "answer_start": 800
+                }
+              ]
+            }
+          ],
+          "context": "Given what we [the CDC] currently know about COVID-19 and the Omicron variant, CDC is shortening the recommended time for isolation from 10 days for people with COVID-19 to five days, if asymptomatic, followed by five days of wearing a mask when around others. Additionally, CDC is updating the recommended quarantine period for those exposed to COVID-19. For people who are unvaccinated or are more than six months out from their second mRNA dose (or more than two months after the J&J vaccine) and not yet boosted, CDC now recommends quarantine for five days followed by strict mask use for an additional five days. Alternatively, if a five-day quarantine is not feasible, it is imperative that an exposed person wear a well-fitting mask at all times when around others for 10 days after exposure. Individuals who have received their booster shot do not need to quarantine following an exposure, but should wear a mask for 10 days after the exposure."
+        }
+      ]
+    }
+  ]
+}

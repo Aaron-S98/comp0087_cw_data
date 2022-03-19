@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which travellers are exempt from quarantine ?",
+              "answers": [
+                {
+                  "text": "Travellers who have received their final vaccination for COVID-19 more than 10 days ago",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What are you required to show alongside the proof of vaccination?",
+              "answers": [
+                {
+                  "text": "the dates",
+                  "answer_start": 172
+                }
+              ]
+            }
+          ],
+          "context": "Travellers who have received their final vaccination for COVID-19 more than 10 days ago, are exempt from quarantine. It is required to show proof of vaccination, including the dates."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who can enter romania?",
+              "answers": [
+                {
+                  "text": "Travellers who hold documents equivalent to the 'EU Digital COVID Certificate' (EUDCC)",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What do you need to hold to enter romania?",
+              "answers": [
+                {
+                  "text": "documents equivalent to the 'EU Digital COVID Certificate' (EUDCC)",
+                  "answer_start": 20
+                }
+              ]
+            },
+            {
+              "question": "What do the documents need to meet?",
+              "answers": [
+                {
+                  "text": "the requirements listed above for the EUDCC",
+                  "answer_start": 97
+                }
+              ]
+            }
+          ],
+          "context": "Travellers who hold documents equivalent to the 'EU Digital COVID Certificate' (EUDCC) that meet the requirements listed above for the EUDCC can enter Romania at the same conditions."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is possible across romania?",
+              "answers": [
+                {
+                  "text": "Road transit",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What do you need to carry at all times?",
+              "answers": [
+                {
+                  "text": "your passport",
+                  "answer_start": 58
+                }
+              ]
+            }
+          ],
+          "context": "Road transit across or through Romania is possible. Carry your passport at all times."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What rights do holders of the eu digital covid certificate have?",
+              "answers": [
+                {
+                  "text": "the same rights as citizens of the visited Member State",
+                  "answer_start": 71
+                }
+              ]
+            }
+          ],
+          "context": "When travelling, holders of the EU Digital COVID Certificate will have the same rights as citizens of the visited Member State who have been vaccinated, tested or recovered."
+        }
+      ]
+    }
+  ]
+}

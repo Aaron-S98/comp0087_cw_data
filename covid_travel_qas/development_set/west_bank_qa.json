@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What entry requirements are there for the west bank?",
+              "answers": [
+                {
+                  "text": "Israel operates a number of entry requirements due to COVID-19. Full guidance on requirements upon arrival is regularly updated online. Check Israeli Population and Immigration Authority pages and the dedicated COVID-19 Air Transport website for full details. Further restrictions may be introduced at short notice.",
+                  "answer_start": 19
+                }
+              ]
+            },
+            {
+              "question": "Can i cross between israel and jordan?",
+              "answers": [
+                {
+                  "text": "Restrictions also apply at land crossings between Israel and Jordan, and between the Occupied Palestinian Territories and Jordan. You can find the latest guidance on entering and exiting Israel via the land borders on the Israeli Ministry of Health\u2019s website. Those wishing to enter Jordan from Israel will need to register in advance. You can find more information on the Visit Jordan website.",
+                  "answer_start": 351
+                }
+              ]
+            }
+          ],
+          "context": "Entry and borders: Israel operates a number of entry requirements due to COVID-19. Full guidance on requirements upon arrival is regularly updated online. Check Israeli Population and Immigration Authority pages and the dedicated COVID-19 Air Transport website for full details. Further restrictions may be introduced at short notice. Land crossings: Restrictions also apply at land crossings between Israel and Jordan, and between the Occupied Palestinian Territories and Jordan. You can find the latest guidance on entering and exiting Israel via the land borders on the Israeli Ministry of Health\u2019s website. Those wishing to enter Jordan from Israel will need to register in advance. You can find more information on the Visit Jordan website."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are hotels open in the west bank?",
+              "answers": [
+                {
+                  "text": "Some hotels across Israel and the Occupied Palestinian Territories have now reopened. Hotels in Israel are required to comply with the \u201cPurple Badge\u201d requirements and guidelines set by the Israeli Ministry of Health.",
+                  "answer_start": 15
+                }
+              ]
+            },
+            {
+              "question": "What are the restrictions in the west bank?",
+              "answers": [
+                {
+                  "text": "While some restrictions have been removed, the state of emergency remains in place. You should follow local announcements for any changes to restrictions in the Occupied Palestinian Territories, and confirm any travel arrangements or hotel bookings before moving around the Occupied Palestinian Territories.",
+                  "answer_start": 616
+                }
+              ]
+            }
+          ],
+          "context": "Accommodation: Some hotels across Israel and the Occupied Palestinian Territories have now reopened. Hotels in Israel are required to comply with the \u201cPurple Badge\u201d requirements and guidelines set by the Israeli Ministry of Health. Public places and services: Information on the current regulations in Israel can be found on Israel\u2019s Ministry of Health website. This includes regulations for shops, restaurants, bars, other leisure activities and large gatherings. On 5 March 2020 the Palestinian Authority announced a state of emergency in the Occupied Palestinian Territories, related to the coronavirus pandemic. While some restrictions have been removed, the state of emergency remains in place. You should follow local announcements for any changes to restrictions in the Occupied Palestinian Territories, and confirm any travel arrangements or hotel bookings before moving around the Occupied Palestinian Territories."
+        }
+      ]
+    }
+  ]
+}

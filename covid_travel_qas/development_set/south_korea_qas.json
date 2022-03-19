@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What do all transit passengers receive when they arrive in korea?",
+              "answers": [
+                {
+                  "text": "All transit passengers receive a temperature check on arrival in Korea.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What happens if you fail the temperature check in korea?",
+              "answers": [
+                {
+                  "text": "Symptomatic individuals will be subject to a COVID-19 test and hospitalisation",
+                  "answer_start": 72
+                }
+              ]
+            },
+            {
+              "question": "What happens if i don't show symptons upon arrival in korea?",
+              "answers": [
+                {
+                  "text": "Passengers who do not show symptoms and/or test negative may continue their journey.",
+                  "answer_start": 170
+                }
+              ]
+            },
+            {
+              "question": "What do i require if i am a transit passenger?",
+              "answers": [
+                {
+                  "text": "Transit passengers at Seoul Incheon Airport require a ticket/boarding pass for their onward flight",
+                  "answer_start": 255
+                }
+              ]
+            }
+          ],
+          "context": "All transit passengers receive a temperature check on arrival in Korea. Symptomatic individuals will be subject to a COVID-19 test and hospitalisation if found positive. Passengers who do not show symptoms and/or test negative may continue their journey. Transit passengers at Seoul Incheon Airport require a ticket/boarding pass for their onward flight to their final destination."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which type of arrivals are required to be tested for coronavirus after entering south korea?",
+              "answers": [
+                {
+                  "text": "All arrivals \u2013 including children under the age of six, and regardless of nationality and length of stay \u2013 are also required to be tested for coronavirus",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Within how many hours does the test need to be taken after entering the coutry?",
+              "answers": [
+                {
+                  "text": "within 24 hours",
+                  "answer_start": 165
+                }
+              ]
+            }
+          ],
+          "context": "All arrivals \u2013 including children under the age of six, and regardless of nationality and length of stay \u2013 are also required to be tested for coronavirus (COVID-19) within 24 hours after entering South Korea."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What exemptions do i receive if i have taken a vaccine from outside of south korea?",
+              "answers": [
+                {
+                  "text": "quarantine exemptions",
+                  "answer_start": 130
+                }
+              ]
+            },
+            {
+              "question": "From when will i be exempt from quarantine exemptions if i got my vaccine from outside south korea?",
+              "answers": [
+                {
+                  "text": "From 1 July",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "From 1 July, vaccinated individuals, including those who received their vaccinations outside of South Korea, will be eligible for quarantine exemptions if they are travelling for business, academic, or humanitarian purposes. "
+        }
+      ]
+    }
+  ]
+}

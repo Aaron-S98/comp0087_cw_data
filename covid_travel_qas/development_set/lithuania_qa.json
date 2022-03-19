@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a face mask in lithuania?",
+              "answers": [
+                {
+                  "text": "You must wear a medical facemask in all indoor public spaces in Lithuania",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Is anyone exempt from facemasks in lithuania?",
+              "answers": [
+                {
+                  "text": "children under the age of six, or people with a medical exemption",
+                  "answer_start": 318
+                }
+              ]
+            }
+          ],
+          "context": "You must wear a medical facemask in all indoor public spaces in Lithuania, including shops, restaurants, businesses, workplaces, museums, theatres, public transport, taxis and educational environments.Masks should be three layers of non-woven material and bear the CE marking on their packaging.This does not apply to children under the age of six, or people with a medical exemption. If you cannot wear facemasks on medical grounds, you are advised to wear face shields if possible. Exemptions also apply to those doing physical exercise, providing a service that cannot be done with a facemask, or consuming food or drink. Lithuania will accept the proof of COVID-19 recovery and vaccination record, if it meets the requirements set out above. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status."
+        }
+      ]
+    }
+  ]
+}

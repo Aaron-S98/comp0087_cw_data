@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "From where is transit permitted?",
+              "answers": [
+                {
+                  "text": "Transit via Sri Lanka is permitted",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "On what condition is transit via sri lanka permitted?",
+              "answers": [
+                {
+                  "text": "as long as the connecting flight is within 10 hours of arrival",
+                  "answer_start": 36
+                }
+              ]
+            },
+            {
+              "question": "Within what period must the connecting flight be within?",
+              "answers": [
+                {
+                  "text": "within 10 hours of arrival",
+                  "answer_start": 72
+                }
+              ]
+            }
+          ],
+          "context": "Transit via Sri Lanka is permitted, as long as the connecting flight is within 10 hours of arrival."
+        }
+      ]
+    }
+  ]
+}

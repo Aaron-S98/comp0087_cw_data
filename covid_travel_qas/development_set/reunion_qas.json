@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What travel restrictions are in place in r\u00e9union?",
+              "answers": [
+                {
+                  "text": "local travel restrictions",
+                  "answer_start": 10
+                }
+              ]
+            },
+            {
+              "question": "Which government outlines new measures?",
+              "answers": [
+                {
+                  "text": "The French Government",
+                  "answer_start": 57
+                }
+              ]
+            },
+            {
+              "question": "Where also do the new measures apply to?",
+              "answers": [
+                {
+                  "text": "the French Overseas Territories",
+                  "answer_start": 160
+                }
+              ]
+            }
+          ],
+          "context": "There are local travel restrictions in place in R\u00e9union. The French Government has outlined new measures to stem the spread of coronavirus, which also apply to the French Overseas Territories."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long do arrivals have to self-isolate for?",
+              "answers": [
+                {
+                  "text": "seven days",
+                  "answer_start": 57
+                }
+              ]
+            },
+            {
+              "question": "What are arrivals required to do?",
+              "answers": [
+                {
+                  "text": "self-isolate",
+                  "answer_start": 40
+                }
+              ]
+            }
+          ],
+          "context": "Arrivals to R\u00e9union will be required to self-isolate for seven days, before taking another PCR test."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What do travellers have to take before departure for r\u00e9union?",
+              "answers": [
+                {
+                  "text": "a test for COVID-19 within 72 hours",
+                  "answer_start": 49
+                }
+              ]
+            },
+            {
+              "question": "Is the test compulsory?",
+              "answers": [
+                {
+                  "text": "The test is obligatory",
+                  "answer_start": 115
+                }
+              ]
+            },
+            {
+              "question": "What must the traveller show before embarking ?",
+              "answers": [
+                {
+                  "text": "a negative result",
+                  "answer_start": 175
+                }
+              ]
+            }
+          ],
+          "context": "All travellers over the age of 11 must undertake a test for COVID-19 within 72 hours before departure for R\u00e9union. The test is obligatory and the traveller must show proof of a negative result before embarking."
+        }
+      ]
+    }
+  ]
+}

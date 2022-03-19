@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are zambian borders open?",
+              "answers": [
+                {
+                  "text": "Zambia borders are open",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Are tourist visas available in zambia?",
+              "answers": [
+                {
+                  "text": "Tourist and business visit visas are available in advance and on arrival in Zambia",
+                  "answer_start": 53
+                }
+              ]
+            },
+            {
+              "question": "Do i need a test to enter zambia?",
+              "answers": [
+                {
+                  "text": "all travellers to Zambia must produce evidence of a PCR COVID-19 negative test",
+                  "answer_start": 176
+                }
+              ]
+            },
+            {
+              "question": "Is vaccination mandatory?",
+              "answers": [
+                {
+                  "text": "Travellers to Zambia are encouraged to be fully vaccinated but this is not mandatory",
+                  "answer_start": 571
+                }
+              ]
+            }
+          ],
+          "context": "Zambia borders are open, but under health screening. Tourist and business visit visas are available in advance and on arrival in Zambia. Zambian Government guidelines are that all travellers to Zambia must produce evidence of a PCR COVID-19 negative test taken within 72 hours of departure from country of origin. Some airlines are asking passengers for evidence of a negative PCR test taken within 72 hours prior to arrival in Zambia. You should check your airline guidelines on testing carefully when arranging your tests. Under-fives are exempt from this requirement. Travellers to Zambia are encouraged to be fully vaccinated but this is not mandatory. You should arrange to take a private test. All airports are open to flights, though availability of international flights remains limited."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the body temperature limit to be considered a covid risk?",
+              "answers": [
+                {
+                  "text": "If your body temperature is equal to, or above 38.0",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What happens if i have covid symptoms in zambia?",
+              "answers": [
+                {
+                  "text": "you will be tested and taken to either your home or a government facility for treatment and quarantine",
+                  "answer_start": 178
+                }
+              ]
+            }
+          ],
+          "context": "If your body temperature is equal to, or above 38.0, or you have a COVID-19 related symptom (a cough, shortness of breath, a headache, loss of taste or smell, or a sore throat), you will be tested and taken to either your home or a government facility for treatment and quarantine until your tests results are known"
+        }
+      ]
+    }
+  ]
+}

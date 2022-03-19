@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is there social distancing in the netherlands?",
+              "answers": [
+                {
+                  "text": "You may be fined if you do not keep the 1.5 metre social distance",
+                  "answer_start": 630
+                }
+              ]
+            },
+            {
+              "question": "Are shops open in the netherlands?",
+              "answers": [
+                {
+                  "text": "The Dutch Government has announced that nearly all sectors can reopen as of 26 January",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "The Dutch Government has announced that nearly all sectors can reopen as of 26 January, with closing times at 10pm, limited capacity and strict entry and social distancing rules. The Dutch government urgently advises people to avoid busy places. The maximum group size outdoors will be four people aged 13 and over (this does not apply to people from the same household). The Dutch government urgently advises people to avoid busy places. The maximum group size outdoors will be four people aged 13 and over (this does not apply to people from the same household). You must keep 1.5 metres away from other people in public areas. You may be fined if you do not keep the 1.5 metre social distance. This applies to adults aged 18 years and over. This rule does not apply to people from the same household or to children. There are exemptions, for example on public transport, for medical contact professions and for those providing care, such as pushing a wheelchair. "
+        }
+      ]
+    }
+  ]
+}

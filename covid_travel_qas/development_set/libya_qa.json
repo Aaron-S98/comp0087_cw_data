@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a pcr test before leaving libya?",
+              "answers": [
+                {
+                  "text": "Travellers departing from Libya must have a PCR test carried out within 20 hours before flight",
+                  "answer_start": 564
+                }
+              ]
+            },
+            {
+              "question": "Who is allowed to visit libya?",
+              "answers": [
+                {
+                  "text": "Residents are allowed to enter. Foreign nationals are allowed to enter, though flights to Libya remain limited.",
+                  "answer_start": 338
+                }
+              ]
+            }
+          ],
+          "context": "Most of the land and sea borders remain closed. All borders of Eastern Libya are currently open. The entry restrictions may vary depending on the epidemiological situation of each country. Emsaed border crossing point is open for entry and exit. Ras Ajdir border crossing will remain closed with exceptions granted for returning Libyans. Residents are allowed to enter. Foreign nationals are allowed to enter, though flights to Libya remain limited. Travellers will undergo health checks along with temperature screening. A COVID-19 PCR test will be administered. Travellers departing from Libya must have a PCR test carried out within 20 hours before flight."
+        }
+      ]
+    }
+  ]
+}

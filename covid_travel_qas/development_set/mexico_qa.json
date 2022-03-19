@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel between us and mexico?",
+              "answers": [
+                {
+                  "text": "the land border between the US and Mexico reopened on 8 November for travellers going to the US who have been vaccinated with WHO approved COVID vaccines.",
+                  "answer_start": 89
+                }
+              ]
+            },
+            {
+              "question": "Do i need to fill any forms when i land in mexico?",
+              "answers": [
+                {
+                  "text": "Upon your arrival in Mexico, you will be asked to fill out a Health Questionnaire.",
+                  "answer_start": 682
+                }
+              ]
+            }
+          ],
+          "context": "Following the earlier closure to all non-essential traffic as part of COVID-19 measures, the land border between the US and Mexico reopened on 8 November for travellers going to the US who have been vaccinated with WHO approved COVID vaccines. The closure will still be in effect for non-vaccinated travellers and applies primarily to tourism and recreational travel. Cargo, trade and healthcare workers will still be able to cross the border. Check with your closest US Embassy/Consulate before attempting to cross the border. If you present symptoms of COVID-19 upon arrival at an airport in Mexico, you should ask for the International Health Team (\u00e2\u20ac\u0153Sanidad Internacional\u00e2\u20ac\u009d). Upon your arrival in Mexico, you will be asked to fill out a Health Questionnaire. This document is available in Spanish and English"
+        }
+      ]
+    }
+  ]
+}

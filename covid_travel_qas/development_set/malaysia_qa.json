@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can tourists visit malaysia?",
+              "answers": [
+                {
+                  "text": "You are not permitted to enter Malaysia as a tourist, except for travel to Langkawi Island under the international tourism bubble",
+                  "answer_start": 676
+                }
+              ]
+            },
+            {
+              "question": "What is the website for trvel passes in malaysia?",
+              "answers": [
+                {
+                  "text": "https://mtp.imi.gov.my/myTravelPass/main",
+                  "answer_start": 447
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Malaysia is prohibited for most British nationals, regardless of vaccination status. Some exemptions apply, including for: permanent residents, resident pass, My Second Home Programme (MM2H) pass, expatriates of all categories, including professional visit passes as well as dependants pass, spouse to Malaysian nationals (spouse visa) and students and temporary employment passes. You may need to complete an application on the <a href=\"https://mtp.imi.gov.my/myTravelPass/main\">MYTravelPass online platform</a> and show your approval letter / MYTravelPass approval when entering Malaysia. Contact the local Malaysian High Commission or Embassy for more information.You are not permitted to enter Malaysia as a tourist, except for travel to Langkawi Island under the international tourism bubble, if you are fully vaccinated. See more information below."
+        }
+      ]
+    }
+  ]
+}

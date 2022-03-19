@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are foreigners allowed to enter libya?",
+              "answers": [
+                {
+                  "text": "Foreign nationals are allowed to enter",
+                  "answer_start": 32
+                }
+              ]
+            },
+            {
+              "question": "Will i have to do a covid test when entering libya?",
+              "answers": [
+                {
+                  "text": "A COVID-19 PCR test will be administered",
+                  "answer_start": 184
+                }
+              ]
+            },
+            {
+              "question": "Is quarantine mandatory when enetering libya?",
+              "answers": [
+                {
+                  "text": "On arrival, travellers will undergo PCR testing and must quarantine for three days until the result is received",
+                  "answer_start": 505
+                }
+              ]
+            },
+            {
+              "question": "How long do i have to self isolate if i test positive when entering libya?",
+              "answers": [
+                {
+                  "text": "ten days",
+                  "answer_start": 790
+                }
+              ]
+            }
+          ],
+          "context": "Residents are allowed to enter. Foreign nationals are allowed to enter, though flights to Libya remain limited. Travellers will undergo health checks along with temperature screening. A COVID-19 PCR test will be administered. Anyone arriving in Benghazi as well as other areas in eastern Libya will need to have a negative COVID-19 PCR test certificate issued within the last 48 hours prior to their arrival. Travellers departing from Libya must have a PCR test carried out within 20 hours before flight. On arrival, travellers will undergo PCR testing and must quarantine for three days until the result is received. Travellers with a positive result will be transferred to a designated centre for further treatment, and those with a negative result will be subject to home quarantine for ten days."
+        }
+      ]
+    }
+  ]
+}

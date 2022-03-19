@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who can enter poland?",
+              "answers": [
+                {
+                  "text": "Travellers who hold official certificates equivalent to the 'EU Digital COVID Certificate' (EUDCC) in Polish or in English, meeting the same requirements listed above for the EUDCC, can enter Poland at the same conditions.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do i need to wear a facemasks in poland?",
+              "answers": [
+                {
+                  "text": "Facemasks are compulsory in indoor and enclosed spaces, on public transport, in taxis or in an open space where you are unable to maintain a 1.5 metre distance.",
+                  "answer_start": 222
+                }
+              ]
+            }
+          ],
+          "context": "Travellers who hold official certificates equivalent to the 'EU Digital COVID Certificate' (EUDCC) in Polish or in English, meeting the same requirements listed above for the EUDCC, can enter Poland at the same conditions.Facemasks are compulsory in indoor and enclosed spaces, on public transport, in taxis or in an open space where you are unable to maintain a 1.5 metre distance. You do not need to wear a facemask in a private car. Children under 4 are not required to wear facemasks. If there are medical reasons why you cannot wear a facemask, you must carry a doctor\u00e2\u20ac\u2122s note with you explaining this. Bandanas, scarves, balaclavas and visors are not permitted alternatives to facemasks. Your mouth and nose must be covered. You might find some offices are only open by appointment or have restrictions on in-person attendance and you are recommended to check websites or contact the office before travelling as appointments may be limited."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there many flights to nicaragua?",
+              "answers": [
+                {
+                  "text": "Flights to and from Nicaragua are currently limited",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Are land borders closed in nicaragua?",
+              "answers": [
+                {
+                  "text": "There have been reports of the land borders being closed",
+                  "answer_start": 205
+                }
+              ]
+            },
+            {
+              "question": "What do i do if i test positive for covid when visiting nicaragua?",
+              "answers": [
+                {
+                  "text": "you may need to self-isolate in your accommodation for 14 days",
+                  "answer_start": 909
+                }
+              ]
+            },
+            {
+              "question": "Where should i look to find current entry requirements to enter nicaragua?",
+              "answers": [
+                {
+                  "text": "the Migration Office website",
+                  "answer_start": 369
+                }
+              ]
+            }
+          ],
+          "context": "Flights to and from Nicaragua are currently limited. Avianca has started a limited series of flights to Miami and details are available directly from the airline or via a travel agent. Entry to Nicaragua: There have been reports of the land borders being closed at short or no notice. There is currently a requirement to have a negative for COVID-19 certificate. Check the Migration Office website (Spanish only) for requirements. Internal Restrictions: Travel in Nicaragua: There are no specific travel restrictions currently in force in Nicaragua. You should follow all precautionary health measures and keep up to date with information from your tour operator, transport or accommodation provider, and comply with measures introduced by the authorities. Public spaces and services: Social distancing measures and other safety precautions should be observed at all times. If you test positive for COVID-19, you may need to self-isolate in your accommodation for 14 days. This will be monitored by the authorities."
+        }
+      ]
+    }
+  ]
+}

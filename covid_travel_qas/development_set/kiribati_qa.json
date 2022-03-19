@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i fly to kiribati?",
+              "answers": [
+                {
+                  "text": "there are currently no international flights scheduled to travel to Kiribati",
+                  "answer_start": 75
+                }
+              ]
+            },
+            {
+              "question": "Do i need to be vaccinated to visit kiribati?",
+              "answers": [
+                {
+                  "text": "only fully vaccinated Kiribati nationals and those providing essential Technical Assistance will be allowed to enter Kiribati.",
+                  "answer_start": 222
+                }
+              ]
+            }
+          ],
+          "context": "Following an outbreak of COVID in the community announced on 22 January, , there are currently no international flights scheduled to travel to Kiribati. Once international travel resumes, current conditions stipulate that only fully vaccinated Kiribati nationals and those providing essential Technical Assistance will be allowed to enter Kiribati. They must also conform to COVID-safe protocols, including negative COVID-19 tests and quarantine requirements."
+        }
+      ]
+    }
+  ]
+}

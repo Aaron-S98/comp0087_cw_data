@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i enter kuwait?",
+              "answers": [
+                {
+                  "text": "foreigners with valid residency have been allowed to enter Kuwait",
+                  "answer_start": 60
+                }
+              ]
+            },
+            {
+              "question": "How many vaccine doses do i need to visit kuwait?",
+              "answers": [
+                {
+                  "text": "You must be fully vaccinated with a vaccine approved in Kuwait (2 doses of either Pfizer, AstraZeneca, Moderna, or 1 dose of Johnson and Johnson)",
+                  "answer_start": 127
+                }
+              ]
+            }
+          ],
+          "context": "Entry rules in response to coronavirus: Since 1 August 2021 foreigners with valid residency have been allowed to enter Kuwait. You must be fully vaccinated with a vaccine approved in Kuwait (2 doses of either Pfizer, AstraZeneca, Moderna, or 1 dose of Johnson and Johnson). This applies to all foreign residents aged 16 and above. On 20 December, Kuwait announced that from 2 January 2022, they would not consider individuals as being fully vaccinated if more than 9 months had passed since their second vaccination and they had not received a third booster dose. "
+        }
+      ]
+    }
+  ]
+}

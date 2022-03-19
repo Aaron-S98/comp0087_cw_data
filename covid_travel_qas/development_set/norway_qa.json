@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are vacciantion records accepted in norway?",
+              "answers": [
+                {
+                  "text": "Norway will accept the proof of COVID-19 recovery and vaccination record  that contains a verifiable QR code at the border.",
+                  "answer_start": 163
+                }
+              ]
+            },
+            {
+              "question": "How often do coronavirus rules change in norway?",
+              "answers": [
+                {
+                  "text": "The Norwegian Government regularly monitors the risk of coronavirus, and adjusts measures in line with the levels of infection to contain the spread of the virus.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "The Norwegian Government regularly monitors the risk of coronavirus, and adjusts measures in line with the levels of infection to contain the spread of the virus. Norway will accept the proof of COVID-19 recovery and vaccination record  that contains a verifiable QR code at the border. Scottish travellers must have the latest version of the Scottish certification, which includes the verifiable QR code. If you are travelling with a printed PDF proof of vaccination status, it must date from 1 November to ensure that the certificate can be scanned successfully, if domestic certification is required. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status."
+        }
+      ]
+    }
+  ]
+}

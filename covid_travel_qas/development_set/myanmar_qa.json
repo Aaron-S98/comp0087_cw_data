@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i get a tourist visa for myanmar?",
+              "answers": [
+                {
+                  "text": "New tourist visa applications are currently suspended.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What happens if have covid-19 symptoms in myanmar?",
+              "answers": [
+                {
+                  "text": "Arrivals found to have symptoms of COVID-19 during a screening will be immediately isolated and taken to a medical facility",
+                  "answer_start": 530
+                }
+              ]
+            }
+          ],
+          "context": "New tourist visa applications are currently suspended. If you are travelling to Myanmar for work, read the guidance on visas and permits as the rules have changed since 1 January 2021. At present Myanmar authorities can offer business visas to foreign nationals with a compelling case. You or your employer must make your case to your nearest Myanmar Embassy and obtain permission.These arrangements are subject to change at short notice. Thermal screenings will be carried out on all arrivals by health officials at the airport. Arrivals found to have symptoms of COVID-19 during a screening will be immediately isolated and taken to a medical facility"
+        }
+      ]
+    }
+  ]
+}

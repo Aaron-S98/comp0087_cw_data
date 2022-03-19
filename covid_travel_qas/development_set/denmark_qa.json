@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How often are covid rules adjusted in denmark?",
+              "answers": [
+                {
+                  "text": "regularly",
+                  "answer_start": 22
+                }
+              ]
+            },
+            {
+              "question": "What shall i do if i test positive in denmark?",
+              "answers": [
+                {
+                  "text": "you should immediately self-isolate",
+                  "answer_start": 206
+                }
+              ]
+            },
+            {
+              "question": "What will the danish government do if i test positive for covid-19?",
+              "answers": [
+                {
+                  "text": "The Danish authorities will contact you within 24 hours and help you trace your close contact",
+                  "answer_start": 243
+                }
+              ]
+            }
+          ],
+          "context": "The Danish Government regularly monitors the risks of COVID-19, and adjusts measures in line with the levels of infection to contain the spread of Coronavirus. If you test positive for COVID-19 in Denmark, you should immediately self-isolate. The Danish authorities will contact you within 24 hours and help you trace your close contacts. You can also call the Danish authorities (Coronaopsporing) yourself."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the requirements for unvaccinated travellers when entering denmark?",
+              "answers": [
+                {
+                  "text": "take a test within 24 hours after entry",
+                  "answer_start": 95
+                }
+              ]
+            }
+          ],
+          "context": "All unvaccinated travellers, coming from COVID-19 risk countries and high-risk countries, must take a test within 24 hours after entry. This also applies even if they have taken a test before entry."
+        }
+      ]
+    }
+  ]
+}

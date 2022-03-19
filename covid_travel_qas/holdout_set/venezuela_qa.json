@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to quarantine in venezuela?",
+              "answers": [
+                {
+                  "text": " There are no mandatory rules in respect to quarantine",
+                  "answer_start": 98
+                }
+              ]
+            },
+            {
+              "question": "What do i do if i test positive in venezuela?",
+              "answers": [
+                {
+                  "text": "you must follow instructions from the local health authorities",
+                  "answer_start": 35
+                }
+              ]
+            },
+            {
+              "question": "Do i need a vaccine to enter venezuela?",
+              "answers": [
+                {
+                  "text": "Proof of vaccination is not required to enter Venezuela",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "question": "Where do i need proof of vaccination in venezuela?",
+              "answers": [
+                {
+                  "text": "proof of vaccination might be requested to allow entry to some indoor venues such as restaurants and cafes",
+                  "answer_start": 577
+                }
+              ]
+            }
+          ],
+          "context": "If you test positive for COVID-19, you must follow instructions from the local health authorities. There are no mandatory rules in respect to quarantine. You should arrange to take a private test. you\u2019re fully vaccinated: Local COVID-19 entry requirements for Venezuela are standard irrespective of vaccination status. There is no list of accepted proof of vaccination, and entry requirements do not vary as proof of vaccination is not mandatory in order to be admitted in country. Proof of vaccination status: Proof of vaccination is not required to enter Venezuela. However, proof of vaccination might be requested to allow entry to some indoor venues such as restaurants and cafes. You may use your COVID Pass in electronic or PDF form, or provide your vaccination card for this purpose."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What am i subject to if i am unvaccinated in venezuela?",
+              "answers": [
+                {
+                  "text": "There is no separate set of rules for unvaccinated individuals",
+                  "answer_start": 130
+                }
+              ]
+            },
+            {
+              "question": "Will i get tested upon entry in venezuela?",
+              "answers": [
+                {
+                  "text": "mandatory PCR testing to be performed at port of entry",
+                  "answer_start": 322
+                }
+              ]
+            },
+            {
+              "question": "Who gets tested upon entry?",
+              "answers": [
+                {
+                  "text": "all travellers",
+                  "answer_start": 381
+                }
+              ]
+            },
+            {
+              "question": "At what age do children need to comply with covid rules in venezuela?",
+              "answers": [
+                {
+                  "text": "Children 1 year old and older must comply with local COVID-19 standard entry requirements",
+                  "answer_start": 583
+                }
+              ]
+            }
+          ],
+          "context": " If you\u2019re not fully vaccinated: Local COVID-19 entry requirements for Venezuela are standard irrespective of vaccination status. There is no separate set of rules for unvaccinated individuals, nor any additional requirement to quarantine on arrival. There are no additional post-arrival testing requirements, besides the mandatory PCR testing to be performed at port of entry for all travellers. If you\u2019ve had COVID-19 in the past year: Having recovered from COVID-19 does not exempt travellers from the standard entry rules set out by local authorities. Children and young people: Children 1 year old and older must comply with local COVID-19 standard entry requirements in respect to having a (hardcopy) negative COVID-19 PCR test performed within 72 hours of their incoming flight arrival, and having a valid QR code for testing at port of entry at Maiquetia International Airport"
+        }
+      ]
+    }
+  ]
+}

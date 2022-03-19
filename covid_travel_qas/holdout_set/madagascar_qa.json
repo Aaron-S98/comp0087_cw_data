@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do you need a vaccine to enter madagascar?",
+              "answers": [
+                {
+                  "text": "COVID-19 vaccination is not a requirement for entry",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What do i need to enter madagascar?",
+              "answers": [
+                {
+                  "text": "provide proof of a negative PCR test taken within 72 hours of travel",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "question": "As a traveller, do i pay for my tests in madagascar?",
+              "answers": [
+                {
+                  "text": "Quarantine and medical treatment costs are at your own expense",
+                  "answer_start": 926
+                }
+              ]
+            },
+            {
+              "question": "How long do i have to quarantine when i enter madagascar?",
+              "answers": [
+                {
+                  "text": "a further 14 days",
+                  "answer_start": 813
+                }
+              ]
+            }
+          ],
+          "context": "COVID-19 vaccination is not a requirement for entry. To enter Madagascar you will need to provide proof of a negative PCR test taken within 72 hours of travel. You should arrange to take a private test.You will also be required to make an advance hotel booking for two nights and pay in advance for at least one night for quarantine after your arrival, and take a COVID-19 test on arrival at Ivato International Airport. The cost of the test can be paid in cash or by bank card on arrival. You will be asked to complete a declaration to confirm you will abide by quarantine until the result of your arrival test, and a locator form to indicate your movements after quarantine. If the test is negative, you will be able to leave quarantine within 24-48hrs. If the test is positive, you will need to quarantine for a further 14 days and may be referred to a local medical facility for treatment if you develop serious symptoms. Quarantine and medical treatment costs are at your own expense."
+        }
+      ]
+    }
+  ]
+}

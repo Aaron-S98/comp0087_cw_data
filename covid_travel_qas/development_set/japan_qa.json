@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i self isolate at home in Japan?",
+              "answers": [
+                {
+                  "text": "If the tests are negative, you will be permitted to move into self-isolation at home",
+                  "answer_start": 554
+                }
+              ]
+            },
+            {
+              "question": "Do uk travellers need to self isolate in Japan?",
+              "answers": [
+                {
+                  "text": "For those coming from the UK, the first 6 days must be spent in quarantine in a government-provided hotel",
+                  "answer_start": 355
+                }
+              ]
+            }
+          ],
+          "context": "Regardless of vaccination status, travellers entering Japan from countries where the Omicron variant is dominant must undertake 7 days of quarantine and self-isolation. (This reduction from the previous 10-day requirement also applies to travellers who had already commenced their period of quarantine and self-isolation at the time of the announcement). For those coming from the UK, the first 6 days must be spent in quarantine in a government-provided hotel. You will need to take a COVID-19 test on days 3 and 6 (the day of arrival counts as Day 0). If the tests are negative, you will be permitted to move into self-isolation at home or in a self-arranged hotel for the remainder of the 7-day period."
+        }
+      ]
+    }
+  ]
+}

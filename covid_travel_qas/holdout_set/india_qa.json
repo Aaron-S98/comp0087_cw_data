@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will i need to quarantine in india if i am vaccinated?",
+              "answers": [
+                {
+                  "text": "If you\u2019re fully vaccinated:On arrival: As of 14th February 2022, for all international travellers, there is no longer the requirement to test on arrival or to quarantine at home for 7 days.",
+                  "answer_start": 165
+                }
+              ]
+            },
+            {
+              "question": "Will i need to take a covid-19 test in india if i'm vaccinated?",
+              "answers": [
+                {
+                  "text": "The requirement for a COVID-19 RT-PCR test on the 8th day of arrival in India has also been removed.",
+                  "answer_start": 354
+                }
+              ]
+            },
+            {
+              "question": "Will i need to take a covid test in india if i'm not vaccinated?",
+              "answers": [
+                {
+                  "text": "If you are unvaccinated, you will need to upload a negative COVID-19 RT-PCR report",
+                  "answer_start": 486
+                }
+              ]
+            }
+          ],
+          "context": "All travellers: All travellers will be subject to thermal screening by health officials on arrival. You must comply with all instructions and screening requirements.If you\u2019re fully vaccinated:On arrival: As of 14th February 2022, for all international travellers, there is no longer the requirement to test on arrival or to quarantine at home for 7 days.The requirement for a COVID-19 RT-PCR test on the 8th day of arrival in India has also been removed.If you\u2019re not fully vaccinated: If you are unvaccinated, you will need to upload a negative COVID-19 RT-PCR report, with the test having been conducted within 72 hours prior to undertaking the journey. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there curfews in india?",
+              "answers": [
+                {
+                  "text": "Indian States have brought in restrictions including night and weekend curfews",
+                  "answer_start": 142
+                }
+              ]
+            },
+            {
+              "question": "Will i need to wear a face mask in india?",
+              "answers": [
+                {
+                  "text": "The wearing of facial/cloth masks is compulsory in all public places.",
+                  "answer_start": 459
+                }
+              ]
+            },
+            {
+              "question": "Are internal flights available in india?",
+              "answers": [
+                {
+                  "text": "Domestic flight operations resumed on 25 May 2020 but some states may have restrictions on flight operations.",
+                  "answer_start": 622
+                }
+              ]
+            }
+          ],
+          "context": "Travel in India: India is currently witnessing an increase in COVID-19 numbers across the country, with the emergence of the Omicron variant. Indian States have brought in restrictions including night and weekend curfews, and the shutting down of educational institutions. Other measures may include the requirement to present COVID-19 negative tests to enter some states, random testing in public areas including at airports, stations, malls and restaurants.The wearing of facial/cloth masks is compulsory in all public places. There are limitations on large gatherings. You may be penalised if you violate restrictions. Domestic flight operations resumed on 25 May 2020 but some states may have restrictions on flight operations. Check with airlines before booking flights."
+        }
+      ]
+    }
+  ]
+}

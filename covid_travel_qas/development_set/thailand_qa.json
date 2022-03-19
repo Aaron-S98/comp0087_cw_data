@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is going to be resumed for vaccinated arrivals?",
+              "answers": [
+                {
+                  "text": "resume quarantine-free entry program ",
+                  "answer_start": 14
+                }
+              ]
+            },
+            {
+              "question": "From when is the quarantine-free entry program resuming?",
+              "answers": [
+                {
+                  "text": "on 1 February",
+                  "answer_start": 75
+                }
+              ]
+            },
+            {
+              "question": "What is required for the quarantine-free entry program?",
+              "answers": [
+                {
+                  "text": "COVID-19 tests required",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "question": "What type of arrival must someone be to qualify for the quarantine-free entry program?",
+              "answers": [
+                {
+                  "text": "vaccinated arrivals",
+                  "answer_start": 55
+                }
+              ]
+            }
+          ],
+          "context": "Government to resume quarantine-free entry program for vaccinated arrivals on 1 February; COVID-19 tests required"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "If you are not fully vaccinated what can you do?",
+              "answers": [
+                {
+                  "text": "can enter Thailand under the Alternative Quarantine scheme",
+                  "answer_start": 36
+                }
+              ]
+            },
+            {
+              "question": "Where does the alternative quarantine scheme run?",
+              "answers": [
+                {
+                  "text": "Thailand",
+                  "answer_start": 46
+                }
+              ]
+            }
+          ],
+          "context": "If you are not fully vaccinated you can enter Thailand under the Alternative Quarantine scheme."
+        }
+      ]
+    }
+  ]
+}

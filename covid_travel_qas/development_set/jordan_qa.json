@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to install any apps when visiting jordan?",
+              "answers": [
+                {
+                  "text": "Passengers arriving will need to install Aman.jo application on their mobile device",
+                  "answer_start": 311
+                }
+              ]
+            },
+            {
+              "question": "Do i need to fill any forms to fly to jordan?",
+              "answers": [
+                {
+                  "text": "complete passenger \"http://carc.jo/images/COVID19/Declaration-Form.pdf\" health declaration and locator forms",
+                  "answer_start": 126
+                }
+              ]
+            }
+          ],
+          "context": "The Government have announced that on arrival in Jordan you will need to provide your contact details, travel information and complete passenger \"http://carc.jo/images/COVID19/Declaration-Form.pdf\" health declaration and locator forms. Passengers will be asked to fill out these forms by their chosen airlines. Passengers arriving will need to install Aman.jo application on their mobile device. "
+        }
+      ]
+    }
+  ]
+}

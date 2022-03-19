@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What do i do if i have covid symptoms in the usa?",
+              "answers": [
+                {
+                  "text": " individuals should immediately quarantine until a negative test confirms symptoms are not attributable to COVID-19",
+                  "answer_start": 18
+                }
+              ]
+            },
+            {
+              "question": "Who decided that masks should be worn on planes in the us?",
+              "answers": [
+                {
+                  "text": "President Biden",
+                  "answer_start": 381
+                }
+              ]
+            },
+            {
+              "question": "Where do masks need to be worn in the us?",
+              "answers": [
+                {
+                  "text": "requiring masks to be worn on airplanes, trains, buses and at airports",
+                  "answer_start": 423
+                }
+              ]
+            },
+            {
+              "question": "Do i possibly need to quarantine or test when travelling domestically in the us?",
+              "answers": [
+                {
+                  "text": "Some states have rules in place requiring travellers from other states, with high rates of COVID-19, to quarantine or to provide proof of a negative COVID-19 test",
+                  "answer_start": 495
+                }
+              ]
+            }
+          ],
+          "context": "If symptoms occur, individuals should immediately quarantine until a negative test confirms symptoms are not attributable to COVID-19.Travel in USA: Many airports in the USA have implemented safety measures designed to limit the spread of COVID-19. You should check the website of the airport you are flying into or transiting to see how these could affect you. On 21 January 2021 President Biden signed an Executive Order requiring masks to be worn on airplanes, trains, buses and at airports. Some states have rules in place requiring travellers from other states, with high rates of COVID-19, to quarantine or to provide proof of a negative COVID-19 test. Before travelling you should check the websites of the relevant state governments."
+        }
+      ]
+    }
+  ]
+}

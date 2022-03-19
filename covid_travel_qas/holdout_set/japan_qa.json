@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How can i stop quarantine in japan?",
+              "answers": [
+                {
+                  "text": "If the test is negative, you will be permitted to end self-isolation.",
+                  "answer_start": 49
+                }
+              ]
+            },
+            {
+              "question": "How many vaccines do i need to be considered fully-vaccinated in japan?",
+              "answers": [
+                {
+                  "text": "Please note that you must have received two doses of the vaccine plus a booster shot at least 14 days prior to travel in order to be considered fully vaccinated",
+                  "answer_start": 236
+                }
+              ]
+            },
+            {
+              "question": "Are children exempt from testing in japan?",
+              "answers": [
+                {
+                  "text": "Minors are not exempt from the testing requirements on age grounds",
+                  "answer_start": 577
+                }
+              ]
+            },
+            {
+              "question": "How long is the maximum quarantine time in japan?",
+              "answers": [
+                {
+                  "text": "7 full days in self-isolation",
+                  "answer_start": 205
+                }
+              ]
+            }
+          ],
+          "context": "You will need to take a COVID-19 test on Day 3 . If the test is negative, you will be permitted to end self-isolation. Alternatively, if you do not wish to take a Day 3 COVID-19 test, you may opt to spend 7 full days in self-isolation. Please note that you must have received two doses of the vaccine plus a booster shot at least 14 days prior to travel in order to be considered fully vaccinated. If you\u2019ve had COVID-19 in the past year: Proof of prior infection does not afford exemptions. You must follow the rules and regulations outlined above. Children and young people: Minors are not exempt from the testing requirements on age grounds. There may be some flexibility on pre-flight testing requirements for children aged 5 and under, but this cannot be guaranteed. For children who are not eligible for vaccines or a booster, provided they are accompanied by a fully-vaccinated parent (who has received their booster shot) who supervises their activities, they may follow the same rules as their parent."
+        }
+      ]
+    }
+  ]
+}

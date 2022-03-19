@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "If i have a visa but am unvaccinated what do i need to enter australia?",
+              "answers": [
+                {
+                  "text": " a valid travel exemption",
+                  "answer_start": 88
+                }
+              ]
+            },
+            {
+              "question": "Do i need a test to enter australia?",
+              "answers": [
+                {
+                  "text": "A negative COVID-19 test is required for travelling to Australia",
+                  "answer_start": 326
+                }
+              ]
+            },
+            {
+              "question": "Are there any requirements for vaccinated travellers when entering australia?",
+              "answers": [
+                {
+                  "text": "you will be required to provide proof of COVID-19 vaccination",
+                  "answer_start": 838
+                }
+              ]
+            },
+            {
+              "question": "Where do i apply for an exemption to enter australia?",
+              "answers": [
+                {
+                  "text": "online on the Australian Department of Home Affairs website",
+                  "answer_start": 174
+                }
+              ]
+            }
+          ],
+          "context": "Australian Department of Home Affairs website. Unvaccinated visa holders will still need a valid travel exemption to enter Australia. Exemption applications can be submitted online on the Australian Department of Home Affairs website. You should check the steps you should take to prepare to travel to Australia from overseas. A negative COVID-19 test is required for travelling to Australia. This can be in the form of evidence of a negative COVID-19 PCR test taken within 3 days of scheduled departure, or evidence of a negative Rapid Antigen Test taken under medical supervision within 24 hours before scheduled departure. If your flight is delayed, you will be considered to meet pre-testing requirements. If your flight is rescheduled or cancelled, you may need to take another COVID-19 test. If you are a fully vaccinated traveller, you will be required to provide proof of COVID-19 vaccination. If you were vaccinated outside of Australia, you can check the requirements for foreign vaccine certificates."
+        }
+      ]
+    }
+  ]
+}

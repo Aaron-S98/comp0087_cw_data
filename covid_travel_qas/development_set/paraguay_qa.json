@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need health insurance to visit paraguay?",
+              "answers": [
+                {
+                  "text": "show evidence of international health insurance with COVID-19 coverage",
+                  "answer_start": 265
+                }
+              ]
+            },
+            {
+              "question": "Do i need to be fully vaccinated to enter paraguay?",
+              "answers": [
+                {
+                  "text": "To enter Paraguay, you must:present proof of COVID-19 vaccination showing a full vaccination scheme.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "To enter Paraguay, you must:present proof of COVID-19 vaccination showing a full vaccination scheme. present a negative COVID-19 test (RT-PCR, LAMP or NAAT) taken no more than 48 hours prior to travel, or a negative antigen test taken up to 24 hours before travel; show evidence of international health insurance with COVID-19 coverage and; undertake a COVID-19 PCR test on the 5th day after the pre-travel test, if still in Paraguay at that date, and isolate for 7 days if the test comes back positive. Children of 11 years and younger are exempt from presenting the traveller declaration form, proof of vaccination and the 5th day after the pre-travel test."
+        }
+      ]
+    }
+  ]
+}

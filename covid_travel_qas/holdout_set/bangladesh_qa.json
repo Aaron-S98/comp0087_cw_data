@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do unvaccinated travellers need a test to enter bangladesh?",
+              "answers": [
+                {
+                  "text": "required to present evidence of a negative RT PCR based COVID-19 test taken no more than 72 hours prior to departure for Bangladesh",
+                  "answer_start": 149
+                }
+              ]
+            },
+            {
+              "question": "Who is subject to a temperature screening when entering bangladesh?",
+              "answers": [
+                {
+                  "text": "All passengers, regardless of vaccination status",
+                  "answer_start": 325
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive when entering bangladesh?",
+              "answers": [
+                {
+                  "text": "Those testing positive will be required to isolate at a government authorised facility for at least seven days and until they test negative in a subsequent PCR test",
+                  "answer_start": 514
+                }
+              ]
+            },
+            {
+              "question": "Will i need to pay for my quarantine in bangladesh?",
+              "answers": [
+                {
+                  "text": "people staying in a government approved hotel, government facility or hospital will need to cover the costs of those stays and any necessary COVID-19 tests",
+                  "answer_start": 702
+                }
+              ]
+            }
+          ],
+          "context": "Arrivals who are unable to provide proof of vaccination, or proof that their vaccination course was completed at least 14 days prior to arrival, are required to present evidence of a negative RT PCR based COVID-19 test taken no more than 72 hours prior to departure for Bangladesh. You should arrange to take a private test. All passengers, regardless of vaccination status, may be subjected to additional health screening measures on arrival. Passengers with COVID-19 symptoms may be required to take a PCR test. Those testing positive will be required to isolate at a government authorised facility for at least seven days and until they test negative in a subsequent PCR test. In all circumstances, people staying in a government approved hotel, government facility or hospital will need to cover the costs of those stays and any necessary COVID-19 tests. The Bangladesh authorities may retain passports of any passengers in quarantine and will re-turn them at the end of the quarantine period."
+        }
+      ]
+    }
+  ]
+}

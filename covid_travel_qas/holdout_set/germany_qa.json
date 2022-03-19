@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a covid-19 test if transfering flights in germany?",
+              "answers": [
+                {
+                  "text": "people who change planes at airports in Germany must also provide proof of vaccination, recovery or testing.",
+                  "answer_start": 88
+                }
+              ]
+            },
+            {
+              "question": "Will i need proof of vaccination when travelling to germany?",
+              "answers": [
+                {
+                  "text": "All travellers over the age of six must carry with them proof of vaccination",
+                  "answer_start": 196
+                }
+              ]
+            }
+          ],
+          "context": "Flight transfers at airports are now classed as entries into a country. This means that people who change planes at airports in Germany must also provide proof of vaccination, recovery or testing.All travellers over the age of six must carry with them proof of vaccination, recovery or a negative test result (PCR or antigen).Home quarantine can be ended early by submitting proof of vaccination or of recovery via the upload portal."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are face masks mandatory in germany?",
+              "answers": [
+                {
+                  "text": "Wearing a medical-grade mask remains a legal requirement in retail outlets and on public transport.",
+                  "answer_start": 203
+                }
+              ]
+            },
+            {
+              "question": "How do i prove my vaccine status in germany?",
+              "answers": [
+                {
+                  "text": "Germany will accept proof of COVID-19 recovery and vaccination record and proof of COVID-19 vaccination issued in the Crown Dependencies.",
+                  "answer_start": 392
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive for covid in germany?",
+              "answers": [
+                {
+                  "text": "Anyone testing positive with a Point of Care (PoC) antigen test is required to take a follow-up PCR test immediately and to self-isolate.",
+                  "answer_start": 814
+                }
+              ]
+            }
+          ],
+          "context": "Both the vaccinated and unvaccinated must continue to adhere to basic non-pharmaceutical guidelines, such as social distancing, wearing masks in enclosed spaces, and regularly ventilating indoor spaces. Wearing a medical-grade mask remains a legal requirement in retail outlets and on public transport. Often an FFP-2 mask is required and you should make sure you have an FFP-2 mask with you.Germany will accept proof of COVID-19 recovery and vaccination record and proof of COVID-19 vaccination issued in the Crown Dependencies. Your final vaccine dose must have been administered at least 14 days prior to travel. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status.Testing positive for COVID-19 in Germany: Anyone testing positive with a Point of Care (PoC) antigen test is required to take a follow-up PCR test immediately and to self-isolate. Close contacts are also required to self-isolatee."
+        }
+      ]
+    }
+  ]
+}

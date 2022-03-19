@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i travel to new zealand?",
+              "answers": [
+                {
+                  "text": "The New Zealand border is currently closed to almost all arrivals.",
+                  "answer_start": 23
+                }
+              ]
+            },
+            {
+              "question": "Do i need a pcr test if i am vaccinated?",
+              "answers": [
+                {
+                  "text": "From 7 January 2022, even if you are fully vaccinated, you still need to have a negative PCR or RT-PCRtest result in the 48 hours prior to departure",
+                  "answer_start": 594
+                }
+              ]
+            }
+          ],
+          "context": "*Entry to New Zealand: The New Zealand border is currently closed to almost all arrivals. *COVID-19 vaccination requirements: From 1 November 2021 all non-citizens aged 17-years and over arriving into New Zealand, including New Zealand permanent residents and temporary visa holders, must be fully vaccinated. This means travellers need to have had a full course of any of the 28 COVID-19 vaccines that have been approved by a foreign government or approval authority, and which are accepted by New Zealand. You need to have had the last dose at least 14 days before you arrive in New Zealand. From 7 January 2022, even if you are fully vaccinated, you still need to have a negative PCR or RT-PCRtest result in the 48 hours prior to departure and spend time in Managed Isolation and Quarantine (MIQ), unless you are exempt under New Zealand rules."
+        }
+      ]
+    }
+  ]
+}

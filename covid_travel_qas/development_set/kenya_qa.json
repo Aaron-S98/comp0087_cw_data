@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When do bars close in kenya?",
+              "answers": [
+                {
+                  "text": "Bars in Kenya are permitted to operate until 11pm",
+                  "answer_start": 243
+                }
+              ]
+            },
+            {
+              "question": "Do i need a test to internally travel within kenya?",
+              "answers": [
+                {
+                  "text": "You do not need a COVID-19 negative test to board domestic flights within Kenya",
+                  "answer_start": 162
+                }
+              ]
+            }
+          ],
+          "context": "Proof of COVID-19 vaccination required to access transport, state offices, hotels, bars, restaurants. There are currently no restrictions on travel within Kenya. You do not need a COVID-19 negative test to board domestic flights within Kenya. Bars in Kenya are permitted to operate until 11pm."
+        }
+      ]
+    }
+  ]
+}

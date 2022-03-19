@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What countries are on luxembourg's banned list?",
+              "answers": [
+                {
+                  "text": "Authorities add Argentina, Australia, Canada to banned list",
+                  "answer_start": 433
+                }
+              ]
+            },
+            {
+              "question": "Are vaccination records accepted in luxembourg?",
+              "answers": [
+                {
+                  "text": "Luxembourg will accept the proof of COVID-19 recovery and vaccination record and proof of COVID-19 vaccination issued in the Crown Dependencies",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Luxembourg will accept the proof of COVID-19 recovery and vaccination record and proof of COVID-19 vaccination issued in the Crown Dependencies. However a screenshot or a photo is not sufficient. Indoor sports facilities, gyms, swimming pools and aquatic centres are open with strict hygiene restrictions in place. To find out more about local restrictions, please refer to the \"https://covid19.public.lu/en/sanitary-measures.html\". Authorities add Argentina, Australia, Canada to banned list to avoid spread of COVID-19 variant. For persons who have recovered and have been vaccinated within 180 days of the first positive NAAT test result, the vaccination pattern is complete 14 days after the administration of the single dose of any vaccine administered."
+        }
+      ]
+    }
+  ]
+}

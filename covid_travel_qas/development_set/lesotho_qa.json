@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do I need to wear a mask in Lesotho",
+              "answers": [
+                {
+                  "text": "Masks must be worn at all times",
+                  "answer_start": 394
+                }
+              ]
+            },
+            {
+              "question": "Who is in charge of covid-19 rules in lesotho?",
+              "answers": [
+                {
+                  "text": "COVID-19 regulations in Lesotho are managed by Lesothos National COVID-19 Secretariat (NACOSEC)",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "COVID-19 regulations in Lesotho are managed by Lesothos National COVID-19 Secretariat (NACOSEC). Travellers should be aware that the information on the NACOSEC website is not always up to date. The NACOSEC Twitter feed and Facebook page generally have more current information. There are no longer any restrictions in place on the numbers permitted to be carried in taxis and public transport. Masks must be worn at all times. Eating in the vehicle is prohibited."
+        }
+      ]
+    }
+  ]
+}

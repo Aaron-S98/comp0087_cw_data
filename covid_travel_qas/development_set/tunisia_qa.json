@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who extended the state of emergency?",
+              "answers": [
+                {
+                  "text": "President Kais Saied",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What did the president extend?",
+              "answers": [
+                {
+                  "text": "state of emergency",
+                  "answer_start": 29
+                }
+              ]
+            },
+            {
+              "question": "From until when is the state of emergency extended to?",
+              "answers": [
+                {
+                  "text": "to 18 February",
+                  "answer_start": 64
+                }
+              ]
+            },
+            {
+              "question": "From when was the state of emergency extended from?",
+              "answers": [
+                {
+                  "text": "from 20 January",
+                  "answer_start": 48
+                }
+              ]
+            }
+          ],
+          "context": "President Kais Saied extends state of emergency from 20 January to 18 February"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What must be completed before travelling?",
+              "answers": [
+                {
+                  "text": "Tunisian government short online questionnaire",
+                  "answer_start": 24
+                }
+              ]
+            },
+            {
+              "question": "When must the questionnaire be taken?",
+              "answers": [
+                {
+                  "text": "before travelling",
+                  "answer_start": 71
+                }
+              ]
+            }
+          ],
+          "context": " You must complete this Tunisian government short online questionnaire before travelling."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "For someone who is not fully vaccinated where must quarantine take place?",
+              "answers": [
+                {
+                  "text": "in a government-approved hotel for five days on arrival in Tunisia",
+                  "answer_start": 79
+                }
+              ]
+            },
+            {
+              "question": "If you are not fully vaccinated what are you required to do?",
+              "answers": [
+                {
+                  "text": "you are required to enter mandatory quarantine",
+                  "answer_start": 32
+                }
+              ]
+            },
+            {
+              "question": "What must you do to be admitted into the country?",
+              "answers": [
+                {
+                  "text": "To be admitted into the country you must provide evidence of a booking reservation for a quarantine hotel and a transport voucher for travel to the quarantine hotel",
+                  "answer_start": 168
+                }
+              ]
+            }
+          ],
+          "context": "If you are not fully vaccinated you are required to enter mandatory quarantine in a government-approved hotel for five days on arrival in Tunisia, at your own expense. To be admitted into the country you must provide evidence of a booking reservation for a quarantine hotel and a transport voucher for travel to the quarantine hotel."
+        }
+      ]
+    }
+  ]
+}

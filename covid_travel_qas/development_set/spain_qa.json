@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who reduced the validity of covid-19 tests?",
+              "answers": [
+                {
+                  "text": "Authorities",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "For whom was the validity of covid-19 tests reduced for?",
+              "answers": [
+                {
+                  "text": "for arriving travelers",
+                  "answer_start": 46
+                }
+              ]
+            },
+            {
+              "question": "For how long was the validity reduced for ?",
+              "answers": [
+                {
+                  "text": "from 48 to 24 hours",
+                  "answer_start": 69
+                }
+              ]
+            },
+            {
+              "question": "What did the authorities do?",
+              "answers": [
+                {
+                  "text": "Authorities reduce validity of COVID-19 tests for arriving travelers",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Authorities reduce validity of COVID-19 tests for arriving travelers from 48 to 24 hours "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which vaccines will be accepted?",
+              "answers": [
+                {
+                  "text": "All vaccines authorised by the European Medicines Agency (EMA) and the World Health Organization (WHO)",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Who do vaccines need to be authorised by?",
+              "answers": [
+                {
+                  "text": "European Medicines Agency (EMA) and the World Health Organization (WHO)",
+                  "answer_start": 31
+                }
+              ]
+            },
+            {
+              "question": "How many of the vaccinces authorised by the who and ema will be accepted?",
+              "answers": [
+                {
+                  "text": "All vaccines",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "All vaccines authorised by the European Medicines Agency (EMA) and the World Health Organization (WHO) will be accepted."
+        }
+      ]
+    }
+  ]
+}

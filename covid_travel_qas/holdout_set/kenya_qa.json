@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "In kenya, what requires a covid vaccine ?",
+              "answers": [
+                {
+                  "text": "access transport, state offices, hotels, bars, restaurants",
+                  "answer_start": 42
+                }
+              ]
+            },
+            {
+              "question": "Are there any restrictions on internal travel in kenya?",
+              "answers": [
+                {
+                  "text": "There are currently no restrictions on travel within Kenya",
+                  "answer_start": 140
+                }
+              ]
+            },
+            {
+              "question": "What time must bars close?",
+              "answers": [
+                {
+                  "text": "Bars are permitted to operate until 11pm",
+                  "answer_start": 523
+                }
+              ]
+            },
+            {
+              "question": "What is the maximum number of guests you can invite to a wedding in kenya?",
+              "answers": [
+                {
+                  "text": "100",
+                  "answer_start": 708
+                }
+              ]
+            }
+          ],
+          "context": "Proof of COVID-19 vaccination required to access transport, state offices, hotels, bars, restaurants (Reuters, 23.12.2021).Travel in Kenya: There are currently no restrictions on travel within Kenya. You do not need a COVID-19 negative test to board domestic flights within Kenya. Public places and services: Public transport in Kenya is now able to operate at full capacity. Restaurants and eateries may open to customers, provided they comply with Government of Kenya public health protocols including social distancing. Bars are permitted to operate until 11pm. All public and political gatherings are prohibited. The maximum number of persons permitted to attend weddings and funerals has been capped at 100, with all in attendance expected to abide by Ministry of Health protocols."
+        }
+      ]
+    }
+  ]
+}

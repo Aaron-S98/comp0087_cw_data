@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a test before i travel to kyrgyzstan?",
+              "answers": [
+                {
+                  "text": "A negative PCR test from no more than 72 hours before your arrival by air is now needed for foreign citizens to enter Kyrgyzstan",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Are shops open in kyrgyzstan?",
+              "answers": [
+                {
+                  "text": "Businesses and public spaces in Kyrgyzstan have now reopened",
+                  "answer_start": 162
+                }
+              ]
+            }
+          ],
+          "context": "A negative PCR test from no more than 72 hours before your arrival by air is now needed for foreign citizens to enter Kyrgyzstan regardless of vaccination status.Businesses and public spaces in Kyrgyzstan have now reopened. Businesses may be following additional hygiene and sanitary requirements. You should comply with hygiene and social distancing requirements."
+        }
+      ]
+    }
+  ]
+}

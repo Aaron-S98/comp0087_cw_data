@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to fly with a face mask when visiting peru?",
+              "answers": [
+                {
+                  "text": "Passengers need to wear two face masks on flights bound for Peru",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Do children need to be fully vaccinated before entering peru?",
+              "answers": [
+                {
+                  "text": "All passengers to Peru of 12 years old or more whose final destination is Peru must show evidence of full vaccination received either in Peru or abroad or a negative COVID-19 PCR",
+                  "answer_start": 178
+                }
+              ]
+            }
+          ],
+          "context": "Passengers need to wear two face masks on flights bound for Peru and must  <a href=\"https://e-notificacion.migraciones.gob.pe/dj-salud/\">complete an affidavit before travel</a>. All passengers to Peru of 12 years old or more whose final destination is Peru must show evidence of full vaccination received either in Peru or abroad or a negative COVID-19 PCR (molecular) test, issued a maximum of 48 hours before the flight departs. Those under 12 years old must be without COVID-19 symptoms but do not require a test or proof of vaccination. These rules are subject to change at short notice. You should arrange to take a private test. Land borders for international passenger transit remain closed for foreign nationals and non-residents in Peru. If you want to enter or leave Peru by land from any of these countries, you must request a special permit from the Peruvian Ministry of Foreign Affairs, and in some cases to the Ministry of Foreign Affairs of your country of origin/destination. This may change at short notice, so you should check what restrictions are in place before you plan a trip to Peru by land."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who needs a pcr test when entering zimbabwe?",
+              "answers": [
+                {
+                  "text": "Tourists and returning residents",
+                  "answer_start": 446
+                }
+              ]
+            },
+            {
+              "question": "Do i need to fill out any forms when entering zimbabwe?",
+              "answers": [
+                {
+                  "text": "You will be required to complete track and trace information on arrival in Zimbabwe",
+                  "answer_start": 660
+                }
+              ]
+            },
+            {
+              "question": "How old does my test have to be when entering zimbabwe?",
+              "answers": [
+                {
+                  "text": "issued no more than 48 hours before their departure to Zimbabwe",
+                  "answer_start": 235
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Zimbabwe: If you wish to extend or renew visas or permits, you must do so via the relevant Government of Zimbabwe department. Testing/screening on arrival: Those entering Zimbabwe must possess a negative COVID-19 test result, issued no more than 48 hours before their departure to Zimbabwe. You should arrange to take a private test. Check with your carrier before flying to confirm any additional requirements. Quarantine requirements: Tourists and returning residents in possession of a valid negative PCR test certificate, issued no more than 48 hours before their departure to Zimbabwe, are not required to quarantine on arrival. Data collection: You will be required to complete track and trace information on arrival in Zimbabwe. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to quarantine on arrival?",
+              "answers": [
+                {
+                  "text": "not required to quarantine on arrival",
+                  "answer_start": 585
+                }
+              ]
+            },
+            {
+              "question": "Where do i extend my zimbabwean visa?",
+              "answers": [
+                {
+                  "text": "via the relevant Government of Zimbabwe department",
+                  "answer_start": 64
+                }
+              ]
+            }
+          ],
+          "context": "If you wish to extend or renew visas or permits, you must do so via the relevant Government of Zimbabwe department. Testing/screening on arrival: Those entering Zimbabwe must possess a negative COVID-19 test result, issued no more than 48 hours before their departure to Zimbabwe. You should arrange to take a private test. Check with your carrier before flying to confirm any additional requirements. Quarantine requirements: Tourists and returning residents in possession of a valid negative PCR test certificate, issued no more than 48 hours before their departure to Zimbabwe, are not required to quarantine on arrival. Data collection: You will be required to complete track and trace information on arrival in Zimbabwe. "
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to take a covid-19 test to travel to gabon?",
+              "answers": [
+                {
+                  "text": "All passengers travelling to Gabon must present a valid negative polymerase chain reaction (PCR) test",
+                  "answer_start": 163
+                }
+              ]
+            },
+            {
+              "question": "Will i have to quarantine on arrival to gabon?",
+              "answers": [
+                {
+                  "text": "passengers must have a confirmed quarantine hotel reservation for 5 days",
+                  "answer_start": 381
+                }
+              ]
+            },
+            {
+              "question": "Will i need to take a covid test on arrival to gabon?",
+              "answers": [
+                {
+                  "text": "all passengers must take a compulsory test for COVID-19 at Libreville Airport",
+                  "answer_start": 466
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Gabon: The Government of Gabon has now eased flight restrictions have eased to allow five flights per airline, per week. Land and sea borders are closed. All passengers travelling to Gabon must present a valid negative polymerase chain reaction (PCR) test no older than 72 hours and 3 days or a valid COVID-19 vaccination certificate for entry into Gabon. Before arrival, passengers must have a confirmed quarantine hotel reservation for 5 days.On arrival, all passengers must take a compulsory test for COVID-19 at Libreville Airport at their own expense (CFA20,000)."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i book a hotel in gabon?",
+              "answers": [
+                {
+                  "text": "Hotels have reopened",
+                  "answer_start": 389
+                }
+              ]
+            },
+            {
+              "question": "Are there restrictions on going to restaurants in gabon?",
+              "answers": [
+                {
+                  "text": "A valid negative COVID-19 test or vaccination certificate is compulsory for access to restaurants",
+                  "answer_start": 492
+                }
+              ]
+            }
+          ],
+          "context": "Travel in Gabon: The Gabonese government has extended the state of health emergency indefinitely. Domestic flight restrictions now allow five flights per airline per week.There is a daily curfew from 9pm to 5am. People holding a Laissez-Passer (a pass issued to people carrying out essential services during curfew hours) will have to renew this via a new internet platform.Accommodation: Hotels have reopened.Public places and services: Markets have reopened as normal.Restaurants are open. A valid negative COVID-19 test or vaccination certificate is compulsory for access to restaurants and to public administration offices, except supermarkets, banks and schools. Standard tests are currently free of charge with results released after 3-5 days. The VIP faster option, with results available within 24 hours is currently charged at CFA 20,000."
+        }
+      ]
+    }
+  ]
+}

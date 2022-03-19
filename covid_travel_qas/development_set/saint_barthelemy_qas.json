@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which countries make up the border?",
+              "answers": [
+                {
+                  "text": "the French and Dutch territories ",
+                  "answer_start": 35
+                }
+              ]
+            },
+            {
+              "question": "What can travel freely between the 2 sides of the island?",
+              "answers": [
+                {
+                  "text": "people and goods may travel freely between the two sides of the island",
+                  "answer_start": 86
+                }
+              ]
+            },
+            {
+              "question": "What kind of border is between the territories on the island?",
+              "answers": [
+                {
+                  "text": "no physical border between the French and Dutch territories on the island",
+                  "answer_start": 8
+                }
+              ]
+            }
+          ],
+          "context": "There\u2019s no physical border between the French and Dutch territories on the island and people and goods may travel freely between the two sides of the island.  "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What replacement will do if i don't have a printed text available?",
+              "answers": [
+                {
+                  "text": "a handwritten copy of the text",
+                  "answer_start": 24
+                }
+              ]
+            }
+          ],
+          "context": "You are able to produce a handwritten copy of the text if you do not have access to a printed form. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What times are beach access permitted?",
+              "answers": [
+                {
+                  "text": "from 5:00 am until 6:00 pm daily",
+                  "answer_start": 24
+                }
+              ]
+            },
+            {
+              "question": "What may only be accessed from 5:00 am until 6:00 pm daily?",
+              "answers": [
+                {
+                  "text": "Beaches",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Beaches may be accessed from 5:00 am until 6:00 pm daily. "
+        }
+      ]
+    }
+  ]
+}

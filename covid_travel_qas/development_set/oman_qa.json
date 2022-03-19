@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a pcr before arrival in oman?",
+              "answers": [
+                {
+                  "text": "Foreign nationals arriving in Oman must: present a certificate with QR code confirming a negative PCR test result",
+                  "answer_start": 181
+                }
+              ]
+            },
+            {
+              "question": "What happens if i have a positive pcr result before travel to oman?",
+              "answers": [
+                {
+                  "text": "If you have recovered from COVID-19 and have a positive PCR test result, you will be required to show proof that you have completed the required isolation period in the country you have travelled from",
+                  "answer_start": 366
+                }
+              ]
+            }
+          ],
+          "context": "If you are unsure if you meet the requirements (or consider you have exceptional circumstances) to enter Oman please speak to your nearest Oman Embassy and/or your sponsor in Oman. Foreign nationals arriving in Oman must: present a certificate with QR code confirming a negative PCR test result (this test must be taken no more than 72 hours before arrival in Oman. If you have recovered from COVID-19 and have a positive PCR test result, you will be required to show proof that you have completed the required isolation period in the country you have travelled from"
+        }
+      ]
+    }
+  ]
+}

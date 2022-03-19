@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does travelling to england require a vaccine?",
+              "answers": [
+                {
+                  "text": "Requires a vaccine",
+                  "answer_start": 22
+                }
+              ]
+            },
+            {
+              "question": "What kind of test is needed ?",
+              "answers": [
+                {
+                  "text": "PCR",
+                  "answer_start": 47
+                }
+              ]
+            },
+            {
+              "question": "When does this test need to be taken?",
+              "answers": [
+                {
+                  "text": "prior to travel",
+                  "answer_start": 63
+                }
+              ]
+            }
+          ],
+          "context": "Travelling to England requires a vaccine and a PCR test, taken prior to travel."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where do i need to wear a mask?",
+              "answers": [
+                {
+                  "text": "on a buses and trains",
+                  "answer_start": 26
+                }
+              ]
+            },
+            {
+              "question": "What is mask wearing ?",
+              "answers": [
+                {
+                  "text": "mandatory",
+                  "answer_start": 16
+                }
+              ]
+            },
+            {
+              "question": "What variety of transport does mask wearing impact ?",
+              "answers": [
+                {
+                  "text": "public ",
+                  "answer_start": 29
+                }
+              ]
+            }
+          ],
+          "context": "Mask wearing is mandatory on public transport such as on buses and trains."
+        }
+      ]
+    }
+  ]
+}

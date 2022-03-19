@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When were restrictions introduced in russia?",
+              "answers": [
+                {
+                  "text": "On 18 March 2020 the Russian government introduced restrictions",
+                  "answer_start": 17
+                }
+              ]
+            },
+            {
+              "question": "What were temporary restrictions placed on?",
+              "answers": [
+                {
+                  "text": " entry and exit via Russia\u2019s land borders",
+                  "answer_start": 189
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Russia: On 18 March 2020 the Russian government introduced restrictions on entry into the whole country for almost all foreign citizens. On 30 March 2020, temporary restrictions on entry and exit via Russia\u2019s land borders were enforced."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "From which countries will entry not be permitted?",
+              "answers": [
+                {
+                  "text": "Botswana, Eswatini, Hong Kong, Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania and Zimbabwe",
+                  "answer_start": 148
+                }
+              ]
+            },
+            {
+              "question": "From when will entry not be permitted if you visited south africa in the last 14 days?",
+              "answers": [
+                {
+                  "text": "Starting from 10 December 2021",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Starting from 10 December 2021, entry into Russia is not allowed for any passengers arriving from, or having visited during the last fourteen days, Botswana, Eswatini, Hong Kong, Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania and Zimbabwe."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "If i have not done pcr test, what should i do within 48 hours from arrival?",
+              "answers": [
+                {
+                  "text": "have the test done within 48 hours from their arrival",
+                  "answer_start": 74
+                }
+              ]
+            },
+            {
+              "question": "What must i do until i receive a negative pcr test?",
+              "answers": [
+                {
+                  "text": "self-isolate until they receive a negative PCR test",
+                  "answer_start": 132
+                }
+              ]
+            },
+            {
+              "question": "What should someone do if they arrive in russia without a negative pcr test?",
+              "answers": [
+                {
+                  "text": "have the test done within 48 hours from their arrival and self-isolate until they receive a negative PCR test",
+                  "answer_start": 74
+                }
+              ]
+            }
+          ],
+          "context": "If a passenger arrives in Russia without a negative PCR test, they should have the test done within 48 hours from their arrival and self-isolate until they receive a negative PCR test. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the rules for hqs visa holders to do upon arrival?",
+              "answers": [
+                {
+                  "text": "highly Qualified Specialist (HQS) visa holders are no longer required to self-isolate for 14 days on arrival in Russia",
+                  "answer_start": 58
+                }
+              ]
+            },
+            {
+              "question": "What are the rules for permanent work purposes ?",
+              "answers": [
+                {
+                  "text": "arriving for permanent work purposes including highly Qualified Specialist (HQS) visa holders are no longer required to self-isolate for 14 days",
+                  "answer_start": 11
+                }
+              ]
+            }
+          ],
+          "context": "Passengers arriving for permanent work purposes including highly Qualified Specialist (HQS) visa holders are no longer required to self-isolate for 14 days on arrival in Russia."
+        }
+      ]
+    }
+  ]
+}

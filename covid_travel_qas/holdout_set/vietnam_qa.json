@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Can i exit vietnam without an exit visa?",
+              "answers": [
+                {
+                  "text": "Going to the airport without an exit visa will result in you being denied boarding for your flight",
+                  "answer_start": 257
+                }
+              ]
+            },
+            {
+              "question": "Are vietnamese visas limitless?",
+              "answers": [
+                {
+                  "text": "Vietnamese visit visas are issued to foreign nationals for a limited duration",
+                  "answer_start": 357
+                }
+              ]
+            },
+            {
+              "question": "What is at risk if i over stay my visa?",
+              "answers": [
+                {
+                  "text": "you may be delayed from travel until a fine is paid",
+                  "answer_start": 737
+                }
+              ]
+            }
+          ],
+          "context": "If you now plan to leave Vietnam permanently and entered before 1 March 2020 without undergoing mandatory quarantine or treatment for COVID-19, you should contact your local immigration office in order to apply for your exit visa and pay any overstay fees. Going to the airport without an exit visa will result in you being denied boarding for your flight. Vietnamese visit visas are issued to foreign nationals for a limited duration and on the basis that visitors must leave on or before the date of expiry. Those who come to Vietnam to work are required to apply for a work visa / permit. You should check the visa validity and conditions carefully. Overstaying your Vietnamese visit visa or working illegally is a serious matter and you may be delayed from travel until a fine is paid, deported and may be prevented from visiting Vietnam in the future. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What should i do before travelling regionally in vietnam?",
+              "answers": [
+                {
+                  "text": "check with your travel provider and/or accommodation what requirements are in place",
+                  "answer_start": 49
+                }
+              ]
+            },
+            {
+              "question": "Does social distancing protocol differ from one region to another in vietnam?",
+              "answers": [
+                {
+                  "text": "Social distancing rules remain in place in many places across Vietnam",
+                  "answer_start": 321
+                }
+              ]
+            },
+            {
+              "question": "Do i need to wear a mask?",
+              "answers": [
+                {
+                  "text": "Mask wearing is compulsory in public settings",
+                  "answer_start": 429
+                }
+              ]
+            }
+          ],
+          "context": "Before travelling to another province you should check with your travel provider and/or accommodation what requirements are in place, both where you are travelling to and on return. Some provinces may require negative COVID-19 tests to be obtained before and/or after entry and some may impose periods of self-isolation. Social distancing rules remain in place in many places across Vietnam and you should follow these strictly. Mask wearing is compulsory in public settings. Those not wearing masks may be liable to spot fines."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How fast do covif rules change in vietnam?",
+              "answers": [
+                {
+                  "text": "The measures to combat COVID-19 vary from province to province and can change at short notice",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What color corresponds to high risk?",
+              "answers": [
+                {
+                  "text": "Orange",
+                  "answer_start": 303
+                }
+              ]
+            },
+            {
+              "question": "What does a yellow categorisation signify?",
+              "answers": [
+                {
+                  "text": "medium risk",
+                  "answer_start": 331
+                }
+              ]
+            },
+            {
+              "question": "What information do i need to carry on me in vietnam?",
+              "answers": [
+                {
+                  "text": "You should also ensure that you have your ID/passport with you",
+                  "answer_start": 579
+                }
+              ]
+            }
+          ],
+          "context": "The measures to combat COVID-19 vary from province to province and can change at short notice. Vietnam has introduced a colour-coded categorisation to identify high risk COVID areas across Vietnam. These categories can vary between provinces and within cities. The categories are: Red (very high risk), Orange (high risk), Yellow (medium risk) and Green (normal). The Vietnamese authorities regularly review the categorisations. Restrictions will differ depending on the categorisation of particular districts within cities. You should be ready to comply with local authorities. You should also ensure that you have your ID/passport with you. "
+        }
+      ]
+    }
+  ]
+}

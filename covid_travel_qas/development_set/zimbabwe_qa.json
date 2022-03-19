@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a covid-19 test to fly to zimbabwe?",
+              "answers": [
+                {
+                  "text": "Testing/screening on arrival: Tourists, residents and citizens entering Zimbabwe must possess a negative COVID-19 test result, issued no more than 48 hours before their departure to Zimbabwe. They could be required to undergo a further PCR test on arrival.",
+                  "answer_start": 135
+                }
+              ]
+            }
+          ],
+          "context": "Entry to Zimbabwe: If you wish to extend or renew visas or permits, you must do so via the relevant Government of Zimbabwe department. Testing/screening on arrival: Tourists, residents and citizens entering Zimbabwe must possess a negative COVID-19 test result, issued no more than 48 hours before their departure to Zimbabwe. They could be required to undergo a further PCR test on arrival."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to quarantine in zimbabwe?",
+              "answers": [
+                {
+                  "text": "On arrival, all returning residents and visitors could be required to isolate for 10 days at a Ministry of Health approved facility at their own cost.",
+                  "answer_start": 568
+                }
+              ]
+            },
+            {
+              "question": "Is there a track and trace program in zimbabwe?",
+              "answers": [
+                {
+                  "text": "You will be required to complete track and trace information on arrival in Zimbabwe.",
+                  "answer_start": 736
+                }
+              ]
+            }
+          ],
+          "context": "Zimbabwe has announced its intention to use the African Union Trusted Travel process for validating COVID-19 tests for passengers. All passengers arriving in, departing from or transiting Zimbabwe should validate their COVID-19 RT PCR test via the Union Trusted Travel or UNDP Global Haven systems. These systems will generate a digital Trusted Travel reference code for your test, which should be presented upon request. You should arrange to take a private test. Check with your carrier before flying to confirm any additional requirements. Quarantine requirements: On arrival, all returning residents and visitors could be required to isolate for 10 days at a Ministry of Health approved facility at their own cost. Data collection: You will be required to complete track and trace information on arrival in Zimbabwe."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the requirements for leaving zimbabwe?",
+              "answers": [
+                {
+                  "text": "On leaving Zimbabwe, you will be required to present a negative COVID-19 PCR certificate, issued no more than 48 hours prior to boarding your flight.",
+                  "answer_start": 18
+                }
+              ]
+            },
+            {
+              "question": "What pcr tests are valid for zimbabwe?",
+              "answers": [
+                {
+                  "text": "All passengers arriving in, departing from or transiting Zimbabwe should validate their COVID-19 RT PCR test via the African Union Trusted Travel or UNDP Global Haven systems. These systems will generate a digital Trusted Travel reference code for your test, which should be presented upon request.",
+                  "answer_start": 299
+                }
+              ]
+            }
+          ],
+          "context": "Exiting Zimbabwe: On leaving Zimbabwe, you will be required to present a negative COVID-19 PCR certificate, issued no more than 48 hours prior to boarding your flight. Zimbabwe has announced its intention to use the African Union Trusted Travel process for validating Covid-19 tests for passengers. All passengers arriving in, departing from or transiting Zimbabwe should validate their COVID-19 RT PCR test via the African Union Trusted Travel or UNDP Global Haven systems. These systems will generate a digital Trusted Travel reference code for your test, which should be presented upon request."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to wear a face mask in zimbabwe?",
+              "answers": [
+                {
+                  "text": "It is compulsory to wear a face mask covering the nose and mouth whenever you are outside of your home.",
+                  "answer_start": 343
+                }
+              ]
+            },
+            {
+              "question": "Is there a curfew in zimbabwe?",
+              "answers": [
+                {
+                  "text": "There is a curfew between 9pm and 6am, which is being enforced by the security services.",
+                  "answer_start": 174
+                }
+              ]
+            }
+          ],
+          "context": "Travel in Zimbabwe: Zimbabwe currently has a number of exceptional measures in place to respond to the COVID-19 pandemic. You are encouraged to defer any unnecessary travel. There is a curfew between 9pm and 6am, which is being enforced by the security services. You should comply with these requirements wherever you are staying in Zimbabwe. It is compulsory to wear a face mask covering the nose and mouth whenever you are outside of your home. Public transport is limited. Intercity travel is permitted. All journeys operate under current COVID-19 restrictions. Tourists are authorised to travel between airports and designated tourist facilities. Be sure to take confirmation of your bookings with you when travelling."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are face masks required in zimbabwe?",
+              "answers": [
+                {
+                  "text": "Everyone in a public place must observe social distancing and wear a face mask.",
+                  "answer_start": 193
+                }
+              ]
+            },
+            {
+              "question": "Do i need to social distance in zimbabwe?",
+              "answers": [
+                {
+                  "text": "Everyone in a public place must observe social distancing and wear a face mask.",
+                  "answer_start": 193
+                }
+              ]
+            },
+            {
+              "question": "Are social gatherings allowed in zimbabwe?",
+              "answers": [
+                {
+                  "text": "Gatherings are limited to 100 people.",
+                  "answer_start": 155
+                }
+              ]
+            },
+            {
+              "question": "Are there curfews or lockdowns in zimbabwe?",
+              "answers": [
+                {
+                  "text": "Non-essential businesses can only open between 7am and 7pm. Restaurants, bars and nightclubs can open to fully vaccinated customers, subject to strict adherence to COVID-19 protocols, until 7pm. In addition to these national restrictions, localised lockdowns can be enforced at short notice.",
+                  "answer_start": 273
+                }
+              ]
+            }
+          ],
+          "context": "Accommodation: You should ensure you have accommodation for the period of your stay, as some hotels may close at short notice. Public spaces and services: Gatherings are limited to 100 people. Everyone in a public place must observe social distancing and wear a face mask. Non-essential businesses can only open between 7am and 7pm. Restaurants, bars and nightclubs can open to fully vaccinated customers, subject to strict adherence to COVID-19 protocols, until 7pm. In addition to these national restrictions, localised lockdowns can be enforced at short notice."
+        }
+      ]
+    }
+  ]
+}

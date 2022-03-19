@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What must all travellers have when arriving in rwanda?",
+              "answers": [
+                {
+                  "text": "All travelers arriving in Rwanda must have a negative COVID-19 certificate",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is the only accepted test?",
+              "answers": [
+                {
+                  "text": "The only accepted test is a SARS-CoV 2 Real Time Polymerase Chain Reaction (RT-PCR)",
+                  "answer_start": 76
+                }
+              ]
+            },
+            {
+              "question": "When must the accepted test be performed?",
+              "answers": [
+                {
+                  "text": "performed within 72 hours prior to departure",
+                  "answer_start": 160
+                }
+              ]
+            }
+          ],
+          "context": "All travelers arriving in Rwanda must have a negative COVID-19 certificate. The only accepted test is a SARS-CoV 2 Real Time Polymerase Chain Reaction (RT-PCR) performed within 72 hours prior to departure (meaning travelers must be tested and get results within 3 days of their first flight). Other tests, such as Rapid Diagnostics Tests (RDTs), are not accepted."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are covid-19 tests mandatory for children under 5 years of age?",
+              "answers": [
+                {
+                  "text": "COVID-19 tests are not mandatory for accompanied children under 5 years",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What test should eligible travellers take?",
+              "answers": [
+                {
+                  "text": "take a private test",
+                  "answer_start": 150
+                }
+              ]
+            },
+            {
+              "question": "What age bracket counts as an incoming eligible traveller?",
+              "answers": [
+                {
+                  "text": "Incoming travelers eligible (aged 12 years and above)",
+                  "answer_start": 73
+                }
+              ]
+            }
+          ],
+          "context": "COVID-19 tests are not mandatory for accompanied children under 5 years. Incoming travelers eligible (aged 12 years and above). You should arrange to take a private test."
+        }
+      ]
+    }
+  ]
+}

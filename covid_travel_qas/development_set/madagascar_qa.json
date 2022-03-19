@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need a covid-19 vaccine to visit madagascar?",
+              "answers": [
+                {
+                  "text": "COVID-19 vaccination is not a requirement for entry",
+                  "answer_start": 208
+                }
+              ]
+            },
+            {
+              "question": "Do i need to a test on arrival to madagascar?",
+              "answers": [
+                {
+                  "text": "COVID-19 test on arrival at Ivato International Airport",
+                  "answer_start": 572
+                }
+              ]
+            }
+          ],
+          "context": "Madagascars borders are open to limited regional flights and limited commercial and charter flights from Europe. Private flights require advance permissions from the Presidency and Prime Minister\u00e2\u20ac\u2122s office. COVID-19 vaccination is not a requirement for entry.To enter Madagascar you will need to provide proof of a negative PCR test taken within 72 hours of travel. You should arrange to take a private test. You will also be required to make an advance hotel booking for two nights and pay in advance for at least one night for quarantine after your arrival, and take a COVID-19 test on arrival at Ivato International Airport"
+        }
+      ]
+    }
+  ]
+}

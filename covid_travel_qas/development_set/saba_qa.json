@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When will regular flights for passengers from the us resume?",
+              "answers": [
+                {
+                  "text": "Saba has not yet announced when regular flights for passengers from the United States will resume",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "When does saba estimate regular flights for us passengers will resume?",
+              "answers": [
+                {
+                  "text": "the Saba government estimates it should not be expected before 1 October 2020",
+                  "answer_start": 103
+                }
+              ]
+            }
+          ],
+          "context": "Saba has not yet announced when regular flights for passengers from the United States will resume, but the Saba government estimates it should not be expected before 1 October 2020"
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which borders are not open for non-essential travel?",
+              "answers": [
+                {
+                  "text": "The borders of Bonaire and Saba",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "The borders of Bonaire and Saba are currently not open for non-essential travel."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "For travel to st eustatius, what are travellers subject to?",
+              "answers": [
+                {
+                  "text": "travellers are subject to border screening (health & travel history) and a 14-day quarantine",
+                  "answer_start": 29
+                }
+              ]
+            },
+            {
+              "question": "When must a c19 test be taken ?",
+              "answers": [
+                {
+                  "text": "before entering the country and on day 12 of quarantine",
+                  "answer_start": 190
+                }
+              ]
+            },
+            {
+              "question": "What type of questionnaire must be taken?",
+              "answers": [
+                {
+                  "text": "a travel questionnaire",
+                  "answer_start": 147
+                }
+              ]
+            }
+          ],
+          "context": " For travel to St Eustatius, travellers are subject to border screening (health & travel history) and a 14-day quarantine. They must also complete a travel questionnaire and take a C19 test before entering the country and on day 12 of quarantine. "
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the isolation rules for residents of saba?",
+              "answers": [
+                {
+                  "text": "Residents of Saba are able to return home to Saba but will have to go into self-quarantine for 14 days",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Where can residents go upon arrival to saba?",
+              "answers": [
+                {
+                  "text": "return home",
+                  "answer_start": 30
+                }
+              ]
+            }
+          ],
+          "context": "Residents of Saba are able to return home to Saba but will have to go into self-quarantine for 14 days, no matter which country they are returning from."
+        }
+      ]
+    }
+  ]
+}

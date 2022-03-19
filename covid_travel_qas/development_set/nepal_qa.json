@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What documents do i need upon arrival in nepal?",
+              "answers": [
+                {
+                  "text": "hen flying to Nepal from or through the UK, you will need to present certain documentation: a certificate showing a negative Reverse Transcription Polymerase Chain Reaction (RT-PCR) test",
+                  "answer_start": 1
+                }
+              ]
+            },
+            {
+              "question": "Where can i find the travel forms for nepal?",
+              "answers": [
+                {
+                  "text": "Online International Travel Arrival Form. See <ahref=\"https://www.ccmc.gov.np/\">ARMS-DIMS</a> ",
+                  "answer_start": 499
+                }
+              ]
+            }
+          ],
+          "context": "When flying to Nepal from or through the UK, you will need to present certain documentation: a certificate showing a negative Reverse Transcription Polymerase Chain Reaction (RT-PCR) test, taken within 72 hours of flight of first departure. a visa or prior approval document. Those certified vaccinated, can secure a visa on arrival. a travel insurance document which covers health, immediate crisis, or rescue for the duration of your travel. a barcode generated from the online application of the Online International Travel Arrival Form. See <ahref=\"https://www.ccmc.gov.np/\">ARMS-DIMS</a> "
+        }
+      ]
+    }
+  ]
+}

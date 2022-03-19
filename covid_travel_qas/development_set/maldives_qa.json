@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What countries are on maldives travel ban list?",
+              "answers": [
+                {
+                  "text": "entry is suspended for the travellers traveling from South Africa, Botswana, Namibia, Zimbabwe, Mozambique, Lesotho and Eswatini",
+                  "answer_start": 33
+                }
+              ]
+            },
+            {
+              "question": "Do i need a covid test to enter the maldives?",
+              "answers": [
+                {
+                  "text": "All visitors (except children under the age of one) must present a negative PCR test for COVID-19 on arrival to Maldives",
+                  "answer_start": 391
+                }
+              ]
+            }
+          ],
+          "context": "Effective from 28 November 2021, entry is suspended for the travellers traveling from South Africa, Botswana, Namibia, Zimbabwe, Mozambique, Lesotho and Eswatini (by air and sea). Entry restriction also applies to the travellers who have been to these countries during the past 14 days and those who have transited in these countries for more than 12 hours before traveling to the Maldives. All visitors (except children under the age of one) must present a negative PCR test for COVID-19 on arrival to Maldives. The test and negative PCR certificate must be issued no more than 96 hours prior to departure. You should arrange to take a private test.All travellers to the Maldives must fill in a \"https://imuga.immigration.gov.mv/ethd/create\" 48 hours before departure to and return from the Maldives."
+        }
+      ]
+    }
+  ]
+}

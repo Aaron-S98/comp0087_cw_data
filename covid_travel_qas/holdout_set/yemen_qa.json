@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are borders closed in yemen?",
+              "answers": [
+                {
+                  "text": "The majority of land sea and air ports are closed until further notice",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How long is quarantine for staff?",
+              "answers": [
+                {
+                  "text": "14 days",
+                  "answer_start": 161
+                }
+              ]
+            },
+            {
+              "question": "How can a un staff member be exempt of quarantine?",
+              "answers": [
+                {
+                  "text": "PCR test result issued at most 72 hours before departure",
+                  "answer_start": 627
+                }
+              ]
+            },
+            {
+              "question": "How recent does the covid test have to be?",
+              "answers": [
+                {
+                  "text": "at most 72 hours before departure",
+                  "answer_start": 651
+                }
+              ]
+            }
+          ],
+          "context": "The majority of land sea and air ports are closed until further notice.  For Sana\\u2019a please refer to the UNHAS schedule, and staff should go for a mandatory 14 days self-isolation in the United Nations Common Accommodation Facility (UNCAF). Please note that there is a staff ceiling, quarantine requirements and a very limited accommodation that affect the UNHAS bookings to Sana\\u2019a. For Aden, please refer to the UNHAS schedule, and staff should go for a mandatory 14 days self-isolation in the WFP guest house. New update: the staff member who can provide a medical certificate with a negative coronavirus (COVID-19) PCR test result issued at most 72 hours before departure, should consult UN clinic upon arrival to Aden and if approved by UN clinic the 14 days self-isolation will be exempted. Please note that there is a staff ceiling, quarantine requirements and a very limited accommodation that affect the UNHAS bookings to Aden."
+        }
+      ]
+    }
+  ]
+}

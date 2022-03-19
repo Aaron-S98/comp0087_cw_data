@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who have the covid-19 entry rules been lifted for?",
+              "answers": [
+                {
+                  "text": "for travelers from other countries",
+                  "answer_start": 40
+                }
+              ]
+            },
+            {
+              "question": "Who will travel restrictions be lifted for?",
+              "answers": [
+                {
+                  "text": "Authorities will lift travel restrictions for foreign nationals",
+                  "answer_start": 76
+                }
+              ]
+            },
+            {
+              "question": "From traveling where are travel restrictions lifted?",
+              "answers": [
+                {
+                  "text": "traveling to Sweden from other Nordic and EU countries",
+                  "answer_start": 140
+                }
+              ]
+            }
+          ],
+          "context": "Government to lift COVID-19 entry rules for travelers from other countries. Authorities will lift travel restrictions for foreign nationals traveling to Sweden from other Nordic and EU countries."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who imposes new rules?",
+              "answers": [
+                {
+                  "text": "Government imposes new entry rules",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What are the new entry rules due to?",
+              "answers": [
+                {
+                  "text": "new entry rules because of current situation in Ukraine",
+                  "answer_start": 19
+                }
+              ]
+            }
+          ],
+          "context": "Government imposes new entry rules because of current situation in Ukraine "
+        }
+      ]
+    }
+  ]
+}

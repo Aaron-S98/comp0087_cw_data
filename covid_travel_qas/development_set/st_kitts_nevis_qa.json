@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What must you be to enter st kitts and nevis?",
+              "answers": [
+                {
+                  "text": "you must be fully vaccinated to enter St Kitts and Nevis",
+                  "answer_start": 57
+                }
+              ]
+            },
+            {
+              "question": "What does fully vacinnated mean?",
+              "answers": [
+                {
+                  "text": "means having received two doses of the vaccine more than 14 days prior to arrival",
+                  "answer_start": 134
+                }
+              ]
+            },
+            {
+              "question": "Who will not be permitted entry?",
+              "answers": [
+                {
+                  "text": "Non-vaccinated adult visitors will not be permitted entry",
+                  "answer_start": 253
+                }
+              ]
+            }
+          ],
+          "context": " If you are not a St Kitts & Nevis national or resident, you must be fully vaccinated to enter St Kitts and Nevis. \u201cFully vaccinated\u201d means having received two doses of the vaccine more than 14 days prior to arrival (or one dose for one-dose vaccines). Non-vaccinated adult visitors will not be permitted entry to St Kitts and Nevis."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What will all travellers be required to undergo upon arrival?",
+              "answers": [
+                {
+                  "text": "a health screening on arrival at the airport",
+                  "answer_start": 598
+                }
+              ]
+            },
+            {
+              "question": "Which kind of documents are not valid?",
+              "answers": [
+                {
+                  "text": "Proof of recovery documents are not valid",
+                  "answer_start": 452
+                }
+              ]
+            },
+            {
+              "question": "Where must the rt-pcr test have been taken?",
+              "answers": [
+                {
+                  "text": "at an ISO 17025/CLIA accredited laboratory",
+                  "answer_start": 232
+                }
+              ]
+            },
+            {
+              "question": "Upon receiving a negative result what should travellers do?",
+              "answers": [
+                {
+                  "text": "On receiving a negative result, travellers should visit https://www.knatravelform.kn/, complete the embarkation form and upload their test results and evidence of vaccination",
+                  "answer_start": 276
+                }
+              ]
+            },
+            {
+              "question": "Which travellers should submit a rt-pcr test?",
+              "answers": [
+                {
+                  "text": "All travellers, including returning nationals, tourists or international travellers must submit a COVID-19 Reverse Transcription Polymerase Chain reaction Laboratory-Based Molecular Test (RT-PCR Test)",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "When must the rt-pcr have been taken?",
+              "answers": [
+                {
+                  "text": "within 72 hours of travel",
+                  "answer_start": 206
+                }
+              ]
+            },
+            {
+              "question": "When visiting the website what do you do?",
+              "answers": [
+                {
+                  "text": "complete the embarkation form and upload their test results and evidence of vaccination",
+                  "answer_start": 363
+                }
+              ]
+            }
+          ],
+          "context": "All travellers, including returning nationals, tourists or international travellers must submit a COVID-19 Reverse Transcription Polymerase Chain reaction Laboratory-Based Molecular Test (RT-PCR Test) done within 72 hours of travel at an ISO 17025/CLIA accredited laboratory. On receiving a negative result, travellers should visit https://www.knatravelform.kn/, complete the embarkation form and upload their test results and evidence of vaccination. Proof of recovery documents are not valid, as a negative RT-PCR within 72 hours of travel is required. All travellers will be required to undergo a health screening on arrival at the airport. "
+        }
+      ]
+    }
+  ]
+}

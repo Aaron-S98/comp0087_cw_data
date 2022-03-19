@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do people from low risk countries need a pcr to visit portugal?",
+              "answers": [
+                {
+                  "text": "Travellers from low risk or moderate risk countries must hold an EUDCC with proof of vaccination, recovery or negative test result.",
+                  "answer_start": 915
+                }
+              ]
+            },
+            {
+              "question": "Where can i find the portugal travel information website?",
+              "answers": [
+                {
+                  "text": "Requirements for travellers entering portugal by land depend on the \"https://www.ecdc.europa.eu/en/covid-19/situation-updates/weekly-maps-coordinated-restriction-free-movement\" target=\"_blank\"",
+                  "answer_start": 671
+                }
+              ]
+            }
+          ],
+          "context": "All travellers aged 12 and above who do not hold an 'EU Digital COVID Certificate' (EUDCC) can enter Portugal by air or by sea if they can provide one of the following: proof of recovery from COVID-19, valid 180 days, issued under reciprocal conditions by one of the following countries: Albania, Andorra, Armenia, El Salvador, Faroe Islands, Georgia, Iceland, Israel, Liechtenstein, Moldova, Monaco, Morocco, New Zealand, North Macedonia, Norway, Panama, San Marino, Singapore, Switzerland, Togo, Turkey, Ukraine, United Kingdom, the Vatican.negative pre-departure test result. Both molecular (PCR - valid 72 hours) and rapid antigen tests (valid 48 hours) are accepted.Requirements for travellers entering portugal by land depend on the \"https://www.ecdc.europa.eu/en/covid-19/situation-updates/weekly-maps-coordinated-restriction-free-movement\" target=\"_blank\" risk classification of their country of departure. Travellers from low risk or moderate risk countries must hold an EUDCC with proof of vaccination, recovery or negative test result.Travellers from red and dark red countries who do not hold an EUDCC can enter Portugal if they provide a negative result to a pre-departure test."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What was reintroduced?",
+              "answers": [
+                {
+                  "text": "negative PCR test requirement for unvaccinated travelers",
+                  "answer_start": 24
+                }
+              ]
+            },
+            {
+              "question": "For whom was the requirement bought in for?",
+              "answers": [
+                {
+                  "text": "for unvaccinated travelers using domestic, international flights, public transport",
+                  "answer_start": 54
+                }
+              ]
+            },
+            {
+              "question": "Who introduced this requirement?",
+              "answers": [
+                {
+                  "text": "Authorities",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Authorities reintroduce negative PCR test requirement for unvaccinated travelers using domestic, international flights, public transport"
+        }
+      ]
+    }
+  ]
+}

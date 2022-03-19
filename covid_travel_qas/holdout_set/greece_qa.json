@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are there travel restrictions if transiting in the eu?",
+              "answers": [
+                {
+                  "text": "As a general rule, passengers in transit in the EU+ area are exempted from temporary travel restrictions.",
+                  "answer_start": 460
+                }
+              ]
+            },
+            {
+              "question": "What are the travel restrictions for eu citizens travelling within the eu?",
+              "answers": [
+                {
+                  "text": "EU citizens entering the EU from a third country, as well as their family members, irrespective of their nationality, are exempted from the travel restrictions",
+                  "answer_start": 565
+                }
+              ]
+            }
+          ],
+          "context": "All travellers aged 5 or older can enter Greece without further restrictions (testing or quarantine) if they can provide certificates meeting the same requirements listed above for the 'EU Digital COVID Certificate'.All certificates must include critical information (number of doses, dates, etc.) in Greek, English, German, French, Italian Spanish or Russian. The holder's full name must match the name on the passport or any other recognised travel document.As a general rule, passengers in transit in the EU+ area are exempted from temporary travel restrictions.EU citizens entering the EU from a third country, as well as their family members, irrespective of their nationality, are exempted from the travel restrictions regardless of whether or not they are returning to their country of nationality or residence."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Are hotels open again in greece?",
+              "answers": [
+                {
+                  "text": "All hotels are permitted to open, and other types of accommodation, including e.g. Airbnb, private rentals and hostels, are also available.",
+                  "answer_start": 272
+                }
+              ]
+            },
+            {
+              "question": "Will i need to wear a face mask in greece?",
+              "answers": [
+                {
+                  "text": "It is mandatory to wear a mask in all indoor public spaces, in all areas of Greece.",
+                  "answer_start": 753
+                }
+              ]
+            }
+          ],
+          "context": "Travel within Greece between Regional Units is permitted subject to adherence to public health measures as outlined above. You must wear either double masks (at least one of which should be surgical) or an N95/FFP2 mask at all times on all public transport.Accommodation: All hotels are permitted to open, and other types of accommodation, including e.g. Airbnb, private rentals and hostels, are also available. However, you should note that many operators are likely to reduce their offer and close some accommodation during the winter months, particularly in light of measures put in place by the Greek authorities to fight the spread of COVID-19. You should check directly with your accommodation provider in case of related concerns.Wearing a mask: It is mandatory to wear a mask in all indoor public spaces, in all areas of Greece. In certain areas, such as in supermarkets and pharmacies, and on public transport, you will be required to wear either double masks (at least one of which should be surgical)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How long can i stay in latvia if i am on a connecting flight?",
+              "answers": [
+                {
+                  "text": "Persons crossing Latvia in transit must leave Latvia within 12 hours",
+                  "answer_start": 194
+                }
+              ]
+            },
+            {
+              "question": "Do i need a certificate to travel within latvia?",
+              "answers": [
+                {
+                  "text": "If you are entering premises that require a COVID-19 certificate in Latvia, please download and use the QR code designed for travel",
+                  "answer_start": 715
+                }
+              ]
+            }
+          ],
+          "context": "Entry is allowed to foreigners transiting through the territory of Latvia on their return to their country of residence. Quarantine does not apply to persons who cross the territory in transit. Persons crossing Latvia in transit must leave Latvia within 12 hours from the submission of the certification questionnaire on the \"https://covidpass.lv/\" target=\"_blank\" rel=\"noopener\".The fine for not wearing a facemask when required is 50 Euros. Latvia will accept the proof of COVID-19 recovery and vaccination record. If you are travelling with a printed PDF proof of vaccination status, it must date from 1 November to ensure that the certificate can be scanned successfully, if domestic certification is required. If you are entering premises that require a COVID-19 certificate in Latvia, please download and use the QR code designed for travel. Your appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status. If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there."
+        }
+      ]
+    }
+  ]
+}

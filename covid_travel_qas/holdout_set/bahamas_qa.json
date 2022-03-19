@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to wear a mask to enter a restaurant?",
+              "answers": [
+                {
+                  "text": "Face masks must be worn in any public space and must be worn for entry into supermarkets, pharmacies and businesses",
+                  "answer_start": 60
+                }
+              ]
+            },
+            {
+              "question": "Do my mask need to cover my nose?",
+              "answers": [
+                {
+                  "text": "Face masks or coverings must cover your nose and mouth",
+                  "answer_start": 177
+                }
+              ]
+            },
+            {
+              "question": "Are there limits on gatherings in the bahamas?",
+              "answers": [
+                {
+                  "text": "Social gatherings are subject to restrictions",
+                  "answer_start": 289
+                }
+              ]
+            },
+            {
+              "question": "Do visitors need to pay tests in the bahamas?",
+              "answers": [
+                {
+                  "text": "Visitors may incur the cost of quarantine and testing in government designated quarantine facilities",
+                  "answer_start": 909
+                }
+              ]
+            },
+            {
+              "question": "How much distance must i maintain to respect social distancing protocol?",
+              "answers": [
+                {
+                  "text": "Socially distancing is set at 6ft apart",
+                  "answer_start": 336
+                }
+              ]
+            }
+          ],
+          "context": "The following measures are in place throughout the Bahamas: Face masks must be worn in any public space and must be worn for entry into supermarkets, pharmacies and businesses. Face masks or coverings must cover your nose and mouth; face mask must also be visible and easily identifiable. Social gatherings are subject to restrictions. Socially distancing is set at 6ft apart. You may be required to stand or sit in a designated area according to the social distancing measures in place in a particular location. Hand washing and/or hand sanitizing is required upon entry into public buildings and private establishments. A security guard may ask you to wash your hands or they may spray your hands with a disinfectant. Health officers can order persons to be detained for screening and assessment and may order isolation or quarantine on reasonable grounds in order to prevent further spread of the disease. Visitors may incur the cost of quarantine and testing in government designated quarantine facilities."
+        }
+      ]
+    }
+  ]
+}

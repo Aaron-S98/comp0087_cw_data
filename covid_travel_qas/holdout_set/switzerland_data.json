@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What has happend for arrivals?",
+              "answers": [
+                {
+                  "text": "Authorities lift travel restrictions for arrivals",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ],
+          "context": "Authorities lift travel restrictions for arrivals"
+        }
+      ]
+    }
+  ]
+}

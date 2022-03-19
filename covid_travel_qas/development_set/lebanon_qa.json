@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do children need a pcr test to visit Lebanon?",
+              "answers": [
+                {
+                  "text": "All passengers travelling to Lebanon (apart from children under 12 years old) must have a negative PCR result",
+                  "answer_start": 419
+                }
+              ]
+            },
+            {
+              "question": "Do i need to register before coming to lebanon?",
+              "answers": [
+                {
+                  "text": "All passengers arriving in Lebanon must register on the \"http://pass.moph.gov.lb/\".",
+                  "answer_start": 217
+                }
+              ]
+            }
+          ],
+          "context": "Beiruts Rafik Hariri international airport is open and there are direct and indirect commercial flights operating daily. There are currently restrictions on passenger capacity as part of COVID-19 mitigation measures. All passengers arriving in Lebanon must register on the \"http://pass.moph.gov.lb/\". Ministry of Public Health (MOPH) platform to obtain a MOPH pass (children under the age of 12 and UNIFIL are exempt). All passengers travelling to Lebanon (apart from children under 12 years old) must have a negative PCR result from a test conducted within the 48 hours before boarding in the country of origin, regardless of vaccination status."
+        }
+      ]
+    }
+  ]
+}

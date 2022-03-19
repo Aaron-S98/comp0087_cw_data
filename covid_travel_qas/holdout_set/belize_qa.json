@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do vaccinated travellers need a test to enter belize?",
+              "answers": [
+                {
+                  "text": "Fully vaccinated visitors no longer require a negative COVID test",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What do fully vaccinated travellers need to provide when entering belize?",
+              "answers": [
+                {
+                  "text": "must show proof of immunisation for entry",
+                  "answer_start": 70
+                }
+              ]
+            },
+            {
+              "question": "What happens if i test positive when entering belize?",
+              "answers": [
+                {
+                  "text": "you will be required to undertake a mandatory quarantine at an approved quarantine hotel",
+                  "answer_start": 577
+                }
+              ]
+            }
+          ],
+          "context": "Fully vaccinated visitors no longer require a negative COVID test but must show proof of immunisation for entry at Belize airport, land borders or sea ports. If unable to show proof of being fully vaccinated or if unvaccinated, you must present a negative result from a PCR test taken within the 72 hours prior to arrival or an approved rapid antigen test (home testing kits are not accepted) taken within the 48 hours prior to arrival, or a test can be administered at the airport for a fee of BZ$100 (which must be paid in cash). If you receive a positive result on arrival, you will be required to undertake a mandatory quarantine at an approved quarantine hotel at your own expense."
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do i need to pay for the local travel insurrance even if i already have personal insurrance?",
+              "answers": [
+                {
+                  "text": "this is mandatory even if you already have personal travel insurance",
+                  "answer_start": 175
+                }
+              ]
+            },
+            {
+              "question": "How long does the belize travel health insurance last?",
+              "answers": [
+                {
+                  "text": "It covers up to a 21 day stay",
+                  "answer_start": 375
+                }
+              ]
+            }
+          ],
+          "context": "The Ministry of Health will monitor each case. A negative test is required as proof of recovery. Foreign tourists are required to pay BZ$36 for Belize Travel Health Insurance this is mandatory even if you already have personal travel insurance and helps protect against incurred medical and non-medical expenses should you test positive for COVID during your stay in Belize. It covers up to a 21 day stay; an extended coverage can be purchased if you are staying longer."
+        }
+      ]
+    }
+  ]
+}
