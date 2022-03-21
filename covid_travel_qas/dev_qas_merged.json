@@ -44,7 +44,7 @@
               "question": "Are albanian land borders open?",
               "answers": [
                 {
-                  "text": "Land borders are open",
+                  "text": "land borders are open",
                   "answer_start": 55
                 }
               ]
@@ -431,7 +431,7 @@
               "question": "What armenian land borders are open?",
               "answers": [
                 {
-                  "text": "Borders with Georgia and Iran",
+                  "text": "borders with Georgia and Iran",
                   "answer_start": 46
                 }
               ]
@@ -2645,7 +2645,7 @@
               "question": "Does travelling to england require a vaccine?",
               "answers": [
                 {
-                  "text": "Requires a vaccine",
+                  "text": "requires a vaccine",
                   "answer_start": 22
                 }
               ]
