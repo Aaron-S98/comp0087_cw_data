@@ -18,7 +18,7 @@
               "answers": [
                 {
                   "text": "A negative COVID-19 test is required for travelling to Australia",
-                  "answer_start": 326
+                  "answer_start": 327
                 }
               ]
             },
@@ -27,7 +27,7 @@
               "answers": [
                 {
                   "text": "you will be required to provide proof of COVID-19 vaccination",
-                  "answer_start": 838
+                  "answer_start": 839
                 }
               ]
             },
@@ -1413,7 +1413,7 @@
               "answers": [
                 {
                   "text": "at most 72 hours before departure",
-                  "answer_start": 651
+                  "answer_start": 650
                 }
               ]
             }
