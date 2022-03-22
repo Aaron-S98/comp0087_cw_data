@@ -1,1 +1,2 @@
+models/V1_covid_finetuned_distillbert_c.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
